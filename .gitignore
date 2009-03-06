@@ -6,3 +6,4 @@ postsync.d
 profile
 savedconfig
 sets
+.keep*
