@@ -1,0 +1,7 @@
+=x11-drivers/ati-drivers-8.552-r2
+#=dev-libs/gmime-2.2.23
+=x11-drivers/ati-drivers-8.561
+=media-video/stk11xx-1.4.0
+~x11-drivers/ati-drivers-8.573
+~x11-drivers/ati-drivers-8.582
+~x11-drivers/nvidia-drivers-180.35

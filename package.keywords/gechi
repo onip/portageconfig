@@ -1,0 +1,10 @@
+app-portage/portage-bashrc-ng
+app-portage/forcekeymask
+app-portage/elogv
+app-portage/elogviewer
+app-mobilephone/sidesms ~x86
+app-portage/bashrcng-core
+app-portage/bashrcng-shmfs
+virtual/bashrcng
+app-portage/bashrcng
+app-admin/eselect-bashrcng

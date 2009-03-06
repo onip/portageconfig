@@ -1,0 +1,4 @@
+CFLAGS="-O1 -march=i686 -g -ggdb"
+CXXFLAGS="${CFLAGS}"
+LDFLAGS="-Wl,-O1"
+FEATURES="nostrip"

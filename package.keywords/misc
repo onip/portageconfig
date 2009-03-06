@@ -1,0 +1,36 @@
+x11-terms/tilda ~x86
+net-print/hplip ~x86
+media-sound/tuxguitar ~x86
+~gnome-extra/nautilus-share-0.6.4
+~gnome-extra/nautilus-share-0.7.2
+app-editors/bluefish
+~media-gfx/fontforge-20070607
+app-misc/klive
+x11-drivers/nvidia-drivers
+app-portage/ewo
+~media-libs/libexif-gtk-0.3.5
+~gnome-extra/gnome-games-extra-data-2.14.0
+media-gfx/gimp
+~app-cdr/k3b-1.0.5
+~app-portage/autounmask-0.21
+dev-util/weka
+media-sound/mhwaveedit
+net-www/netscape-flash
+~app-text/nopaste-2835
+~net-print/foomatic-filters-3.0.20080507
+~net-irc/xchat-2.8.6
+media-video/nvidia-settings
+~dev-perl/PortageXS-0.02.08
+dev-java/sun-jdk:1.6
+#mplayer
+~media-libs/x264-0.0.20080819
+=media-plugins/live-2008.09.02 ~x86
+~app-text/ghostscript-gpl-8.63
+~media-libs/libquicktime-1.1.0
+~media-video/transcode-1.0.7
+~media-sound/sox-14.2.0
+~sys-apps/hdparm-9.6
+~dev-util/scons-1.2.0
+~dev-util/cmake-2.6.2
+~gnome-base/libgnomeui-2.24.0
+~media-libs/libmms-0.4

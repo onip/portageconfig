@@ -1,0 +1,14 @@
+media-video/cheese
+~media-libs/gst-plugins-base-0.10.19
+~media-libs/gst-plugins-base-0.10.17
+~dev-libs/liboil-0.3.14
+~media-libs/gstreamer-0.10.19
+~media-plugins/gst-plugins-theora-0.10.17
+~media-plugins/gst-plugins-pango-0.10.17
+~media-plugins/gst-plugins-v4l2-0.10.7
+~media-plugins/gst-plugins-v4l2-0.10.6
+~media-plugins/gst-plugins-v4l-0.10.17
+~media-plugins/gst-plugins-ogg-0.10.17
+~media-plugins/gst-plugins-vorbis-0.10.17
+~media-libs/gst-plugins-ugly-0.10.8
+~media-libs/gst-plugins-bad-0.10.7

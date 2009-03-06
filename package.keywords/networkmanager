@@ -1,0 +1,4 @@
+net-misc/networkmanager
+gnome-extra/nm-applet
+>=dev-libs/libnl-1.0_pre6
+net-misc/dhcdbd
