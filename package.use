@@ -168,3 +168,4 @@ games-misc/fretsonfire guitarhero
 dev-php/PEAR-MDB2 mysql mysqli postgres sqlite
 dev-ruby/rails fastcgi
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
+app-portage/layman subversion
