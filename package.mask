@@ -5,3 +5,4 @@
 ~x11-drivers/ati-drivers-8.573
 ~x11-drivers/ati-drivers-8.582
 ~x11-drivers/nvidia-drivers-180.35
+=x11-libs/libxklavier-3.8
