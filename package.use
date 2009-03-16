@@ -19,6 +19,7 @@ media-libs/pdflib java
 media-plugins/audacious-plugins musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler
 media-sound/audacious chardet libsamplerate
 dev-util/subversion -java -apache2 -berkdb -dso
+gnome-base/gnome-control-center -sound
 sys-apps/man-pages -nls
 x11-misc/xscreensaver -gnome
 sci-mathematics/maxima -gcl clisp latex
@@ -149,7 +150,7 @@ dev-dotnet/mono-zeroconf -avahi
 =media-libs/libquicktime-1.0.2 -ffmpeg
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
 gnome-base/gnome-volume-manager -automount
-gnome-base/gvfs -bluetooth cdda fuse gphoto2
+gnome-base/gvfs archive -bluetooth cdda fuse gphoto2
 app-crypt/seahorse applet gedit
 dev-perl/PortageXS minimal
 dev-util/git cvs bash-completion doc subversion tk vim-syntax webdav
