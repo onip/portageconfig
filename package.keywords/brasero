@@ -1,3 +1,4 @@
-~app-cdr/brasero-0.8.4
-~dev-libs/libburn-0.5.8
-~dev-libs/libisofs-0.6.12
+~app-cdr/brasero-2.26.0
+~dev-libs/libburn-0.6.4
+~dev-libs/libisofs-0.6.16
+~app-cdr/cdrdao-1.2.2-r3
