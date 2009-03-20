@@ -27,7 +27,5 @@ dev-dotnet/mysql-connector-net
 ~dev-dotnet/glib-sharp-2.12.8
 ~dev-dotnet/gluezilla-2.2
 virtual/monodoc
-~dev-dotnet/gtksourceview-sharp-2.24.0
-~x11-libs/gtksourceview-2.4.2
-~dev-util/monodevelop-debugger-gdb-1.9.2
-~dev-util/monodevelop-debugger-mdb-1.9.2
+dev-util/monodevelop-debugger-gdb
+dev-util/monodevelop-debugger-mdb
