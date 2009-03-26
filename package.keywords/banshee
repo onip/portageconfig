@@ -18,3 +18,4 @@ media-sound/banshee
 ~media-plugins/gst-plugins-mad-0.10.10
 ~media-libs/gst-plugins-base-0.10.21
 ~x11-misc/notification-daemon-0.4.0
+~x11-libs/libnotify-0.4.5
