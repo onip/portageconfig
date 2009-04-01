@@ -1,4 +1,4 @@
-media-video/mplayer aalib amrnb amrwb bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa
+media-video/mplayer aalib amrnb amrwb bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac
 sys-apps/hal -crypt
 sys-apps/pmount -crypt
 net-misc/neon expat

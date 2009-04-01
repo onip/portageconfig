@@ -34,3 +34,4 @@ dev-java/sun-jdk:1.6
 ~dev-util/cmake-2.6.2
 ~gnome-base/libgnomeui-2.24.0
 ~media-libs/libmms-0.4
+~media-video/mplayer-1.0_rc2_p20090322
