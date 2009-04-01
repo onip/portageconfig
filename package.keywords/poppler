@@ -1,3 +1,5 @@
 ~app-text/poppler-0.10.5
 ~app-text/poppler-bindings-0.10.5
 ~virtual/poppler-0.10.5
+~virtual/poppler-glib-0.10.5
+~virtual/poppler-utils-0.10.5
