@@ -35,7 +35,7 @@ x11-libs/cairo glitz pdf #cleartype
 media-video/gnome-mplayer -ipod
 sci-electronics/ng-spice-rework xspice
 media-libs/tiff jbig
-net-www/mplayerplug-in divx gmedia realmedia wmp
+www-plugins/mplayerplug-in divx gmedia realmedia wmp
 media-video/ffmpeg amr imlib network
 media-video/transcode network -gtk mjpeg fame v4l2
 =media-video/transcode-1.0.3 network -gtk mjpeg fame v4l2 -imagemagick

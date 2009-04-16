@@ -15,7 +15,7 @@ media-gfx/gimp
 ~app-portage/autounmask-0.21
 dev-util/weka
 media-sound/mhwaveedit
-net-www/netscape-flash
+www-plugins/adobe-flash
 ~app-text/nopaste-2835
 ~net-print/foomatic-filters-3.0.20080507
 ~net-irc/xchat-2.8.6
