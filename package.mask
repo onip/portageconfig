@@ -1,2 +1,1 @@
 =x11-libs/libxklavier-3.8
-=x11-drivers/ati-drivers-8.582
