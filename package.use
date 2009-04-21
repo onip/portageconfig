@@ -171,3 +171,5 @@ dev-ruby/rails fastcgi
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
 app-portage/layman subversion
 dev-ruby/eruby vim-syntax
+dev-db/postgresql-base doc
+dev-db/postgresql-server doc

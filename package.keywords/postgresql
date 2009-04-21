@@ -1,2 +1,5 @@
-~dev-db/postgresql-8.2.7
-~dev-db/libpq-8.2.7
+~dev-db/postgresql-server-8.3.7
+~virtual/postgresql-server-8.3
+~dev-db/postgresql-base-8.3.7
+~app-admin/eselect-postgresql-0.3
+~dev-db/postgresql-docs-8.3.7
