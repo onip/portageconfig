@@ -6,7 +6,7 @@ games-strategy/freeciv
 games-arcade/nogravity
 games-fps/sauerbraten
 games-arcade/smc
-~dev-games/cegui-0.5.0b
+~dev-games/cegui-0.6.2b
 ~dev-util/boost-build-1.34.1
 ~dev-libs/boost-1.34.1
 games-fps/quake3-wop-bin
