@@ -36,7 +36,7 @@ media-video/gnome-mplayer -ipod
 sci-electronics/ng-spice-rework xspice
 media-libs/tiff jbig
 www-plugins/mplayerplug-in divx gmedia realmedia wmp
-media-video/ffmpeg amr imlib network -sse3
+media-video/ffmpeg amr imlib network
 media-video/transcode network -gtk mjpeg fame v4l2
 =media-video/transcode-1.0.3 network -gtk mjpeg fame v4l2 -imagemagick
 media-plugins/gimp-resynthesizer gimp
