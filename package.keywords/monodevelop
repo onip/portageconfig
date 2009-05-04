@@ -19,13 +19,13 @@ dev-util/monodevelop-database
 dev-lang/boo
 dev-dotnet/ikvm
 dev-dotnet/mysql-connector-net
-~dev-util/mono-debugger-2.2
+dev-util/mono-debugger
 ~dev-dotnet/gtk-sharp-gapi-2.12.8
 ~dev-dotnet/atk-sharp-2.12.8
 ~dev-dotnet/gdk-sharp-2.12.8
 ~dev-dotnet/pango-sharp-2.12.8
 ~dev-dotnet/glib-sharp-2.12.8
-~dev-dotnet/gluezilla-2.4
+dev-dotnet/gluezilla
 virtual/monodoc
 dev-util/monodevelop-debugger-gdb
 dev-util/monodevelop-debugger-mdb
