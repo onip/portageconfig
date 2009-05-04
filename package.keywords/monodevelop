@@ -25,7 +25,7 @@ dev-dotnet/mysql-connector-net
 ~dev-dotnet/gdk-sharp-2.12.8
 ~dev-dotnet/pango-sharp-2.12.8
 ~dev-dotnet/glib-sharp-2.12.8
-~dev-dotnet/gluezilla-2.2
+~dev-dotnet/gluezilla-2.4
 virtual/monodoc
 dev-util/monodevelop-debugger-gdb
 dev-util/monodevelop-debugger-mdb
