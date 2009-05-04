@@ -1,2 +1,3 @@
 media-video/rtmpdump
 dev-python/suds
+net-misc/throttle
