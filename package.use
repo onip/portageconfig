@@ -76,7 +76,7 @@ media-gfx/gtkam gimp
 media-libs/libwmf gd
 app-editors/gvim bash-completion cscope
 app-editors/vim bash-completion cscope vim-with-x
-sys-block/gparted ntfs
+sys-block/gparted ntfs fat
 sys-fs/ntfsprogs fuse
 media-sound/exaile cdaudio libnotify libsexy musepack equalizer
 www-client/mozilla-firefox mozbranding xforms mozdevelop
