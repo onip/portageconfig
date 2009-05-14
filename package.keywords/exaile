@@ -1,8 +1,5 @@
 media-sound/exaile
-~dev-python/gst-python-0.10.8
 ~dev-python/sexy-python-0.1.9
-~media-plugins/gst-plugins-musepack-0.10.4
 ~dev-python/notify-python-0.1.1
 ~dev-python/pysqlite-2.3.5
-~media-libs/gst-plugins-bad-0.10.5
 dev-python/pymtp
