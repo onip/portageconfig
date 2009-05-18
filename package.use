@@ -174,3 +174,4 @@ app-portage/layman subversion
 dev-ruby/eruby vim-syntax
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
+media-gfx/comix rar
