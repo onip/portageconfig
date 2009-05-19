@@ -1,6 +1,6 @@
-x11-terms/tilda ~x86
-net-print/hplip ~x86
-media-sound/tuxguitar ~x86
+x11-terms/tilda
+net-print/hplip
+media-sound/tuxguitar
 ~gnome-extra/nautilus-share-0.6.4
 ~gnome-extra/nautilus-share-0.7.2
 app-editors/bluefish
@@ -24,7 +24,7 @@ media-video/nvidia-settings
 dev-java/sun-jdk:1.6
 #mplayer
 ~media-libs/x264-0.0.20080819
-=media-plugins/live-2008.09.02 ~x86
+=media-plugins/live-2008.09.02
 ~app-text/ghostscript-gpl-8.63
 ~media-libs/libquicktime-1.1.0
 ~media-video/transcode-1.0.7
