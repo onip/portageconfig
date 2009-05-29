@@ -9,3 +9,4 @@ media-sound/banshee
 ~x11-misc/notification-daemon-0.4.0
 ~x11-libs/libnotify-0.4.5
 ~dev-dotnet/nant-0.86_beta1
+~sys-apps/sg3_utils-1.27
