@@ -43,7 +43,7 @@ media-plugins/gimp-resynthesizer gimp
 media-gfx/xsane gimp
 media-gfx/sane-frontends gimp
 media-libs/win32codecs real
-dev-java/sun-jdk nsplugin
+dev-java/sun-jdk derby nsplugin
 dev-libs/libcdio cddb
 media-sound/lame -gtk
 media-libs/smpeg -gtk
