@@ -4,3 +4,4 @@ x11-plugins/pidgin-facebookchat
 x11-plugins/pidgin-otr
 net-libs/libotr
 x11-plugins/pidgin-msn-pecan
+~dev-libs/json-glib-0.6.2
