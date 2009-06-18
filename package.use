@@ -16,7 +16,7 @@ media-sound/easytag aac wavpack
 app-text/evince nautilus djvu dvi t1lib
 sci-visualization/gnuplot gd pdf plotutils latex wxwindows
 media-libs/pdflib java
-media-plugins/audacious-plugins musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler
+media-plugins/audacious-plugins musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
 media-sound/audacious chardet libsamplerate
 dev-util/subversion -java -apache2 -berkdb -dso
 gnome-base/gnome-control-center -sound
