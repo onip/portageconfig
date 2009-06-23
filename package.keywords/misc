@@ -37,3 +37,4 @@ dev-java/sun-jdk:1.6
 ~media-video/mplayer-1.0_rc2_p20090525
 ~media-video/mplayer-1.0_rc2_p20090530
 ~app-text/pdftk-1.41
+gnome-extra/guake
