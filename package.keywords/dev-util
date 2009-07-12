@@ -5,3 +5,4 @@ dev-util/git
 
 # MERCURIAL
 dev-util/mercurial
+dev-util/bzr
