@@ -2,3 +2,8 @@ media-video/dvdstyler
 media-video/devede
 ~app-cdr/dvdisaster-0.71.26
 ~media-libs/wxsvg-1.0
+
+# per media-video/devede
+~x11-libs/gtk+-2.16.5
+~dev-libs/glib-2.20.4
+~dev-util/gtk-doc-am-1.11
