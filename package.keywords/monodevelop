@@ -29,3 +29,4 @@ dev-dotnet/gluezilla
 virtual/monodoc
 dev-util/monodevelop-debugger-gdb
 dev-util/monodevelop-debugger-mdb
+~dev-libs/libedit-20090722.3.0
