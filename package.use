@@ -14,7 +14,7 @@ app-cdr/k3b css musepack musicbrainz vcd sndfile
 media-libs/xine-lib aalibasf dxr3 musepack real wavpack vidix xvmc
 media-sound/easytag aac wavpack
 app-text/evince nautilus djvu dvi t1lib
-sci-visualization/gnuplot gd pdf plotutils latex wxwindows
+sci-visualization/gnuplot gd pdf plotutils latex wxwidgets
 media-libs/pdflib java
 media-plugins/audacious-plugins musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
 media-sound/audacious chardet libsamplerate
