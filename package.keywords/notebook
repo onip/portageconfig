@@ -1,6 +1,11 @@
-app-laptop/acpi4asus
 gnome-extra/gsynaptics
 sys-auth/pam_keyring
 sys-power/iasl
 media-video/stk11xx
 sys-power/suspend
+sys-apps/hwinfo
+~media-sound/alsa-driver-1.0.20
+~media-sound/alsa-headers-1.0.20
+~media-sound/alsa-utils-1.0.20
+~media-libs/alsa-lib-1.0.20
+=sys-kernel/tuxonice-sources-2.6.30-r4
