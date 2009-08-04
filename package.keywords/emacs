@@ -1,0 +1,3 @@
+~app-editors/emacs-23.1
+=virtual/emacs-23
+~app-emacs/tramp-2.1.16
