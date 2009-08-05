@@ -1,3 +1,4 @@
 dev-db/postgresql-base:8.2
 virtual/postgresql-base:8.2
 dev-ruby/wirble
+dev-lang/ruby:1.8
