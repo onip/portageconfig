@@ -175,3 +175,4 @@ dev-ruby/eruby vim-syntax
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
 media-gfx/comix rar
+games-arcade/smc music
