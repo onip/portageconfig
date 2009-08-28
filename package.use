@@ -187,3 +187,4 @@ dev-ruby/rake doc
 dev-ruby/fastthread doc
 dev-ruby/ruby-postgres doc
 dev-ruby/rubygems doc
+media-sound/quodlibet musepack wma trayicon tta
