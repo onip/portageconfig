@@ -9,3 +9,4 @@ sys-apps/hwinfo
 ~media-sound/alsa-utils-1.0.20
 ~media-libs/alsa-lib-1.0.20
 =sys-kernel/tuxonice-sources-2.6.30-r4
+gnome-extra/gnome-color-chooser
