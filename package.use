@@ -70,6 +70,7 @@ net-p2p/amule geoip stats
 net-p2p/amule-cvs stats
 media-video/realplayer -nsplugin
 dev-libs/boost tools expat
+dev-util/mono-tools xulrunner
 dev-util/anjuta devhelp glade inherit-graph sourceview subversion valgrind
 net-p2p/deluge libnotify
 media-gfx/gtkam gimp
