@@ -4,7 +4,7 @@ x11-plugins/pidgin-facebookchat
 x11-plugins/pidgin-otr
 net-libs/libotr
 x11-plugins/msn-pecan
-~dev-libs/json-glib-0.6.2
+~dev-libs/json-glib-0.7.6
 ~net-libs/farsight2-0.0.14
 ~net-libs/libnice-0.0.9
 ~media-libs/gst-plugins-bad-0.10.13
