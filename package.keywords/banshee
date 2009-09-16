@@ -5,7 +5,6 @@ media-sound/banshee
 ~dev-dotnet/dbus-glib-sharp-0.4.1
 ~dev-dotnet/dbus-sharp-0.6.1a
 ~dev-dotnet/mono-zeroconf-0.8.0
-~media-libs/libmtp-0.3.4
 ~x11-misc/notification-daemon-0.4.0
 ~x11-libs/libnotify-0.4.5
 ~dev-dotnet/nant-0.86_beta1
