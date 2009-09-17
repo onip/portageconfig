@@ -1,6 +1,6 @@
-~dev-db/postgresql-server-8.3.7
-~virtual/postgresql-server-8.3
-~virtual/postgresql-base-8.3
-~dev-db/postgresql-base-8.3.7
+~dev-db/postgresql-server-8.4.1
+~virtual/postgresql-server-8.4
+~virtual/postgresql-base-8.4
+~dev-db/postgresql-base-8.4.1
 ~app-admin/eselect-postgresql-0.3
-~dev-db/postgresql-docs-8.3.7
+~dev-db/postgresql-docs-8.4.1
