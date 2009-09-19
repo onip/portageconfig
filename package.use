@@ -189,3 +189,6 @@ dev-ruby/fastthread doc
 dev-ruby/ruby-postgres doc
 dev-ruby/rubygems doc
 media-sound/quodlibet musepack wma trayicon tta
+sys-apps/hal consolekit
+sys-auth/pambase consolekit
+x11-libs/vte glade
