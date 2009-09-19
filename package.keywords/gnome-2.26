@@ -7,8 +7,6 @@
 ~x11-libs/libwnck-2.26.2
 ~x11-libs/libwnck-2.26.2
 ~x11-libs/libwnck-2.26.2
-~gnome-base/gdm-2.26.1
-~gnome-base/gdm-2.20.10
 ~media-gfx/eog-2.26.3
 ~gnome-extra/gnome-system-monitor-2.26.2
 ~gnome-base/gconf-2.26.2
@@ -102,3 +100,6 @@
 ~dev-python/libbonobo-python-2.26.1
 ~dev-python/bug-buddy-python-2.26.0
 ~dev-python/gconf-python-2.26.1
+~gnome-extra/gnome-power-manager-2.26.4
+~sys-apps/devicekit-003
+~sys-apps/devicekit-power-009
