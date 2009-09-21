@@ -97,3 +97,5 @@
 ~gnome-extra/gnome-power-manager-2.26.4
 ~sys-apps/devicekit-003
 ~sys-apps/devicekit-power-009
+~x11-libs/gtk+-2.16.6
+~dev-libs/glib-2.20.5
