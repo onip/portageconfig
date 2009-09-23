@@ -192,3 +192,5 @@ media-sound/quodlibet musepack wma trayicon tta
 sys-apps/hal consolekit
 sys-auth/pambase consolekit
 x11-libs/vte glade
+net-misc/networkmanager avahi resolvconf dhcpcd
+net-dns/avahi autoipd
