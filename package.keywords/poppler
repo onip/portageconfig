@@ -1,5 +1,11 @@
-~app-text/poppler-0.10.5
-~app-text/poppler-bindings-0.10.5
-~virtual/poppler-0.10.5
-~virtual/poppler-glib-0.10.5
-~virtual/poppler-utils-0.10.5
+~app-text/poppler-0.12.0
+~app-text/poppler-bindings-0.12.0
+~virtual/poppler-0.12.0
+~virtual/poppler-glib-0.12.0
+~virtual/poppler-utils-0.12.0
+~dev-libs/poppler-glib-0.12.0
+~dev-libs/poppler-0.12.0
+~app-text/poppler-data-0.12.0
+~app-text/poppler-utils-0.12.0
+~app-text/poppler-data-0.3.0
+~dev-tex/luatex-0.43.0
