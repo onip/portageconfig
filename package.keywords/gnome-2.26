@@ -99,3 +99,4 @@
 ~sys-apps/devicekit-power-009
 ~x11-libs/gtk+-2.16.6
 ~dev-libs/glib-2.20.5
+~app-misc/hal-info-20090716
