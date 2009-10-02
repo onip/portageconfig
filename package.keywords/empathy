@@ -7,3 +7,4 @@ net-libs/libtelepathy
 dev-python/telepathy-python
 dev-python/papyon
 net-irc/telepathy-idle
+net-voip/telepathy-haze
