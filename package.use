@@ -195,3 +195,4 @@ x11-libs/vte glade
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-dns/avahi autoipd
 net-im/empathy applet
+dev-util/mercurial bash-completion
