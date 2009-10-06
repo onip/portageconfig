@@ -62,7 +62,7 @@ app-cdr/brasero totem cdrkit gdl
 dev-util/codeblocks contrib xrc
 sci-electronics/kicad examples doc
 app-cdr/cdrdao -gnome
-app-emulation/wine -ldap glut scanner xcomposite
+app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2
 sys-devel/gcc gcj gtk
 media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu
 app-text/pdftk nodrm
