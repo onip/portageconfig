@@ -17,7 +17,6 @@ media-sound/mhwaveedit
 www-plugins/adobe-flash
 ~app-text/nopaste-2835
 ~net-print/foomatic-filters-3.0.20080507
-~net-irc/xchat-2.8.6
 media-video/nvidia-settings
 ~dev-perl/PortageXS-0.02.08
 dev-java/sun-jdk:1.6
