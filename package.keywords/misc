@@ -42,3 +42,4 @@ gnome-extra/guake
 media-sound/soundconverter
 ~sys-power/acpid-1.0.10_p4
 app-cdr/iat
+net-p2p/transmission
