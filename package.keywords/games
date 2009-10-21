@@ -41,3 +41,4 @@ games-strategy/asc
 ~dev-libs/libsigc++-1.2.7
 games-misc/fretsonfire
 ~dev-python/pyopengl-3.0.0_beta6
+games-strategy/hedgewars
