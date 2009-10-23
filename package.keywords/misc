@@ -6,7 +6,6 @@ media-sound/tuxguitar
 app-editors/bluefish
 ~media-gfx/fontforge-20070607
 app-misc/klive
-x11-drivers/nvidia-drivers
 app-portage/ewo
 ~media-libs/libexif-gtk-0.3.5
 ~gnome-extra/gnome-games-extra-data-2.14.0
@@ -17,7 +16,6 @@ media-sound/mhwaveedit
 www-plugins/adobe-flash
 ~app-text/nopaste-2835
 ~net-print/foomatic-filters-3.0.20080507
-media-video/nvidia-settings
 ~dev-perl/PortageXS-0.02.08
 dev-java/sun-jdk:1.6
 #mplayer
