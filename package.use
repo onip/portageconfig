@@ -81,7 +81,7 @@ sys-block/gparted ntfs fat
 net-misc/wicd -ncurses
 sys-fs/ntfsprogs fuse
 media-sound/exaile cdaudio libnotify libsexy musepack equalizer
-www-client/mozilla-firefox mozbranding xforms mozdevelop
+www-client/mozilla-firefox mozbranding xforms mozdevelop sqlite
 app-cdr/gnomebaker libnotify
 games-emulation/xmame dga joystick net
 games-emulation/gxmame joystick
@@ -196,3 +196,4 @@ net-misc/networkmanager avahi resolvconf dhcpcd
 net-dns/avahi autoipd
 net-im/empathy applet
 dev-util/mercurial bash-completion
+net-libs/xulrunner sqlite
