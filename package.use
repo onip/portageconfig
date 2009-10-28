@@ -196,4 +196,6 @@ net-misc/networkmanager avahi resolvconf dhcpcd
 net-dns/avahi autoipd
 net-im/empathy applet
 dev-util/mercurial bash-completion
+dev-java/ant-apache-bsf -python
+dev-java/bsf -python
 net-libs/xulrunner sqlite
