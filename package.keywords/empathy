@@ -8,3 +8,5 @@ dev-python/telepathy-python
 dev-python/papyon
 net-irc/telepathy-idle
 net-voip/telepathy-haze
+~net-voip/telepathy-connection-managers-1
+~app-text/gnome-doc-utils-0.18.0

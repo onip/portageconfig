@@ -194,7 +194,9 @@ sys-auth/pambase consolekit
 x11-libs/vte glade
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-dns/avahi autoipd
-net-im/empathy applet
+net-im/empathy applet webkit
+net-voip/telepathy-connection-managers irc msn
+www-client/opera -qt-static
 dev-util/mercurial bash-completion
 dev-java/ant-apache-bsf -python
 dev-java/bsf -python
