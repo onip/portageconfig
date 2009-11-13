@@ -7,3 +7,4 @@ sci-mathematics/maxima
 ~sci-visualization/gnuplot-4.2.4
 sci-mathematics/octave-forge-symbolic
 sci-mathematics/octave-forge-odepkg
+~media-fonts/jsmath-1.0
