@@ -1,7 +1,3 @@
-~dev-util/mercurial-1.3.1
-~dev-util/bzr-1.18
-
-# GIT
+~dev-util/bzr-2.0.1
 dev-util/giggle
 dev-util/git
-~sys-devel/libtool-2.2.4

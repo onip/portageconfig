@@ -1,10 +1,6 @@
 sci-mathematics/octave
-~sci-mathematics/glpk-4.35
-~dev-tex/mh-20080407
 sci-mathematics/wxmaxima
 sci-mathematics/maxima
-~dev-lisp/gcl-2.6.7
-~sci-visualization/gnuplot-4.2.4
 sci-mathematics/octave-forge-symbolic
 sci-mathematics/octave-forge-odepkg
 ~media-fonts/jsmath-1.0

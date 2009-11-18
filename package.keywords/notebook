@@ -3,5 +3,4 @@ sys-auth/pam_keyring
 sys-power/iasl
 sys-power/suspend
 sys-apps/hwinfo
-=sys-kernel/tuxonice-sources-2.6.30-r6
 gnome-extra/gnome-color-chooser

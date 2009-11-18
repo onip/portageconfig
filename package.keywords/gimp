@@ -2,7 +2,6 @@ media-gfx/gimp
 media-libs/gegl
 media-libs/babl
 net-print/gutenprint
-~dev-libs/glib-2.18.4
-~dev-util/intltool-0.40.5
-~gnome-base/gail-1000
-~x11-libs/gtk+-2.14.7
+media-gfx/gimp-texturize-plugin
+media-plugins/gimp-greycstoration
+media-plugins/gimp-resynthesizer
