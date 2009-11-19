@@ -127,7 +127,6 @@ x11-libs/gtk+ vim-syntax
 games-strategy/freeciv gtk -sdl
 media-sound/abcde id3 lame musepack
 app-text/acroread -nsplugin
-sys-fs/ntfs3g suid
 dev-util/monodevelop cxx aspnet subversion
 dev-lang/mono moonlight
 media-libs/libquicktime lame
