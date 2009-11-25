@@ -18,3 +18,5 @@ media-sound/soundconverter
 app-cdr/iat
 net-p2p/transmission
 www-client/httrack
+~media-video/ffmpeg-0.5_p20373
+~media-gfx/inkscape-0.47
