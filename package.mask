@@ -1,4 +1,2 @@
-=x11-libs/libxklavier-3.8
-=x11-drivers/nvidia-drivers-180.60
 =dev-util/mono-debugger-2.4.2-r1
 =sci-mathematics/octave-3.2.3-r1
