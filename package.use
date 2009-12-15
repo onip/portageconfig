@@ -48,6 +48,7 @@ media-sound/lame -gtk
 media-libs/smpeg -gtk
 app-text/gocr -gtk
 media-sound/timidity++ -gtk -X
+dev-db/sqlite fts3
 dev-lang/python tk sqlite
 net-im/centericq irc jabber msn
 media-sound/sweep ladspa
