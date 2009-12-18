@@ -200,3 +200,9 @@ dev-util/mercurial bash-completion
 dev-java/ant-apache-bsf -python
 dev-java/bsf -python
 net-libs/xulrunner sqlite
+app-text/texlive-core doc
+dev-texlive/texlive-basic doc
+dev-texlive/texlive-latex doc
+dev-texlive/texlive-latexrecommended doc
+dev-tex/luatex doc
+dev-texlive/texlive-genericrecommended doc
