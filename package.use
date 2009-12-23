@@ -206,3 +206,4 @@ dev-texlive/texlive-latex doc
 dev-texlive/texlive-latexrecommended doc
 dev-tex/luatex doc
 dev-texlive/texlive-genericrecommended doc
+sys-devel/gdb expat
