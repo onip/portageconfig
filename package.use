@@ -194,6 +194,7 @@ x11-libs/vte glade
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-dns/avahi autoipd
 net-im/empathy applet webkit
+media-libs/libdvdread css
 net-voip/telepathy-connection-managers irc msn
 www-client/opera -qt-static
 dev-util/mercurial bash-completion
