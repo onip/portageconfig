@@ -18,7 +18,7 @@
 ~gnome-extra/gnome-utils-2.26.0
 ~net-libs/libsoup-2.26.3
 ~gnome-base/gnome-settings-daemon-2.26.1
-~gnome-base/nautilus-2.26.3
+~gnome-base/nautilus-2.26.4
 ~gnome-extra/zenity-2.26.0
 ~app-arch/file-roller-2.26.3
 ~gnome-base/libgnome-2.26.0
@@ -63,7 +63,7 @@
 ~dev-libs/libgweather-2.26.2.1
 ~net-analyzer/gnome-netstatus-2.26.0
 ~app-crypt/seahorse-2.26.2
-~media-video/totem-2.26.4
+~media-video/totem-2.26.5
 ~gnome-base/libgnomeprint-2.18.6
 ~gnome-base/libgtop-2.26.1
 ~dev-libs/libIDL-0.8.13
