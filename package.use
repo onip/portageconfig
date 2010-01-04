@@ -58,7 +58,7 @@ sci-libs/hdf5 hlapi
 net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
 media-gfx/yafray openexr
 x11-base/xorg-server aiglx
-app-cdr/brasero totem cdrkit gdl
+app-cdr/brasero cdrkit gdl playlist
 dev-util/codeblocks contrib xrc
 sci-electronics/kicad examples doc
 app-cdr/cdrdao -gnome
