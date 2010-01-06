@@ -5,3 +5,4 @@ dev-ruby/wirble
 ~dev-ruby/rake-0.8.7
 dev-lang/ruby:1.8
 ~app-admin/eselect-ruby-20091225
+dev-ruby/ruby-postgres
