@@ -3,3 +3,5 @@ dev-ruby/wirble
 ~www-apache/passenger-2.2.7
 ~dev-ruby/rack-1.0.1
 ~dev-ruby/rake-0.8.7
+dev-lang/ruby:1.8
+~app-admin/eselect-ruby-20091225
