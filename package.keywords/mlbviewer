@@ -1,3 +1,4 @@
 media-video/rtmpdump
 dev-python/suds
 net-misc/throttle
+media-video/flvstreamer
