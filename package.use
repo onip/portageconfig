@@ -52,7 +52,7 @@ dev-db/sqlite fts3
 dev-lang/python tk sqlite
 net-im/centericq irc jabber msn
 media-sound/sweep ladspa
-sci-mathematics/octave blas hdf5 fftw
+sci-mathematics/octave blas hdf5 fftw sparse doc
 media-libs/gd fontconfig xpm
 sci-libs/hdf5 hlapi
 net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot

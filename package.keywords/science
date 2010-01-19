@@ -4,3 +4,5 @@ sci-mathematics/maxima
 sci-mathematics/octave-forge-symbolic
 sci-mathematics/octave-forge-odepkg
 ~media-fonts/jsmath-1.0
+sci-libs/qrupdate
+sci-libs/arpack
