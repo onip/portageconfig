@@ -208,3 +208,5 @@ dev-texlive/texlive-latexrecommended doc
 dev-tex/luatex doc
 dev-texlive/texlive-genericrecommended doc
 sys-devel/gdb expat
+dev-ruby/mkrf doc
+dev-ruby/ruby-opengl doc
