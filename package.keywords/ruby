@@ -1,6 +1,6 @@
 dev-ruby/wirble
-~www-apache/mod_ruby-1.3.0
-~www-apache/passenger-2.2.7
+www-apache/mod_ruby
+www-apache/passenger
 ~dev-ruby/rack-1.0.1
 ~dev-ruby/rake-0.8.7
 dev-lang/ruby:1.8

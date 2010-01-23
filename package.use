@@ -210,3 +210,4 @@ dev-texlive/texlive-genericrecommended doc
 sys-devel/gdb expat
 dev-ruby/mkrf doc
 dev-ruby/ruby-opengl doc
+www-apache/passenger doc
