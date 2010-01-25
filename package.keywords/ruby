@@ -1,8 +1,8 @@
 dev-ruby/wirble
 www-apache/mod_ruby
 www-apache/passenger
-~dev-ruby/rack-1.0.1
-~dev-ruby/rake-0.8.7
+dev-ruby/rack
+dev-ruby/rake
 dev-lang/ruby:1.8
 ~app-admin/eselect-ruby-20091225
 dev-ruby/ruby-postgres
