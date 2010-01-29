@@ -81,7 +81,7 @@ sys-block/gparted ntfs fat
 net-misc/wicd -ncurses
 sys-fs/ntfsprogs fuse
 media-sound/exaile cdaudio libnotify libsexy musepack equalizer
-www-client/mozilla-firefox mozbranding xforms mozdevelop sqlite
+www-client/mozilla-firefox mozbranding xforms mozdevelop sqlite wifi
 app-cdr/gnomebaker libnotify
 games-emulation/xmame dga joystick net
 games-emulation/gxmame joystick
@@ -200,7 +200,7 @@ www-client/opera -qt-static
 dev-util/mercurial bash-completion
 dev-java/ant-apache-bsf -python
 dev-java/bsf -python
-net-libs/xulrunner sqlite
+net-libs/xulrunner sqlite wifi
 app-text/texlive-core doc
 dev-texlive/texlive-basic doc
 dev-texlive/texlive-latex doc
