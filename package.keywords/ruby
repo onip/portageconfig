@@ -6,3 +6,15 @@ dev-ruby/rake
 dev-lang/ruby:1.8
 ~app-admin/eselect-ruby-20091225
 dev-ruby/ruby-postgres
+dev-ruby/ruby-gnome2
+dev-ruby/ruby-gtk2
+dev-ruby/ruby-glib2
+dev-ruby/ruby-gnomecanvas2
+dev-ruby/ruby-gtkglext
+dev-ruby/ruby-opengl
+dev-ruby/ruby-atk
+dev-ruby/ruby-pango
+dev-ruby/ruby-gdkpixbuf2
+dev-ruby/ruby-libart2
+dev-ruby/mkrf
+=media-gfx/autotrace-0.31.1-r4
