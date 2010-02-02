@@ -1,3 +1,3 @@
-dev-java/icedtea6
+dev-java/icedtea:6
 virtual/jdk:1.6
 virtual/icedtea-jdk:1.6

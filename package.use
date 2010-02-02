@@ -211,4 +211,4 @@ sys-devel/gdb expat
 dev-ruby/mkrf doc
 dev-ruby/ruby-opengl doc
 www-apache/passenger doc
-dev-java/icedtea6 doc examples nio2 xrender nsplugin npplugin
+dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
