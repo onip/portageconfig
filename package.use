@@ -212,3 +212,6 @@ dev-ruby/mkrf doc
 dev-ruby/ruby-opengl doc
 www-apache/passenger doc
 dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
+dev-cpp/glibmm doc examples
+dev-cpp/pangomm doc
+dev-cpp/gtkmm doc examples

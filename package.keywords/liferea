@@ -7,3 +7,6 @@
 ~gnome-base/gnome-panel-2.28.0
 ~dev-libs/libgweather-2.28.0
 ~gnome-base/gnome-menus-2.28.0.1
+~dev-cpp/gtkmm-2.18.2
+~dev-cpp/glibmm-2.22.1
+~dev-cpp/pangomm-2.26.0
