@@ -1,3 +1,4 @@
 ~dev-util/bzr-2.0.1
 dev-util/giggle
 dev-util/git
+~sys-devel/autoconf-2.64
