@@ -195,7 +195,7 @@ net-misc/networkmanager avahi resolvconf dhcpcd
 net-dns/avahi autoipd
 net-im/empathy applet webkit
 media-libs/libdvdread css
-net-voip/telepathy-connection-managers irc msn
+net-voip/telepathy-connection-managers irc msn jabber
 www-client/opera -qt-static
 dev-util/mercurial bash-completion
 dev-java/ant-apache-bsf -python
