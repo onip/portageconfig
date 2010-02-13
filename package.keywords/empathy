@@ -10,3 +10,5 @@ net-irc/telepathy-idle
 net-voip/telepathy-haze
 ~net-voip/telepathy-connection-managers-1
 ~app-text/gnome-doc-utils-0.18.0
+net-voip/telepathy-gabble
+~dev-libs/dbus-glib-0.82
