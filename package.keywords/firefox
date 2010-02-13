@@ -1,4 +1,4 @@
 www-client/firefox-bin
 www-client/mozilla-firefox
 net-libs/xulrunner
-~dev-db/sqlite-3.6.21
+~dev-db/sqlite-3.6.22
