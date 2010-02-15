@@ -146,7 +146,7 @@ www-servers/tomcat examples
 media-video/totem -bluetooth
 media-gfx/luxrender sse2
 dev-util/monodevelop-database mysql
-dev-db/mysql extraengine
+dev-db/mysql extraengine embedded
 dev-dotnet/mono-zeroconf -avahi
 =media-libs/libquicktime-1.0.2 -ffmpeg
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate

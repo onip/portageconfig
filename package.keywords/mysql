@@ -1,2 +1,3 @@
-~dev-db/mysql-gui-tools-5.0_p12
-~dev-db/mysql-5.0.84
+~dev-db/mysql-5.0.90
+dev-db/mysql-workbench
+~dev-cpp/ctemplate-0.95
