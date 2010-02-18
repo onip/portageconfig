@@ -45,6 +45,7 @@ media-libs/win32codecs real
 dev-java/sun-jdk derby nsplugin
 dev-libs/libcdio cddb
 media-sound/lame -gtk
+app-portage/eix optimization
 media-libs/smpeg -gtk
 app-text/gocr -gtk
 media-sound/timidity++ -gtk -X
