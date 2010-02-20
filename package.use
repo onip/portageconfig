@@ -3,7 +3,7 @@ sys-apps/hal -crypt
 sys-apps/pmount -crypt
 net-misc/neon expat
 media-video/dvdrip subtitles mplayer -xine
-net-im/pidgin -gnutls msn crypt -custom-flags console
+net-im/pidgin msn crypt console sasl
 media-libs/libsamplerate sndfile fftw
 media-gfx/inkscape inkjar dia postscript jabber
 dev-lang/php fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl sqlite postgres xmlrpc pdo
