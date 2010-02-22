@@ -11,4 +11,6 @@ net-voip/telepathy-haze
 ~net-voip/telepathy-connection-managers-1
 ~app-text/gnome-doc-utils-0.18.0
 net-voip/telepathy-gabble
+net-libs/loudmouth
 ~dev-libs/dbus-glib-0.82
+x11-themes/sound-theme-freedesktop
