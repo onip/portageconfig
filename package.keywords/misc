@@ -22,3 +22,4 @@ www-client/httrack
 ~media-gfx/inkscape-0.47
 ~app-text/asciidoc-8.5.1
 ~app-text/ghostscript-gpl-8.70
+=x11-libs/wxGTK-2.8.10.1-r5
