@@ -9,7 +9,6 @@ media-libs/libsamplerate sndfile fftw
 media-gfx/inkscape inkjar dia postscript jabber
 dev-lang/php fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl sqlite postgres xmlrpc pdo
 www-client/links javascript
-sys-apps/dbus qt3
 x11-libs/wxGTK doc
 app-cdr/k3b css musepack musicbrainz vcd sndfile
 media-libs/xine-lib aalibasf dxr3 musepack real wavpack vidix xvmc
@@ -218,3 +217,7 @@ dev-cpp/glibmm doc examples
 dev-cpp/pangomm doc
 dev-cpp/gtkmm doc examples
 sys-auth/consolekit policykit
+=x11-libs/qt-core-4.6* -exceptions
+=x11-libs/qt-dbus-4.6*
+=x11-libs/qt-gui-4.6* -exceptions
+=x11-libs/qt-script-4.6* -exceptions
