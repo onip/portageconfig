@@ -218,6 +218,6 @@ dev-cpp/pangomm doc
 dev-cpp/gtkmm doc examples
 sys-auth/consolekit policykit
 =x11-libs/qt-core-4.6* -exceptions
-=x11-libs/qt-dbus-4.6*
+=x11-libs/qt-dbus-4.6* -exceptions
 =x11-libs/qt-gui-4.6* -exceptions
 =x11-libs/qt-script-4.6* -exceptions
