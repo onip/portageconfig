@@ -198,7 +198,7 @@ net-im/empathy applet webkit
 media-libs/libdvdread css
 net-voip/telepathy-connection-managers irc msn jabber
 www-client/opera -qt-static
-dev-util/mercurial bash-completion
+dev-vcs/mercurial bash-completion
 dev-java/ant-apache-bsf -python
 dev-java/bsf -python
 net-libs/xulrunner wifi
