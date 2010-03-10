@@ -9,6 +9,7 @@
 ~gnome-extra/gnome-system-monitor-2.26.2
 ~gnome-base/gconf-2.26.2
 ~gnome-base/gnome-session-2.26.2
+~gnome-base/gnome-session-2.28.0
 ~gnome-base/gnome-applets-2.26.3
 ~gnome-extra/gnome-screensaver-2.26.1
 ~app-text/evince-2.26.2
@@ -95,6 +96,7 @@
 ~dev-python/bug-buddy-python-2.26.0
 ~dev-python/gconf-python-2.26.1
 ~gnome-extra/gnome-power-manager-2.26.4
+~gnome-extra/gnome-power-manager-2.28.3
 ~sys-apps/devicekit-003
 ~sys-apps/devicekit-power-009
 ~x11-libs/gtk+-2.16.6
