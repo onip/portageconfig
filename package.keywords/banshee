@@ -6,6 +6,7 @@ media-sound/banshee
 ~dev-dotnet/dbus-sharp-0.6.1a
 ~dev-dotnet/mono-zeroconf-0.8.0
 ~x11-misc/notification-daemon-0.4.0
+dev-dotnet/google-data-sharp
 ~x11-libs/libnotify-0.4.5
 ~dev-dotnet/nant-0.86_beta1
 ~sys-apps/sg3_utils-1.27
