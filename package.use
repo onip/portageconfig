@@ -113,7 +113,7 @@ net-dialup/ppp -gtk
 app-admin/eselect vim-syntax
 =net-misc/openssh-4.6_p1-r2 -ldap
 games-strategy/smac videos
-media-sound/banshee boo daap mtp podcast wikipedia
+media-sound/banshee boo daap mtp podcast wikipedia youtube
 dev-util/scons doc
 net-irc/xchat libnotify
 dev-libs/gmime mono
