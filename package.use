@@ -156,7 +156,7 @@ gnome-base/gnome-volume-manager -automount
 gnome-base/gvfs archive -bluetooth cdda fuse gphoto2
 app-crypt/seahorse applet gedit
 dev-perl/PortageXS minimal
-dev-util/git cvs bash-completion doc subversion tk vim-syntax webdav
+dev-vcs/git cvs bash-completion doc subversion tk vim-syntax webdav
 dev-dotnet/gtk-sharp glade
 app-misc/screen multiuser
 media-gfx/luxrender wxwindows
