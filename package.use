@@ -223,3 +223,4 @@ sys-auth/consolekit policykit
 =x11-libs/qt-gui-4.6* -exceptions
 =x11-libs/qt-script-4.6* -exceptions
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
+gnome-extra/libgsf thumbnail
