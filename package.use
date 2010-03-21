@@ -80,6 +80,7 @@ media-libs/libwmf gd
 app-editors/gvim bash-completion cscope
 app-editors/vim bash-completion cscope vim-with-x
 sys-block/gparted ntfs fat
+sys-apps/parted device-mapper
 net-misc/wicd -ncurses
 sys-fs/ntfsprogs fuse
 media-sound/exaile cdaudio libnotify libsexy musepack equalizer
@@ -153,7 +154,7 @@ dev-dotnet/mono-zeroconf -avahi
 =media-libs/libquicktime-1.0.2 -ffmpeg
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
 gnome-base/gnome-volume-manager -automount
-gnome-base/gvfs archive -bluetooth cdda fuse gphoto2
+gnome-base/gvfs archive -bluetooth cdda fuse gphoto2 gdu
 app-crypt/seahorse applet gedit
 dev-perl/PortageXS minimal
 dev-vcs/git cvs bash-completion doc subversion tk vim-syntax webdav
