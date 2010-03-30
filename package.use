@@ -226,3 +226,5 @@ www-plugins/gecko-mediaplayer -gnome
 =x11-libs/qt-script-4.6* -exceptions
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
 gnome-extra/libgsf thumbnail
+media-gfx/gthumb http raw
+media-gfx/dcraw gimp
