@@ -227,3 +227,5 @@ www-plugins/gecko-mediaplayer -gnome
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
 gnome-extra/libgsf thumbnail
 dev-java/icedtea6-bin doc
+media-gfx/gthumb http raw
+media-gfx/dcraw gimp
