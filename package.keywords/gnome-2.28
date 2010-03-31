@@ -107,7 +107,7 @@
 ~media-plugins/gst-plugins-mpeg2dec-0.10.13
 ~media-plugins/gst-plugins-mad-0.10.13
 ~media-plugins/gst-plugins-lame-0.10.13
-~media-plugins/gst-plugins-gnomevfs-0.10.28
+~media-plugins/gst-plugins-gnomevfs-0.10.25
 ~media-plugins/gst-plugins-gio-0.10.25
 ~media-plugins/gst-plugins-gconf-0.10.17
 ~media-plugins/gst-plugins-flac-0.10.17
