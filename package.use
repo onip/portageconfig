@@ -230,3 +230,16 @@ gnome-extra/libgsf thumbnail
 dev-java/icedtea6-bin doc
 media-gfx/gthumb http raw
 media-gfx/dcraw gimp
+dev-ruby/hoe doc
+dev-ruby/tmail doc
+dev-ruby/json doc
+dev-ruby/builder doc
+dev-ruby/tzinfo doc
+dev-ruby/rake-compiler doc
+dev-ruby/highline doc
+dev-ruby/redcloth doc
+dev-ruby/rubyforge doc
+dev-ruby/rdoc doc
+dev-ruby/rspec doc
+dev-ruby/echoe doc
+dev-ruby/pg doc
