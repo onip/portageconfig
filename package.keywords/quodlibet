@@ -1,4 +1,4 @@
 media-sound/quodlibet
 media-plugins/quodlibet-trayicon
-~media-libs/mutagen-1.16
 media-plugins/quodlibet-cddb
+~media-libs/mutagen-1.19
