@@ -150,7 +150,6 @@ media-video/totem -bluetooth
 media-gfx/luxrender sse2
 dev-util/monodevelop-database mysql
 dev-db/mysql extraengine embedded
-dev-dotnet/mono-zeroconf -avahi
 =media-libs/libquicktime-1.0.2 -ffmpeg
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
 gnome-base/gnome-volume-manager -automount
@@ -195,7 +194,7 @@ sys-apps/hal consolekit policykit
 sys-auth/pambase consolekit
 x11-libs/vte glade
 net-misc/networkmanager avahi resolvconf dhcpcd
-net-dns/avahi autoipd
+net-dns/avahi autoipd mdnsresponder-compat
 net-im/empathy applet webkit
 media-libs/libdvdread css
 net-voip/telepathy-connection-managers irc msn jabber
@@ -243,3 +242,4 @@ dev-ruby/rdoc doc
 dev-ruby/rspec doc
 dev-ruby/echoe doc
 dev-ruby/pg doc
+media-sound/pulseaudio avahi libsamplerate -bluetooth
