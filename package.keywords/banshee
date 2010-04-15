@@ -10,3 +10,5 @@ dev-dotnet/google-gdata-sharp
 ~x11-libs/libnotify-0.4.5
 ~dev-dotnet/nant-0.86_beta1
 ~sys-apps/sg3_utils-1.27
+~media-libs/gst-plugins-base-0.10.28
+~media-libs/gstreamer-0.10.28
