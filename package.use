@@ -245,3 +245,4 @@ dev-ruby/pg doc
 media-sound/pulseaudio avahi libsamplerate -bluetooth
 dev-tex/pgf doc
 dev-tex/latex-beamer doc examples
+dev-libs/crypto++ sse3
