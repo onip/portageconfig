@@ -31,7 +31,7 @@
 ~x11-misc/alacarte-0.12.4
 ~net-misc/vinagre-2.28.1
 ~media-video/totem-2.28.5
-~x11-libs/gtk+-2.18.7
+~dev-libs/glib-2.22.5
 ~x11-libs/gtk+-2.18.9
 ~media-gfx/eog-2.28.2
 ~gnome-base/gnome-keyring-2.28.2
