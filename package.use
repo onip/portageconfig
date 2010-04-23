@@ -225,6 +225,7 @@ www-plugins/gecko-mediaplayer -gnome
 =x11-libs/qt-dbus-4.6* -exceptions
 =x11-libs/qt-gui-4.6* -exceptions
 =x11-libs/qt-script-4.6* -exceptions
+app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
 gnome-extra/libgsf thumbnail
 dev-java/icedtea6-bin doc
