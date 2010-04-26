@@ -1,4 +1,4 @@
-media-video/mplayer aalib amrnb amrwb bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
+media-video/mplayer aalib amrnb amrwb amr bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
 sys-apps/hal -crypt
 sys-apps/pmount -crypt
 net-misc/neon expat
@@ -36,7 +36,7 @@ media-video/gnome-mplayer -ipod
 sci-electronics/ng-spice-rework xspice
 media-libs/tiff jbig
 www-plugins/mplayerplug-in divx gmedia realmedia wmp
-media-video/ffmpeg amr imlib network opencore-amr cpudetection
+media-video/ffmpeg amr imlib network opencore-amr cpudetection faac faad
 media-video/transcode network -gtk mjpeg fame v4l2
 media-plugins/gimp-resynthesizer gimp
 media-gfx/xsane gimp
