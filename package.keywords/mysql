@@ -1,3 +1,4 @@
-~dev-db/mysql-5.0.90
+~dev-db/mysql-5.1.46
+=virtual/mysql-5.1
 dev-db/mysql-workbench
 ~dev-cpp/ctemplate-0.95
