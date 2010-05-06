@@ -104,7 +104,7 @@ dev-lang/spidermonkey threadsafe
 dev-games/cegui devil
 net-print/gutenprint gimp
 dev-util/cmake vim-syntax
-media-gfx/gthumb gphoto2
+media-gfx/gthumb gphoto2 slideshow
 media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
 media-sound/fluidsynth ladspa
 x11-drivers/nvidia-drivers -gtk
@@ -249,3 +249,7 @@ dev-tex/pgf doc
 dev-tex/latex-beamer doc examples
 dev-libs/crypto++ sse3
 dev-python/pygments doc
+media-libs/clutter doc examples
+media-libs/clutter-gtk doc examples
+app-text/docbook-sgml-utils jadetex
+app-text/xmlto latex
