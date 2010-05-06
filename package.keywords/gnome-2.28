@@ -54,7 +54,7 @@
 ~x11-wm/metacity-2.28.1
 ~gnome-base/gnome-settings-daemon-2.28.2
 ~gnome-extra/gconf-editor-2.28.0
-~media-sound/sound-juicer-2.28.1
+~media-sound/sound-juicer-2.28.2
 ~net-voip/ekiga-3.2.6
 ~app-text/evince-2.28.2
 ~app-arch/file-roller-2.28.2
@@ -119,3 +119,4 @@
 ~sys-apps/devicekit-power-014
 ~sys-apps/dbus-1.2.24
 ~dev-util/gtk-doc-am-1.13
+~dev-util/gtk-doc-1.13
