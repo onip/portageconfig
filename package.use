@@ -249,7 +249,3 @@ dev-tex/pgf doc
 dev-tex/latex-beamer doc examples
 dev-libs/crypto++ sse3
 dev-python/pygments doc
-media-libs/clutter doc examples
-media-libs/clutter-gtk doc examples
-app-text/docbook-sgml-utils jadetex
-app-text/xmlto latex
