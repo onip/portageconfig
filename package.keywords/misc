@@ -27,3 +27,4 @@ media-libs/libmtp
 media-sound/vagalume
 app-text/chmsee
 ~media-gfx/graphviz-2.26.3
+~dev-cpp/cairomm-1.8.2
