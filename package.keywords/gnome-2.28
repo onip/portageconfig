@@ -120,3 +120,4 @@
 ~sys-apps/dbus-1.2.24
 ~dev-util/gtk-doc-am-1.13
 ~dev-util/gtk-doc-1.13
+~dev-libs/dbus-glib-0.86
