@@ -3,4 +3,4 @@ app-office/abiword
 app-office/abiword-plugins
 app-text/wv
 app-office/gnumeric
-~x11-libs/goffice-0.8.3
+x11-libs/goffice
