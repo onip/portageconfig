@@ -65,7 +65,7 @@ dev-util/codeblocks contrib xrc
 sci-electronics/kicad examples doc
 app-cdr/cdrdao -gnome
 app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2
-sys-devel/gcc gcj gtk
+sys-devel/gcc -gtk
 media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw
 media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
 app-text/pdftk nodrm
