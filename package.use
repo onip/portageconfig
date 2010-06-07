@@ -2,6 +2,7 @@ media-video/mplayer aalib amrnb amrwb amr bl dga dvdnav rtc tga v4l2 live md5sum
 sys-apps/hal -crypt
 sys-apps/pmount -crypt
 net-misc/neon expat
+media-plugins/gst-plugins-meta taglib
 media-video/dvdrip subtitles mplayer -xine
 net-im/pidgin sasl
 sys-fs/udev extras
