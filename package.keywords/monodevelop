@@ -21,4 +21,3 @@ dev-dotnet/gluezilla
 virtual/monodoc
 dev-util/monodevelop-debugger-gdb
 dev-util/monodevelop-debugger-mdb
-~sys-devel/binutils-2.20.1
