@@ -1,4 +1,4 @@
-net-im/empathy
+=net-im/empathy-2.28*
 net-voip/telepathy-butterfly
 net-libs/telepathy-glib
 net-im/telepathy-mission-control
