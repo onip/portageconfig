@@ -1,6 +1,7 @@
 media-video/mplayer aalib amrnb amrwb amr bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
 sys-apps/hal -crypt
 sys-apps/pmount -crypt
+app-arch/p7zip rar
 net-misc/neon expat
 media-plugins/gst-plugins-meta taglib
 media-video/dvdrip subtitles mplayer -xine

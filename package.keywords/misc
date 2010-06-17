@@ -28,3 +28,4 @@ app-text/chmsee
 ~media-gfx/graphviz-2.26.3
 ~dev-cpp/cairomm-1.8.2
 =dev-lisp/clisp-2.48-r2
+app-arch/p7zip
