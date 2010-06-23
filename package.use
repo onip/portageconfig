@@ -2,7 +2,7 @@ media-video/mplayer aalib amrnb amrwb amr bl dga dvdnav rtc tga v4l2 live md5sum
 sys-apps/hal -crypt
 sys-apps/pmount -crypt
 app-arch/p7zip rar
-net-misc/neon expat
+net-libs/neon expat
 media-plugins/gst-plugins-meta taglib
 media-video/dvdrip subtitles mplayer -xine
 net-im/pidgin sasl
@@ -20,7 +20,7 @@ sci-visualization/gnuplot gd pdf plotutils latex wxwidgets
 media-libs/pdflib java
 media-plugins/audacious-plugins musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
 media-sound/audacious chardet libsamplerate
-dev-util/subversion -java -apache2 -berkdb -dso
+dev-vcs/subversion -java -apache2 -berkdb -dso
 gnome-base/gnome-control-center -sound
 sys-apps/man-pages -nls
 x11-misc/xscreensaver -gnome
