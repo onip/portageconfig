@@ -225,6 +225,7 @@ dev-cpp/gtkmm doc examples
 sys-auth/consolekit policykit
 www-plugins/gecko-mediaplayer -gnome
 =x11-libs/qt-core-4.6* -exceptions
+=x11-libs/qt-svg-4.6* -exceptions
 =x11-libs/qt-dbus-4.6* -exceptions
 =x11-libs/qt-gui-4.6* -exceptions
 =x11-libs/qt-script-4.6* -exceptions
