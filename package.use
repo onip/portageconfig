@@ -180,7 +180,7 @@ dev-ruby/activeresource doc
 dev-ruby/actionpack doc
 dev-ruby/sqlite3-ruby doc
 dev-ruby/activesupport doc
-app-portage/layman git subversion
+app-portage/layman bazaar git subversion
 dev-ruby/eruby vim-syntax
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc

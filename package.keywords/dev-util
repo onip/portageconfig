@@ -1,4 +1,4 @@
-~dev-vcs/bzr-2.0.1
+dev-vcs/bzr
 dev-vcs/giggle
 dev-vcs/git
 ~sys-devel/autoconf-2.64
