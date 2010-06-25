@@ -29,3 +29,6 @@ app-text/chmsee
 ~dev-cpp/cairomm-1.8.2
 =dev-lisp/clisp-2.48-r2
 app-arch/p7zip
+~media-plugins/audacious-plugins-2.3
+~media-sound/audacious-2.3
+~media-libs/libmms-0.6

@@ -18,8 +18,8 @@ media-sound/easytag aac wavpack
 app-text/evince nautilus djvu dvi t1lib
 sci-visualization/gnuplot gd pdf plotutils latex wxwidgets
 media-libs/pdflib java
-media-plugins/audacious-plugins musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
-media-sound/audacious chardet libsamplerate
+media-plugins/audacious-plugins mms musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
+media-sound/audacious chardet
 dev-vcs/subversion -java -apache2 -berkdb -dso
 gnome-base/gnome-control-center -sound
 sys-apps/man-pages -nls
