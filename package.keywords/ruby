@@ -42,6 +42,8 @@ dev-ruby/mkrf
 ~dev-ruby/text-hyphen-1.0.0
 ~dev-ruby/pg-0.9.0
 ~dev-ruby/hoe-2.6.1
+~dev-ruby/eruby-1.0.5
+~dev-ruby/amstd-2.0.0
 ~dev-ruby/rake-compiler-0.7.0
 ~dev-ruby/builder-2.1.2
 ~dev-ruby/tzinfo-0.3.22
