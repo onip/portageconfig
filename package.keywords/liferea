@@ -10,3 +10,5 @@
 ~dev-cpp/gtkmm-2.18.2
 ~dev-cpp/glibmm-2.22.1
 ~dev-cpp/pangomm-2.26.0
+~net-libs/libsoup-2.30.2
+~net-libs/libsoup-gnome-2.30.2
