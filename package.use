@@ -33,7 +33,7 @@ app-admin/conky audacious
 media-gfx/gimp doc -gimpprint
 media-gfx/blender blender-game ode openexr yafray player
 media-gfx/sane-backends gphoto2
-x11-libs/cairo -glitz pdf #cleartype
+x11-libs/cairo -glitz pdf lcdfilter
 media-video/gnome-mplayer -ipod
 sci-electronics/ng-spice-rework xspice
 media-libs/tiff jbig
