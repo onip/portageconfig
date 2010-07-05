@@ -9,7 +9,7 @@ net-im/pidgin sasl
 sys-fs/udev extras
 media-libs/libsamplerate sndfile fftw
 media-gfx/inkscape inkjar dia postscript jabber gs
-dev-lang/php fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl sqlite postgres xmlrpc pdo
+dev-lang/php doc fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl -sqlite sqlite3 postgres xmlrpc pdo
 www-client/links javascript
 x11-libs/wxGTK doc
 app-cdr/k3b css musepack musicbrainz vcd sndfile
@@ -173,7 +173,7 @@ dev-lang/ruby doc examples tk ipv6
 dev-lang/python doc examples
 =x11-libs/pixman-0.12.0 -sse2
 games-misc/fretsonfire guitarhero
-dev-php/PEAR-MDB2 mysql mysqli postgres sqlite
+dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
 dev-ruby/activerecord mysql postgres -sqlite sqlite3 doc
 dev-ruby/rails doc
 dev-ruby/actionmailer doc
