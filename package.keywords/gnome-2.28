@@ -121,3 +121,4 @@
 ~dev-util/gtk-doc-am-1.13
 ~dev-util/gtk-doc-1.13
 ~dev-libs/dbus-glib-0.86
+~gnome-extra/nautilus-sendto-2.28.4

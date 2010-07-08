@@ -254,3 +254,4 @@ dev-tex/pgf doc
 dev-tex/latex-beamer doc examples
 dev-libs/crypto++ sse3
 dev-python/pygments doc
+gnome-extra/nautilus-sendto pidgin
