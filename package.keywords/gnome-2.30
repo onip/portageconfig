@@ -84,7 +84,7 @@
 ~dev-libs/libIDL-0.8.14
 =gnome-base/gvfs-1.6*
 =gnome-base/libgnome-keyring-2.30*
-~net-libs/webkit-gtk-1.2.1
+~net-libs/webkit-gtk-1.2.3
 ~app-text/gnome-doc-utils-0.20.1
 ~dev-python/pygtksourceview-2.10.1
 ~dev-python/gnome-python-2.28.1
