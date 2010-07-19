@@ -125,7 +125,7 @@ dev-libs/gmime mono
 media-video/winki css matroska mjpeg
 media-video/ogmrip matroska srt mp4 ogm
 dev-scheme/guile deprecated regex
-mail-client/evolution mono
+mail-client/evolution mono -sound
 dev-util/weka doc
 media-sound/mhwaveedit ladspa libsamplerate
 net-analyzer/tcpdump -samba
