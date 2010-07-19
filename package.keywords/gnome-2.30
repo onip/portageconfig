@@ -26,7 +26,7 @@
 =app-cdr/brasero-2.30*
 =dev-libs/totem-pl-parser-2.30*
 =media-video/totem-2.30*
-~x11-libs/vte-0.24.2
+=x11-libs/vte-0.24*
 =x11-themes/gnome-icon-theme-2.30*
 =gnome-extra/gcalctool-5.30*
 =gnome-extra/swfdec-gnome-2.30*
@@ -35,6 +35,7 @@
 =gnome-base/gnome-keyring-2.30*
 ~x11-themes/gtk-engines-2.20.1
 ~media-plugins/gst-plugins-base-0.10.29
+~media-plugins/gst-plugins-gnomevfs-0.10.29
 ~media-plugins/gst-plugins-alsa-0.10.29
 ~media-plugins/gst-plugins-cdparanoia-0.10.29
 ~media-plugins/gst-plugins-flac-0.10.22
@@ -46,7 +47,7 @@
 ~media-plugins/gst-plugins-taglib-0.10.22
 ~media-plugins/gst-plugins-theora-0.10.29
 ~media-plugins/gst-plugins-v4l-0.10.29
-~media-plugins/gst-plugins-v4l2-0.10.29
+~media-plugins/gst-plugins-v4l2-0.10.22
 ~media-plugins/gst-plugins-vorbis-0.10.29
 ~media-plugins/gst-plugins-x-0.10.29
 ~media-plugins/gst-plugins-xvideo-0.10.29
@@ -86,6 +87,7 @@
 ~net-libs/webkit-gtk-1.2.1
 ~app-text/gnome-doc-utils-0.20.1
 ~dev-python/pygtksourceview-2.10.1
+~dev-python/gnome-python-2.28.1
 ~dev-python/gnome-python-base-2.28.1
 ~dev-python/libgnome-python-2.28.1
 ~dev-python/gconf-python-2.28.1
@@ -97,5 +99,5 @@
 ~dev-python/gnome-python-extras-base-2.25.3
 ~media-libs/gst-plugins-base-0.10.29
 ~gnome-base/librsvg-2.26.3
-
+~media-libs/libgphoto2-2.4.9
 ~sys-power/upower-0.9.4
