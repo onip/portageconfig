@@ -101,3 +101,4 @@
 ~gnome-base/librsvg-2.26.3
 ~media-libs/libgphoto2-2.4.9
 ~sys-power/upower-0.9.4
+=app-crypt/seahorse-plugins-2.30*
