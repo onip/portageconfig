@@ -95,7 +95,7 @@ sys-libs/pam pam_console
 net-wireless/aircrack-ng wifi
 sys-power/cpufreqd pmu
 gnome-extra/gnome-power-manager libnotify
-gnome-extra/gnome-games artworkextra guile
+gnome-extra/gnome-games artworkextra guile clutter
 sci-electronics/geda gd examples
 sci-libs/libgeda gd
 sci-electronics/gnucap examples
