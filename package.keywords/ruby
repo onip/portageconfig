@@ -33,7 +33,7 @@ dev-ruby/mkrf
 ~dev-ruby/echoe-4.3.1
 ~dev-ruby/rubyforge-2.0.4
 ~dev-ruby/json-1.4.3
-~dev-ruby/highline-1.5.2
+~dev-ruby/highline-1.6.1
 ~dev-ruby/redcloth-4.2.3
 ~dev-ruby/tmail-1.2.7.1
 ~dev-ruby/text-format-1.0.0
@@ -47,5 +47,5 @@ dev-ruby/mkrf
 ~dev-ruby/builder-2.1.2
 ~dev-ruby/tzinfo-0.3.22
 ~dev-ruby/rspec-1.3.0
-~dev-ruby/rdoc-2.5.6
+~dev-ruby/rdoc-2.5.9
 ~dev-ruby/i18n-0.3.7
