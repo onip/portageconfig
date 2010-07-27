@@ -106,3 +106,5 @@
 =www-client/epiphany-extensions-2.30*
 =gnome-base/gnome-light-2.30*
 ~gnome-extra/nautilus-sendto-2.28.4
+~dev-python/gtkhtml-python-2.25.3
+=dev-python/gnome-applets-python-2.30*
