@@ -86,7 +86,7 @@ sys-apps/parted device-mapper
 net-misc/wicd -ncurses
 sys-fs/ntfsprogs fuse
 media-sound/exaile cdaudio libnotify libsexy musepack equalizer
-www-client/mozilla-firefox mozbranding xforms mozdevelop wifi startup-notification
+www-client/firefox mozbranding xforms mozdevelop wifi startup-notification
 app-cdr/gnomebaker libnotify
 games-emulation/xmame dga joystick net
 games-emulation/gxmame joystick
