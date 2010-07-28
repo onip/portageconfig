@@ -1,4 +1,5 @@
-~app-editors/emacs-23.1
+~app-editors/emacs-23.2
 =virtual/emacs-23
-~app-emacs/tramp-2.1.17
+~app-emacs/tramp-2.1.18
 app-emacs/javascript
+~app-emacs/emacs-common-gentoo-1.2
