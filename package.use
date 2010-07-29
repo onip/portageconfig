@@ -26,7 +26,7 @@ sys-apps/man-pages -nls
 x11-misc/xscreensaver -gnome
 sci-mathematics/maxima -gcl clisp latex
 dev-lisp/gcl ansi
-sci-mathematics/scilab tk gtk
+sci-mathematics/scilab -tk gtk
 dev-python/imaging tcltk
 sys-apps/man -nls
 app-admin/conky audacious
@@ -52,7 +52,7 @@ media-libs/smpeg -gtk
 app-text/gocr -gtk
 media-sound/timidity++ -gtk -X
 dev-db/sqlite fts3 secure-delete
-dev-lang/python tk sqlite
+dev-lang/python -tk sqlite
 net-im/centericq irc jabber msn
 media-sound/sweep ladspa
 sci-mathematics/octave blas hdf5 fftw sparse doc fltk
@@ -170,7 +170,7 @@ app-text/ghostscript-gpl djvu
 media-libs/gegl openexr raw
 net-analyzer/wireshark adns smi gnutls gcrypt
 =net-ftp/proftpd-1.3.2_rc2 -shaper
-dev-lang/ruby doc examples tk ipv6
+dev-lang/ruby doc examples -tk ipv6
 dev-lang/python doc examples
 =x11-libs/pixman-0.12.0 -sse2
 games-misc/fretsonfire guitarhero
