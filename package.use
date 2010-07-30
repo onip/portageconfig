@@ -257,3 +257,4 @@ dev-libs/crypto++ sse3
 dev-python/pygments doc
 gnome-extra/nautilus-sendto pidgin
 app-crypt/seahorse-plugins applet gedit
+dev-python/matplotlib latex doc examples
