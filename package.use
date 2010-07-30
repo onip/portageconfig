@@ -30,7 +30,7 @@ sci-mathematics/scilab -tk gtk
 dev-python/imaging tcltk
 sys-apps/man -nls
 app-admin/conky audacious
-media-gfx/gimp doc -gimpprint
+media-gfx/gimp doc webkit
 media-gfx/blender blender-game ode openexr yafray player
 media-gfx/sane-backends gphoto2
 x11-libs/cairo -glitz pdf lcdfilter
@@ -145,7 +145,6 @@ media-video/avidemux aften amrnb libsamplerate lame
 media-video/kino lame sox
 mail-client/mail-notification gmail imap
 media-libs/sdl-mixer timidity
->media-gfx/gimp-2.4.4 -doc
 x11-wm/compiz fuse
 app-office/dia gnome-print
 media-libs/sge image
