@@ -106,7 +106,7 @@ sci-electronics/gwave gnuplot plotutils
 dev-lang/spidermonkey threadsafe
 dev-games/cegui devil
 net-print/gutenprint gimp
-dev-util/cmake vim-syntax
+dev-util/cmake vim-syntax qt4
 media-gfx/gthumb gphoto2
 net-libs/farsight2 msn
 media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
