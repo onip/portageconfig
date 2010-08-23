@@ -83,7 +83,7 @@ media-libs/libwmf gd
 app-editors/gvim bash-completion cscope
 app-editors/vim bash-completion cscope vim-with-x
 sys-block/gparted ntfs fat
-sys-apps/parted device-mapper
+sys-block/parted device-mapper
 net-misc/wicd -ncurses
 sys-fs/ntfsprogs fuse
 media-sound/exaile cdaudio libnotify libsexy musepack equalizer
