@@ -2,5 +2,5 @@ media-gfx/blender
 media-gfx/yafray
 media-gfx/luxrender **
 ~media-libs/openjpeg-1.3
-~dev-libs/boost-1.41.0
-~dev-util/boost-build-1.41.0
+dev-libs/boost:1.42
+dev-util/boost-build:1.42
