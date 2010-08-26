@@ -17,7 +17,7 @@ media-sound/soundconverter
 app-cdr/iat
 net-p2p/transmission
 www-client/httrack
-~media-gfx/inkscape-0.47
+media-gfx/inkscape
 ~app-text/asciidoc-8.5.3
 ~app-text/ghostscript-gpl-8.70
 media-libs/libmtp
@@ -28,7 +28,7 @@ app-text/chmsee
 ~dev-cpp/cairomm-1.8.2
 =dev-lisp/clisp-2.48-r2
 app-arch/p7zip
-~media-plugins/audacious-plugins-2.3
-~media-sound/audacious-2.3
+media-plugins/audacious-plugins
+media-sound/audacious
 ~media-libs/libmms-0.6
 mail-client/mail-notification
