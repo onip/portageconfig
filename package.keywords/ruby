@@ -20,6 +20,7 @@ dev-ruby/ruby-libart2
 dev-ruby/mkrf
 ~dev-ruby/sqlite3-ruby-1.3.1
 ~dev-ruby/rubygems-1.3.7
+virtual/rubygems
 ~dev-ruby/rdtool-0.6.22
 ~dev-ruby/rails-2.3.8
 ~dev-ruby/mysql-ruby-2.8.1
@@ -47,6 +48,6 @@ dev-ruby/mkrf
 ~dev-ruby/builder-2.1.2
 dev-ruby/tzinfo
 ~dev-ruby/rspec-1.3.0
-~dev-ruby/rdoc-2.5.9
+~dev-ruby/rdoc-2.5.11
 ~dev-ruby/i18n-0.3.7
 ~app-admin/eselect-ruby-20100603
