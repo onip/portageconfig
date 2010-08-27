@@ -6,3 +6,5 @@ media-video/vobcopy
 sys-fs/ddrescue
 ~dev-perl/Event-ExecFlow-0.64
 media-video/mkvtoolnix
+~media-libs/libmatroska-1.0.0
+~dev-libs/libebml-1.0.0
