@@ -45,7 +45,7 @@ media-plugins/gimp-resynthesizer gimp
 media-gfx/xsane gimp
 media-gfx/sane-frontends gimp
 media-libs/win32codecs real
-dev-java/sun-jdk derby nsplugin
+dev-java/sun-jdk derby nsplugin doc
 dev-libs/libcdio cddb
 media-sound/lame -gtk
 app-portage/eix optimization
@@ -119,6 +119,7 @@ net-dialup/rp-pppoe -X
 net-dialup/ppp -gtk
 app-admin/eselect vim-syntax
 =net-misc/openssh-4.6_p1-r2 -ldap
+dev-libs/nss utils
 games-strategy/smac videos
 media-sound/banshee boo daap mtp podcast wikipedia youtube
 dev-util/scons doc
