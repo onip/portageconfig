@@ -24,3 +24,4 @@ dev-dotnet/google-gdata-sharp
 ~media-plugins/gst-plugins-pango-0.10.28
 ~media-plugins/gst-plugins-ogg-0.10.28
 ~media-plugins/gst-plugins-v4l-0.10.28
+dev-dotnet/podsleuth

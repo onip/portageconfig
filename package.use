@@ -121,7 +121,7 @@ app-admin/eselect vim-syntax
 =net-misc/openssh-4.6_p1-r2 -ldap
 dev-libs/nss utils
 games-strategy/smac videos
-media-sound/banshee boo daap mtp podcast wikipedia youtube
+media-sound/banshee boo daap mtp podcast web youtube
 dev-util/scons doc
 net-irc/xchat libnotify
 dev-libs/gmime mono
