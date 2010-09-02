@@ -1,2 +1,3 @@
-~www-servers/tomcat-6.0.20
+~www-servers/tomcat-6.0.29
+~dev-java/tomcat-servlet-api-6.0.29
 dev-java/tomcat-native
