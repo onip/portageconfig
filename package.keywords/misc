@@ -32,3 +32,5 @@ media-plugins/audacious-plugins
 media-sound/audacious
 ~media-libs/libmms-0.6
 mail-client/mail-notification
+~media-plugins/gst-plugins-libmms-0.10.19
+media-radio/radiotray
