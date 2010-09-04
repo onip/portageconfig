@@ -11,17 +11,4 @@ dev-dotnet/google-gdata-sharp
 ~dev-dotnet/nant-0.86_beta1
 ~dev-dotnet/webkit-sharp-0.3
 ~sys-apps/sg3_utils-1.27
-~media-libs/gst-plugins-base-0.10.28
-~media-libs/gstreamer-0.10.28
-~media-plugins/gst-plugins-alsa-0.10.28
-~media-plugins/gst-plugins-gio-0.10.28
-~media-plugins/gst-plugins-cdparanoia-0.10.28
-~media-plugins/gst-plugins-gnomevfs-0.10.28
-~media-plugins/gst-plugins-vorbis-0.10.28
-~media-plugins/gst-plugins-x-0.10.28
-~media-plugins/gst-plugins-xvideo-0.10.28
-~media-plugins/gst-plugins-theora-0.10.28
-~media-plugins/gst-plugins-pango-0.10.28
-~media-plugins/gst-plugins-ogg-0.10.28
-~media-plugins/gst-plugins-v4l-0.10.28
 dev-dotnet/podsleuth
