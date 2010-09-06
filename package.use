@@ -177,26 +177,15 @@ dev-lang/python doc examples
 =x11-libs/pixman-0.12.0 -sse2
 games-misc/fretsonfire guitarhero
 dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
-dev-ruby/activerecord mysql postgres -sqlite sqlite3 doc
-dev-ruby/rails doc
-dev-ruby/actionmailer doc
-dev-ruby/activeresource doc
-dev-ruby/actionpack doc
-dev-ruby/sqlite3-ruby doc
-dev-ruby/activesupport doc
-dev-ruby/rcairo doc
+dev-ruby/activerecord mysql postgres -sqlite sqlite3
 app-portage/layman bazaar git subversion
 dev-ruby/eruby vim-syntax
+dev-ruby/* doc
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
 media-gfx/comix rar
 games-arcade/smc music
 www-apache/mod_ruby doc
-dev-ruby/rack doc
-dev-ruby/rake doc
-dev-ruby/fastthread doc
-dev-ruby/ruby-postgres doc
-dev-ruby/rubygems doc
 media-sound/quodlibet musepack wma trayicon tta
 sys-apps/hal consolekit policykit
 sys-auth/pambase consolekit
@@ -248,8 +237,6 @@ dev-texlive/texlive-genericrecommended doc
 dev-texlive/texlive-langitalian doc
 app-text/lcdf-typetools kpathsea
 sys-devel/gdb expat
-dev-ruby/mkrf doc
-dev-ruby/ruby-opengl doc
 www-apache/passenger doc
 dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
 dev-cpp/glibmm doc examples
@@ -268,19 +255,6 @@ gnome-extra/libgsf thumbnail
 dev-java/icedtea6-bin doc
 media-gfx/gthumb http raw
 media-gfx/dcraw gimp
-dev-ruby/hoe doc
-dev-ruby/tmail doc
-dev-ruby/json doc
-dev-ruby/builder doc
-dev-ruby/tzinfo doc
-dev-ruby/rake-compiler doc
-dev-ruby/highline doc
-dev-ruby/redcloth doc
-dev-ruby/rubyforge doc
-dev-ruby/rdoc doc
-dev-ruby/rspec doc
-dev-ruby/echoe doc
-dev-ruby/pg doc
 media-sound/pulseaudio avahi libsamplerate -bluetooth
 dev-tex/pgf doc
 dev-tex/latex-beamer doc examples
