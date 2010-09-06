@@ -1,237 +1,233 @@
-media-video/mplayer aalib amrnb amrwb amr bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
-sys-apps/hal -crypt
-sys-apps/pmount -crypt
-app-arch/p7zip rar
-net-libs/neon expat
-media-plugins/gst-plugins-meta taglib
-media-video/dvdrip subtitles mplayer -xine
-net-im/pidgin sasl
-sys-fs/udev extras
-media-libs/libsamplerate sndfile fftw
-media-gfx/inkscape inkjar dia postscript jabber gs
-dev-lang/php doc fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl -sqlite sqlite3 postgres xmlrpc pdo
-www-client/links javascript
-x11-libs/wxGTK doc
-app-cdr/k3b css musepack musicbrainz vcd sndfile
-media-libs/xine-lib aalibasf dxr3 musepack real wavpack vidix xvmc
-media-sound/easytag aac wavpack
-app-text/evince nautilus djvu dvi t1lib
-sci-visualization/gnuplot gd pdf plotutils latex wxwidgets
-media-libs/pdflib java
-media-plugins/audacious-plugins mms musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
-media-sound/audacious chardet
-dev-vcs/subversion -java -apache2 -berkdb -dso
-gnome-base/gnome-control-center -sound
-sys-apps/man-pages -nls
-x11-misc/xscreensaver -gnome
-sci-mathematics/maxima -gcl clisp latex
-dev-lisp/gcl ansi
-sci-mathematics/scilab -tk gtk
-dev-python/imaging tcltk
-sys-apps/man -nls
 app-admin/conky audacious
-media-gfx/gimp doc webkit
-net-print/cups gnutls
-media-gfx/blender blender-game ode openexr yafray player
-media-gfx/sane-backends gphoto2
-x11-libs/cairo -glitz pdf lcdfilter
-media-video/gnome-mplayer -ipod
-sci-electronics/ng-spice-rework xspice
-media-libs/tiff jbig
-www-plugins/mplayerplug-in divx gmedia realmedia wmp
-media-video/ffmpeg amr imlib network opencore-amr cpudetection faac faad
-media-video/transcode network -gtk mjpeg fame v4l2
-media-plugins/gimp-resynthesizer gimp
-media-gfx/xsane gimp
-media-gfx/sane-frontends gimp
-media-libs/win32codecs real
-dev-java/sun-jdk derby nsplugin doc
-dev-libs/libcdio cddb
-media-sound/lame -gtk
-app-portage/eix optimization
-media-libs/smpeg -gtk
-app-text/gocr -gtk
-media-sound/timidity++ -gtk -X
-dev-db/sqlite fts3 secure-delete
-dev-lang/python -tk sqlite
-net-im/centericq irc jabber msn
-media-sound/sweep ladspa
-sci-mathematics/octave blas hdf5 fftw sparse doc fltk
-media-libs/gd fontconfig xpm
-sci-libs/hdf5 hlapi
-net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
-media-gfx/yafray openexr
-x11-base/xorg-server aiglx
+app-admin/eselect vim-syntax
+app-arch/p7zip rar
 app-cdr/brasero cdrkit gdl playlist
-dev-util/codeblocks contrib xrc
-sci-electronics/kicad examples doc
 app-cdr/cdrdao -gnome
-app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -win64
-sys-devel/gcc -gtk
-media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw
-media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
-app-text/pdftk nodrm
-net-p2p/amule geoip stats
-net-p2p/amule-cvs stats
-media-video/realplayer -nsplugin
-dev-libs/boost tools expat
-dev-util/mono-tools -gtkhtml -xulrunner webkit
-dev-util/anjuta devhelp glade inherit-graph sourceview subversion valgrind
-net-p2p/deluge libnotify
-media-gfx/gtkam gimp
-media-libs/libwmf gd
+app-cdr/gnomebaker libnotify
+app-cdr/k3b css musepack musicbrainz vcd sndfile
+app-crypt/seahorse applet gedit
+app-crypt/seahorse-plugins applet gedit
+app-editors/emacs gconf leim toolkit-scroll-bars xft
 app-editors/gvim bash-completion cscope
 app-editors/vim bash-completion cscope vim-with-x
-sys-block/gparted ntfs fat
-sys-block/parted device-mapper
-net-misc/wicd -ncurses
-sys-fs/ntfsprogs fuse
-media-sound/exaile cdaudio libnotify libsexy musepack equalizer
-www-client/firefox mozbranding xforms mozdevelop wifi startup-notification
-app-cdr/gnomebaker libnotify
-games-emulation/xmame dga joystick net
-games-emulation/gxmame joystick
 app-editors/vim-core bash-completion
-sys-libs/pam pam_console
-net-wireless/aircrack-ng wifi
-sys-power/cpufreqd pmu
-gnome-extra/gnome-power-manager libnotify
-gnome-extra/gnome-games artworkextra guile clutter
-sci-electronics/geda gd examples
-sci-libs/libgeda gd
-sci-electronics/gnucap examples
-sci-electronics/gtkwave examples
-games-simulation/openttd scenarios timidity
-sci-electronics/gwave gnuplot plotutils
-dev-lang/spidermonkey threadsafe
-dev-games/cegui devil
-net-print/gutenprint gimp
-dev-util/cmake vim-syntax
-media-gfx/gthumb gphoto2 slideshow
-net-libs/farsight2 msn
-media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
-media-sound/fluidsynth ladspa
-x11-drivers/nvidia-drivers -gtk
-app-editors/emacs gconf leim toolkit-scroll-bars xft
 app-emacs/emacs-common-gentoo emacs22icons
-net-print/hplip -X
-net-dialup/rp-pppoe -X
-net-dialup/ppp -gtk
-app-admin/eselect vim-syntax
-=net-misc/openssh-4.6_p1-r2 -ldap
-dev-libs/nss utils
-games-strategy/smac videos
-media-sound/banshee boo daap mtp podcast web youtube
-media-libs/libgpod iphone
-dev-util/scons doc
-net-irc/xchat libnotify
-dev-libs/gmime mono
-media-video/winki css matroska mjpeg
-media-video/ogmrip matroska srt mp4 ogm
-dev-scheme/guile deprecated regex
-mail-client/evolution mono -sound
-dev-util/weka doc
-media-sound/mhwaveedit ladspa libsamplerate
-net-analyzer/tcpdump -samba
-net-fs/samba addns client smbclient server aio smbsharemodes winbind
-x11-libs/gtk+ vim-syntax
-games-strategy/freeciv gtk -sdl
-media-sound/abcde id3 lame musepack
-app-text/acroread -nsplugin
-dev-util/monodevelop cxx aspnet subversion
-dev-lang/mono moonlight
-media-libs/libquicktime lame
-games-fps/worldofpadman maps
-games-fps/nexuiz maps
-media-video/cinelerra css
-media-video/avidemux aften amrnb libsamplerate lame
-media-video/kino lame sox
-mail-client/mail-notification gmail imap
-media-libs/sdl-mixer timidity
-x11-wm/compiz fuse
-app-office/dia gnome-print
-media-libs/sge image
-media-gfx/pstoedit plotutils emf
-www-servers/tomcat examples
-media-video/totem -bluetooth
-media-gfx/luxrender sse2
-dev-util/monodevelop-database mysql
-dev-db/mysql extraengine embedded
-=media-libs/libquicktime-1.0.2 -ffmpeg
-media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
-gnome-base/gnome-volume-manager -automount
-gnome-base/gvfs archive -bluetooth cdda fuse gphoto2 gdu
-app-crypt/seahorse applet gedit
-dev-perl/PortageXS minimal
-dev-vcs/git cvs bash-completion doc emacs subversion vim-syntax webdav -tk
-dev-dotnet/gtk-sharp glade
+app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -win64
 app-misc/screen multiuser
-media-gfx/luxrender wxwindows
-media-sound/rhythmbox musicbrainz tagwriting
-app-text/ghostscript-gpl djvu
-media-libs/gegl openexr raw
-net-analyzer/wireshark adns smi gnutls gcrypt
-=net-ftp/proftpd-1.3.2_rc2 -shaper
-dev-lang/ruby doc examples -tk ipv6
-dev-lang/python doc examples
-=x11-libs/pixman-0.12.0 -sse2
-games-misc/fretsonfire guitarhero
-dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
-dev-ruby/activerecord mysql postgres -sqlite sqlite3
+app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
+app-office/abiword-plugins jabber math ots thesaurus wordperfect
+app-office/dia gnome-print
+app-portage/eix optimization
 app-portage/layman bazaar git subversion
-dev-ruby/eruby vim-syntax
-dev-ruby/* doc
+app-text/acroread -nsplugin
+app-text/evince nautilus djvu dvi t1lib
+app-text/ghostscript-gpl djvu
+app-text/gocr -gtk
+app-text/lcdf-typetools kpathsea
+app-text/pdftk nodrm
+app-text/texlive-core doc
+app-text/texlive doc dvipdfm extra humanities graphics omega pstricks publishers science tex4ht
+app-text/xdvik emacs
+dev-cpp/glibmm doc examples
+dev-cpp/gtkmm doc examples
+dev-cpp/pangomm doc
+dev-db/mysql extraengine embedded
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
-media-gfx/comix rar
-games-arcade/smc music
-www-apache/mod_ruby doc
-media-sound/quodlibet musepack wma trayicon tta
-sys-apps/hal consolekit policykit
-sys-auth/pambase consolekit
-x11-libs/vte glade
-net-misc/networkmanager avahi resolvconf dhcpcd
-net-dns/avahi autoipd mdnsresponder-compat
-net-im/empathy applet webkit
-media-libs/libdvdread css
-net-voip/telepathy-connection-managers irc msn jabber
-www-client/opera -qt-static
-dev-vcs/mercurial bash-completion
+dev-db/sqlite fts3 secure-delete
+dev-dotnet/gtk-sharp glade
+dev-games/cegui devil
 dev-java/ant-apache-bsf -python
 dev-java/bsf -python
-net-libs/xulrunner wifi startup-notification
-x11-libs/libwnck startup-notification
-media-libs/freetype kpathsea
-app-text/texlive doc dvipdfm extra humanities graphics omega pstricks publishers science tex4ht
-app-text/texlive-core doc
-app-text/xdvik emacs
-dev-texlive/* doc
+dev-java/icedtea6-bin doc
+dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
+dev-java/sun-jdk derby nsplugin doc
+dev-lang/mono moonlight
+dev-lang/php doc fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl -sqlite sqlite3 postgres xmlrpc pdo
+dev-lang/python doc examples
+dev-lang/python -tk sqlite
+dev-lang/ruby doc examples -tk ipv6
+dev-lang/spidermonkey threadsafe
+dev-libs/boost tools expat
+dev-libs/crypto++ sse3
+dev-libs/gmime mono
+dev-libs/libcdio cddb
+dev-libs/nss utils
+dev-lisp/gcl ansi
+dev-perl/PortageXS minimal
+dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
+dev-python/imaging tcltk
+dev-python/matplotlib latex doc examples
+dev-python/pygments doc
+dev-ruby/activerecord mysql postgres -sqlite sqlite3
+dev-ruby/* doc
+dev-ruby/eruby vim-syntax
+dev-scheme/guile deprecated regex
 dev-tex/* doc
 dev-tex/latex-beamer examples
-app-text/lcdf-typetools kpathsea
-sys-devel/gdb expat
-www-apache/passenger doc
-dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
-dev-cpp/glibmm doc examples
-dev-cpp/pangomm doc
-dev-cpp/gtkmm doc examples
+dev-texlive/* doc
+dev-util/anjuta devhelp glade inherit-graph sourceview subversion valgrind
+dev-util/cmake vim-syntax
+dev-util/codeblocks contrib xrc
+dev-util/monodevelop cxx aspnet subversion
+dev-util/monodevelop-database mysql
+dev-util/mono-tools -gtkhtml -xulrunner webkit
+dev-util/scons doc
+dev-util/weka doc
+dev-vcs/git cvs bash-completion doc emacs subversion vim-syntax webdav -tk
+dev-vcs/mercurial bash-completion
+dev-vcs/subversion -java -apache2 -berkdb -dso
+games-arcade/smc music
+games-emulation/gxmame joystick
+games-emulation/xmame dga joystick net
+games-fps/nexuiz maps
+games-fps/worldofpadman maps
+games-misc/fretsonfire guitarhero
+games-simulation/openttd scenarios timidity
+games-strategy/freeciv gtk -sdl
+games-strategy/smac videos
+gnome-base/gnome-control-center -sound
+gnome-base/gnome-volume-manager -automount
+gnome-base/gvfs archive -bluetooth cdda fuse gphoto2 gdu
+gnome-extra/gnome-games artworkextra guile clutter
+gnome-extra/gnome-power-manager libnotify
+gnome-extra/libgsf thumbnail
+gnome-extra/nautilus-sendto pidgin
+mail-client/evolution mono -sound
+mail-client/mail-notification gmail imap
+media-gfx/blender blender-game ode openexr yafray player
+media-gfx/comix rar
+media-gfx/dcraw gimp
+media-gfx/gimp doc webkit
+media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
+media-gfx/gthumb gphoto2 slideshow
+media-gfx/gthumb http raw
+media-gfx/gtkam gimp
+media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw
+media-gfx/inkscape inkjar dia postscript jabber gs
+media-gfx/luxrender sse2
+media-gfx/luxrender wxwindows
+media-gfx/pstoedit plotutils emf
+media-gfx/sane-backends gphoto2
+media-gfx/sane-frontends gimp
+media-gfx/xsane gimp
+media-gfx/yafray openexr
+media-libs/freetype kpathsea
+media-libs/gd fontconfig xpm
+media-libs/gegl openexr raw
+media-libs/libdvdread css
+media-libs/libgpod iphone
+media-libs/libquicktime lame
+media-libs/libsamplerate sndfile fftw
+media-libs/libwmf gd
+media-libs/pdflib java
+media-libs/sdl-mixer timidity
+media-libs/sge image
+media-libs/smpeg -gtk
+media-libs/tiff jbig
+media-libs/win32codecs real
+media-libs/xine-lib aalibasf dxr3 musepack real wavpack vidix xvmc
+media-plugins/audacious-plugins mms musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
+media-plugins/gimp-resynthesizer gimp
+media-plugins/gst-plugins-meta taglib
+media-sound/abcde id3 lame musepack
+media-sound/audacious chardet
+media-sound/banshee boo daap mtp podcast web youtube
+media-sound/easytag aac wavpack
+media-sound/exaile cdaudio libnotify libsexy musepack equalizer
+media-sound/fluidsynth ladspa
+media-sound/lame -gtk
+media-sound/mhwaveedit ladspa libsamplerate
+media-sound/pulseaudio avahi libsamplerate -bluetooth
+media-sound/quodlibet musepack wma trayicon tta
+media-sound/rhythmbox musicbrainz tagwriting
+media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
+media-sound/sweep ladspa
+media-sound/timidity++ -gtk -X
+media-video/avidemux aften amrnb libsamplerate lame
+media-video/cinelerra css
+media-video/dvdrip subtitles mplayer -xine
+media-video/ffmpeg amr imlib network opencore-amr cpudetection faac faad
+media-video/gnome-mplayer -ipod
+media-video/kino lame sox
+media-video/mplayer aalib amrnb amrwb amr bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
+media-video/ogmrip matroska srt mp4 ogm
+media-video/realplayer -nsplugin
+media-video/totem -bluetooth
+media-video/transcode network -gtk mjpeg fame v4l2
+media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
+media-video/winki css matroska mjpeg
+net-analyzer/tcpdump -samba
+net-analyzer/wireshark adns smi gnutls gcrypt
+net-dialup/ppp -gtk
+net-dialup/rp-pppoe -X
+net-dns/avahi autoipd mdnsresponder-compat
+net-fs/samba addns client smbclient server aio smbsharemodes winbind
+net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
+net-im/centericq irc jabber msn
+net-im/empathy applet webkit
+net-im/pidgin sasl
+net-irc/xchat libnotify
+net-libs/farsight2 msn
+net-libs/neon expat
+net-libs/xulrunner wifi startup-notification
+net-misc/networkmanager avahi resolvconf dhcpcd
+net-misc/wicd -ncurses
+net-p2p/amule-cvs stats
+net-p2p/amule geoip stats
+net-p2p/deluge libnotify
+net-print/cups gnutls
+net-print/gutenprint gimp
+net-print/hplip -X
+net-voip/telepathy-connection-managers irc msn jabber
+net-wireless/aircrack-ng wifi
+sci-electronics/geda gd examples
+sci-electronics/gnucap examples
+sci-electronics/gtkwave examples
+sci-electronics/gwave gnuplot plotutils
+sci-electronics/kicad examples doc
+sci-electronics/ng-spice-rework xspice
+sci-libs/hdf5 hlapi
+sci-libs/libgeda gd
+sci-mathematics/maxima -gcl clisp latex
+sci-mathematics/octave blas hdf5 fftw sparse doc fltk
+sci-mathematics/scilab -tk gtk
+sci-visualization/gnuplot gd pdf plotutils latex wxwidgets
+sys-apps/gnome-disk-utility fat
+sys-apps/hal consolekit policykit
+sys-apps/hal -crypt
+sys-apps/man -nls
+sys-apps/man-pages -nls
+sys-apps/pmount -crypt
 sys-auth/consolekit policykit
+sys-auth/pambase consolekit
+sys-block/gparted ntfs fat
+sys-block/parted device-mapper
+sys-devel/gcc -gtk
+sys-devel/gdb expat
+sys-fs/ntfsprogs fuse
+sys-fs/udev extras
+sys-libs/pam pam_console
+sys-power/cpufreqd pmu
+www-apache/mod_ruby doc
+www-apache/passenger doc
+www-client/firefox mozbranding xforms mozdevelop wifi startup-notification
+www-client/links javascript
+www-client/opera -qt-static
 www-plugins/gecko-mediaplayer -gnome
+www-plugins/mplayerplug-in divx gmedia realmedia wmp
+www-servers/tomcat examples
+x11-base/xorg-server aiglx
+x11-drivers/nvidia-drivers -gtk
+x11-libs/cairo -glitz pdf lcdfilter
+x11-libs/gtk+ vim-syntax
+x11-libs/libwnck startup-notification
+=x11-libs/pixman-0.12.0 -sse2
 =x11-libs/qt-core-4.6* -exceptions
-=x11-libs/qt-svg-4.6* -exceptions
 =x11-libs/qt-dbus-4.6* -exceptions
 =x11-libs/qt-gui-4.6* -exceptions
 =x11-libs/qt-script-4.6* -exceptions
-app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
-app-office/abiword-plugins jabber math ots thesaurus wordperfect
-gnome-extra/libgsf thumbnail
-dev-java/icedtea6-bin doc
-media-gfx/gthumb http raw
-media-gfx/dcraw gimp
-media-sound/pulseaudio avahi libsamplerate -bluetooth
-dev-libs/crypto++ sse3
-dev-python/pygments doc
-gnome-extra/nautilus-sendto pidgin
-app-crypt/seahorse-plugins applet gedit
-dev-python/matplotlib latex doc examples
-sys-apps/gnome-disk-utility fat
+x11-libs/vte glade
+x11-libs/wxGTK doc
+x11-misc/xscreensaver -gnome
+x11-wm/compiz fuse
