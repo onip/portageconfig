@@ -122,6 +122,7 @@ app-admin/eselect vim-syntax
 dev-libs/nss utils
 games-strategy/smac videos
 media-sound/banshee boo daap mtp podcast web youtube
+media-libs/libgpod iphone
 dev-util/scons doc
 net-irc/xchat libnotify
 dev-libs/gmime mono
