@@ -36,3 +36,4 @@ mail-client/mail-notification
 media-radio/radiotray
 ~sys-apps/portage-2.1.9.3
 ~app-portage/eix-0.20.6
+=sys-kernel/gentoo-sources-2.6.35-r4
