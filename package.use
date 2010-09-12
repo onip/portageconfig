@@ -34,7 +34,7 @@ dev-cpp/pangomm doc
 dev-db/mysql extraengine embedded
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
-dev-db/sqlite fts3 secure-delete
+dev-db/sqlite fts3 secure-delete doc extensions soundex
 dev-dotnet/gtk-sharp glade
 dev-games/cegui devil
 dev-java/ant-apache-bsf -python
