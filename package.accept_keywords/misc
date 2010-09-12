@@ -35,5 +35,5 @@ mail-client/mail-notification
 ~media-plugins/gst-plugins-libmms-0.10.19
 media-radio/radiotray
 ~sys-apps/portage-2.1.9.4
-~app-portage/eix-0.20.6
+~app-portage/eix-0.22.1
 =sys-kernel/gentoo-sources-2.6.35-r4
