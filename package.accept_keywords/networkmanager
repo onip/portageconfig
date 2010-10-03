@@ -6,5 +6,5 @@ net-misc/mobile-broadband-provider-info
 ~net-misc/modemmanager-0.3
 ~gnome-extra/polkit-gnome-0.96
 ~dev-libs/eggdbus-0.6
-~sys-auth/consolekit-0.4.1
+~sys-auth/consolekit-0.4.2
 ~net-dialup/ppp-2.4.5
