@@ -37,3 +37,5 @@ media-radio/radiotray
 ~sys-apps/portage-2.1.9.13
 ~app-portage/eix-0.22.1
 =sys-kernel/gentoo-sources-2.6.35-r4
+~x11-themes/murrine-themes-0.98.0
+~x11-themes/gtk-engines-murrine-0.98.0
