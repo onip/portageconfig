@@ -1,2 +1,4 @@
 =app-arch/bzip2-1.0.6-r1
 www-client/chromium-bin
+www-client/chromium
+~net-print/cups-1.4.4
