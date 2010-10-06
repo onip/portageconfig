@@ -3,4 +3,5 @@ app-office/abiword
 app-office/abiword-plugins
 app-text/wv
 app-office/gnumeric
+~gnome-extra/libgsf-1.14.19
 x11-libs/goffice
