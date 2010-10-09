@@ -6,3 +6,4 @@ dev-vcs/git
 ~dev-python/pygtksourceview-2.8.0
 sys-devel/gdb
 dev-python/pydb
+net-ftp/lftp
