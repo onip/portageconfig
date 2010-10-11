@@ -1,7 +1,6 @@
 dev-util/monodevelop
 dev-dotnet/ikvm-bin
 dev-dotnet/gecko-sharp
-dev-dotnet/gtksourceview-sharp:1
 dev-lang/mono
 dev-dotnet/libgdiplus
 dev-dotnet/pe-format

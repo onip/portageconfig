@@ -1,6 +1,4 @@
 ~dev-db/postgresql-server-9.0.0
-~virtual/postgresql-server-9.0
-~virtual/postgresql-base-9.0
 ~dev-db/postgresql-base-9.0.0
 ~app-admin/eselect-postgresql-0.4
 ~dev-db/postgresql-docs-9.0.0
