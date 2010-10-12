@@ -1,6 +1,3 @@
 www-client/firefox-bin
-~dev-libs/nss-3.12.7
-~dev-libs/nspr-4.8.6
 www-client/firefox
 net-libs/xulrunner
-~dev-db/sqlite-3.6.22
