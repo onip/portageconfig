@@ -3,3 +3,4 @@ www-client/chromium-bin
 www-client/chromium
 ~net-print/cups-1.4.4
 ~dev-libs/nss-3.12.8
+~media-video/ffmpeg-0.6_p25423
