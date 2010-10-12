@@ -30,7 +30,7 @@ media-sound/audacious
 mail-client/mail-notification
 ~media-plugins/gst-plugins-libmms-0.10.19
 media-radio/radiotray
-~sys-apps/portage-2.1.9.14
+~sys-apps/portage-2.1.9.16
 ~app-portage/eix-0.22.3
 =sys-kernel/gentoo-sources-2.6.35-r4
 ~x11-themes/murrine-themes-0.98.0
