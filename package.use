@@ -40,7 +40,7 @@ dev-dotnet/gtk-sharp glade
 dev-games/cegui devil
 dev-java/ant-apache-bsf -python
 dev-java/bsf -python
-dev-java/icedtea6-bin doc
+dev-java/icedtea6-bin doc nsplugin
 dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
 dev-java/sun-jdk derby nsplugin doc
 dev-lang/mono -moonlight
