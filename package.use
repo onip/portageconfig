@@ -35,7 +35,7 @@ dev-db/mysql extraengine embedded
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
 dev-db/sqlite:0 -doc
-dev-db/sqlite fts3 icu secure-delete doc extensions soundex
+dev-db/sqlite fts3 icu secure-delete doc extensions soundex unlock-notify
 dev-dotnet/gtk-sharp glade
 dev-games/cegui devil
 dev-java/ant-apache-bsf -python
@@ -170,7 +170,7 @@ net-im/pidgin sasl
 net-irc/xchat libnotify
 net-libs/farsight2 msn
 net-libs/neon expat
-net-libs/xulrunner wifi startup-notification
+net-libs/xulrunner wifi startup-notification system-sqlite
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
 net-p2p/amule geoip stats
@@ -211,7 +211,7 @@ sys-power/cpufreqd pmu
 www-apache/mod_ruby doc
 www-apache/passenger doc
 www-client/chromium system-sqlite
-www-client/firefox mozbranding xforms mozdevelop wifi startup-notification
+www-client/firefox mozbranding xforms mozdevelop wifi startup-notification system-sqlite
 www-client/links javascript
 www-client/opera -qt-static
 www-plugins/gecko-mediaplayer -gnome
