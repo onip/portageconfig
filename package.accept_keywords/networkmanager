@@ -8,3 +8,4 @@ net-misc/mobile-broadband-provider-info
 ~dev-libs/eggdbus-0.6
 ~sys-auth/consolekit-0.4.2
 ~net-dialup/ppp-2.4.5
+=sys-apps/shadow-4.1.4.2-r6
