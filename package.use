@@ -44,7 +44,7 @@ dev-java/icedtea6-bin doc nsplugin
 dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
 dev-java/sun-jdk derby nsplugin doc
 dev-lang/mono -moonlight
-dev-lang/php doc embed fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl sqlite sqlite3 postgres xmlrpc pdo
+dev-lang/php doc embed fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl -sqlite sqlite3 postgres xmlrpc pdo
 dev-lang/python doc examples
 dev-lang/python -tk sqlite
 dev-lang/ruby doc examples -tk ipv6
