@@ -10,3 +10,4 @@ net-misc/mobile-broadband-provider-info
 =sys-auth/pambase-20101024
 ~net-dialup/ppp-2.4.5
 =sys-apps/shadow-4.1.4.2-r6
+~net-misc/dhcpcd-5.2.8
