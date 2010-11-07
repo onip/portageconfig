@@ -2,3 +2,4 @@ dev-lang/php
 app-doc/php-docs
 dev-php5/*
 dev-php/*
+~app-admin/eselect-php-0.6.1
