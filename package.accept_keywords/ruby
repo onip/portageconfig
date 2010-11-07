@@ -3,3 +3,5 @@ www-apache/mod_ruby
 www-apache/passenger
 dev-lang/ruby:1.8
 virtual/rubygems
+~dev-libs/libev-3.90
+~dev-util/source-highlight-3.1
