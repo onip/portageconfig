@@ -51,6 +51,7 @@ dev-lang/ruby doc examples -tk ipv6
 dev-lang/spidermonkey threadsafe
 dev-libs/boost tools expat
 dev-libs/crypto++ sse3
+dev-libs/glib doc
 dev-libs/gmime mono
 dev-libs/libcdio cddb
 dev-libs/nss utils
