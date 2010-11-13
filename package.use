@@ -8,7 +8,7 @@ app-cdr/k3b css musepack musicbrainz vcd sndfile
 app-crypt/seahorse applet gedit
 app-crypt/seahorse-plugins applet gedit
 app-editors/emacs gconf leim toolkit-scroll-bars xft
-app-editors/gvim bash-completion cscope
+app-editors/gvim bash-completion cscope netbeans
 app-editors/vim bash-completion cscope vim-with-x
 app-editors/vim-core bash-completion
 app-emacs/emacs-common-gentoo emacs22icons
