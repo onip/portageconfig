@@ -170,6 +170,7 @@ net-fs/samba addns client smbclient server aio smbsharemodes winbind
 net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
 net-im/empathy applet webkit
 net-im/pidgin sasl
+net-irc/weechat lua relay
 net-irc/xchat libnotify
 net-libs/farsight2 msn
 net-libs/neon expat
