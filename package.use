@@ -232,4 +232,6 @@ x11-libs/libwnck startup-notification
 x11-libs/vte glade
 x11-libs/wxGTK doc
 x11-misc/xscreensaver -gnome
-x11-wm/compiz fuse
+x11-plugins/compiz-plugins-extra gconf
+x11-plugins/compiz-plugins-main gconf
+x11-wm/compiz fuse gconf
