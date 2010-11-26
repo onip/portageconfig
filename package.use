@@ -76,6 +76,7 @@ dev-util/codeblocks contrib xrc
 dev-util/monodevelop cxx aspnet subversion
 dev-util/monodevelop-database mysql
 dev-util/mono-tools -gtkhtml -xulrunner webkit
+dev-util/qt-creator bineditor doc examples git mercurial qtscript rss subversion
 dev-util/scons doc
 dev-util/weka doc
 dev-vcs/git cvs bash-completion doc emacs subversion vim-syntax webdav -tk
@@ -229,6 +230,8 @@ x11-libs/libwnck startup-notification
 =x11-libs/qt-dbus-4.6* -exceptions
 =x11-libs/qt-gui-4.6* -exceptions
 =x11-libs/qt-script-4.6* -exceptions
+x11-libs/qt-* doc private-headers qt3support
+x11-libs/qt-sql mysql postgres
 x11-libs/vte glade
 x11-libs/wxGTK doc
 x11-misc/xscreensaver -gnome
