@@ -1,3 +1,5 @@
 media-sound/banshee
+dev-lang/v8
+dev-util/chromium-tools
 www-client/chromium
 www-client/chromium-bin
