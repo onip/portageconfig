@@ -1,4 +1,5 @@
 net-voip/telepathy-butterfly
+net-voip/telepathy-salut
 net-libs/telepathy-glib
 net-im/telepathy-mission-control
 net-libs/telepathy-farsight
@@ -20,3 +21,14 @@ net-im/empathy
 ~net-libs/libnice-0.0.13
 dev-lang/vala:0.10
 ~dev-libs/gobject-introspection-0.9.12
+~x11-libs/gtk+-2.22.1
+net-im/telepathy-logger
+~dev-libs/glib-2.26.1
+~x11-libs/gdk-pixbuf-2.22.1
+~gnome-base/librsvg-2.32.1
+dev-libs/folks
+~dev-libs/libgee-0.6.0
+~gnome-extra/nautilus-sendto-2.32.0
+# not related, but since we upgrade gtk+...
+~dev-cpp/gtkmm-2.22.0
+~dev-cpp/atkmm-2.22.1
