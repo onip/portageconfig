@@ -44,3 +44,4 @@ dev-python/pygments
 ~app-text/texi2html-1.78
 ~app-text/psutils-1.17
 ~media-gfx/sam2p-0.47
+~dev-tex/pgf-2.10
