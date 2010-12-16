@@ -27,8 +27,8 @@ app-text/ghostscript-gpl djvu
 app-text/gocr -gtk
 app-text/lcdf-typetools kpathsea
 app-text/pdftk nodrm
+app-text/texlive doc dvipdfm extra humanities jadetex latex3 luatex graphics omega pstricks publishers science tex4ht
 app-text/texlive-core doc
-app-text/texlive doc dvipdfm extra humanities graphics omega pstricks publishers science tex4ht
 app-text/xdvik emacs
 dev-cpp/atkmm doc
 dev-cpp/glibmm doc examples
