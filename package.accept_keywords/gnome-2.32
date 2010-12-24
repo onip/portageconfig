@@ -80,6 +80,7 @@
 =media-gfx/eog-2.32*
 ~media-libs/gst-plugins-base-0.10.30
 ~media-libs/libgphoto2-2.4.9
+=media-sound/sound-juicer-2.32*
 ~media-plugins/gst-plugins-alsa-0.10.30
 ~media-plugins/gst-plugins-cdparanoia-0.10.30
 ~media-plugins/gst-plugins-gio-0.10.30
@@ -98,6 +99,7 @@
 =net-misc/vinagre-2.32*
 ~sys-fs/udev-151
 ~sys-power/upower-0.9.4
+=www-client/epiphany-2.30*
 =www-client/epiphany-2.32*
 =www-client/epiphany-extensions-2.32*
 ~x11-libs/cairo-1.10.0
