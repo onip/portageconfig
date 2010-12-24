@@ -3,3 +3,5 @@ media-video/lives
 ~media-video/avidemux-2.5.4
 media-video/kino
 media-video/pitivi
+dev-python/pygoocanvas
+media-libs/gnonlin
