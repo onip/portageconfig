@@ -122,7 +122,8 @@ media-gfx/xsane gimp
 media-gfx/yafray openexr
 media-libs/clutter doc
 media-libs/clutter-gtk doc examples
-media-libs/freetype kpathsea
+media-libs/fontconfig -cleartype lcdfilter
+media-libs/freetype -cleartype lcdfilter kpathsea
 media-libs/gd fontconfig xpm
 media-libs/gegl openexr raw
 media-libs/libdvdread css
@@ -229,11 +230,12 @@ www-plugins/lightspark nsplugin
 www-servers/tomcat examples
 x11-base/xorg-server aiglx
 x11-drivers/nvidia-drivers -gtk
-x11-libs/cairo -glitz pdf lcdfilter
+x11-libs/cairo -glitz pdf lcdfilter -cleartype
 x11-libs/gdk-pixbuf doc
 x11-libs/goocanvas doc examples
 x11-libs/gtk+ doc examples vim-syntax
 x11-libs/libwnck startup-notification
+x11-libs/libXft -cleartype lcdfilter
 =x11-libs/qt-core-4.6* -exceptions
 =x11-libs/qt-dbus-4.6* -exceptions
 =x11-libs/qt-gui-4.6* -exceptions

@@ -1,0 +1,4 @@
+media-libs/fontconfig
+media-libs/freetype
+x11-libs/cairo
+x11-libs/libXft
