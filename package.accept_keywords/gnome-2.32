@@ -7,7 +7,7 @@
 =app-editors/gedit-2.30*
 =app-editors/gedit-2.32*
 =app-misc/tomboy-1.2.1
-=app-text/evince-2.32*
+=app-text/evince-2.30*
 ~app-text/gnome-doc-utils-0.20.1
 ~dev-lang/orc-0.4.11
 =dev-libs/atk-1.32*
@@ -102,7 +102,7 @@
 =www-client/epiphany-2.30*
 =www-client/epiphany-2.32*
 =www-client/epiphany-extensions-2.32*
-~x11-libs/cairo-1.10.0
+#~x11-libs/cairo-1.10.0
 ~x11-libs/gtk+-2.20.1
 =x11-libs/gtksourceview-2.10.4
 =x11-libs/libwnck-2.30*
