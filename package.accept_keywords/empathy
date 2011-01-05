@@ -32,3 +32,4 @@ dev-libs/folks
 # not related, but since we upgrade gtk+...
 ~dev-cpp/gtkmm-2.22.0
 ~dev-cpp/atkmm-2.22.1
+~dev-cpp/pangomm-2.26.3

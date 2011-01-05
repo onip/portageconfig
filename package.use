@@ -236,6 +236,7 @@ x11-libs/goocanvas doc examples
 x11-libs/gtk+ doc examples vim-syntax
 x11-libs/libwnck startup-notification
 x11-libs/libXft cleartype -lcdfilter
+x11-libs/pango doc
 =x11-libs/qt-core-4.6* -exceptions
 =x11-libs/qt-dbus-4.6* -exceptions
 =x11-libs/qt-gui-4.6* -exceptions
