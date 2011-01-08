@@ -219,6 +219,7 @@ sys-fs/ntfsprogs fuse
 sys-fs/udev extras
 sys-libs/pam pam_console
 sys-power/cpufreqd pmu
+virtual/mysql embedded
 www-apache/mod_ruby doc
 www-apache/passenger doc
 www-client/chromium system-sqlite system-v8
