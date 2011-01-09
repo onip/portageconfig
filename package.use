@@ -84,7 +84,7 @@ dev-util/scons doc
 dev-util/weka doc
 dev-vcs/git cvs bash-completion doc emacs subversion vim-syntax webdav -tk
 dev-vcs/mercurial bash-completion
-dev-vcs/subversion -java -apache2 -berkdb -dso
+dev-vcs/subversion -dso
 games-arcade/smc music
 games-emulation/gxmame joystick
 games-emulation/xmame dga joystick net
