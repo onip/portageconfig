@@ -96,7 +96,7 @@
 =media-video/cheese-2.32*
 =media-video/totem-2.32*
 =net-analyzer/gnome-nettool-2.32*
-~net-libs/webkit-gtk-1.2.5
+~net-libs/webkit-gtk-1.2.6
 =net-misc/vinagre-2.32*
 ~sys-fs/udev-151
 ~sys-power/upower-0.9.4
