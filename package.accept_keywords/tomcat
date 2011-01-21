@@ -1,3 +1,6 @@
-~www-servers/tomcat-6.0.29
-~dev-java/tomcat-servlet-api-6.0.29
+www-servers/tomcat:7
+dev-java/tomcat-servlet-api:3.0
 dev-java/tomcat-native
+dev-java/eclipse-ecj:3.6
+dev-java/ant-eclipse-ecj:3.6
+~dev-java/commons-dbcp-1.4
