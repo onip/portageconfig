@@ -178,7 +178,7 @@ net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsess
 net-im/empathy applet webkit
 net-im/pidgin sasl
 net-irc/weechat lua relay
-net-irc/xchat libnotify
+net-irc/xchat fastscroll libnotify
 net-libs/farsight2 msn
 net-libs/neon expat
 net-libs/webkit-gtk coverage
@@ -250,4 +250,5 @@ x11-libs/wxGTK doc
 x11-misc/xscreensaver -gnome
 x11-plugins/compiz-plugins-extra gconf
 x11-plugins/compiz-plugins-main gconf
+x11-themes/gtk-engines lua
 x11-wm/compiz fuse gconf
