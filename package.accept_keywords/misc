@@ -9,7 +9,7 @@ dev-java/sun-jdk:1.6
 x11-terms/guake
 ~x11-themes/gtk-engines-nodoka-0.7.2
 ~app-portage/portage-utils-0.4
-~sys-apps/portage-2.1.9.33
+~sys-apps/portage-2.1.9.34
 media-sound/soundconverter
 ~sys-power/acpid-2.0.4
 app-cdr/iat
