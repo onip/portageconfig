@@ -31,6 +31,7 @@ app-text/texlive doc dvipdfm extra humanities jadetex latex3 luatex graphics ome
 app-text/texlive-core doc
 app-text/xdvik emacs
 dev-cpp/atkmm doc
+dev-cpp/cairomm doc
 dev-cpp/glibmm doc examples
 dev-cpp/gtkmm doc examples
 dev-cpp/pangomm doc
@@ -232,7 +233,7 @@ www-plugins/lightspark nsplugin
 www-servers/tomcat doc examples
 x11-base/xorg-server aiglx
 x11-drivers/nvidia-drivers -gtk
-x11-libs/cairo -glitz pdf -lcdfilter cleartype
+x11-libs/cairo doc -glitz pdf -lcdfilter cleartype
 x11-libs/gdk-pixbuf doc
 x11-libs/goocanvas doc examples
 x11-libs/gtk+ doc examples vim-syntax
