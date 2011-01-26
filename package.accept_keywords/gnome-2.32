@@ -99,7 +99,7 @@
 ~net-libs/webkit-gtk-1.2.6
 =net-misc/vinagre-2.32*
 ~sys-fs/udev-151
-~sys-power/upower-0.9.4
+~sys-power/upower-0.9.8
 =www-client/epiphany-2.30*
 =www-client/epiphany-2.32*
 =www-client/epiphany-extensions-2.32*
