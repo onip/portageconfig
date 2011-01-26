@@ -37,3 +37,4 @@ media-radio/radiotray
 media-gfx/comix
 =dev-util/gtk-doc-1.15-r1
 media-fonts/ubuntu-font-family
+x11-libs/vdpau-video
