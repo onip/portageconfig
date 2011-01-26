@@ -57,6 +57,7 @@ dev-libs/boost tools expat
 dev-libs/crypto++ sse3
 dev-libs/glib doc
 dev-libs/gmime mono
+dev-libs/gobject-introspection doc
 dev-libs/libcdio cddb
 dev-libs/nss utils
 dev-lisp/gcl ansi
