@@ -18,6 +18,7 @@ app-misc/screen multiuser
 app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
 app-office/dia gnome-print
+app-office/libreoffice-bin offlinehelp
 app-portage/eix optimization
 app-portage/layman bazaar git subversion
 app-text/acroread -nsplugin
