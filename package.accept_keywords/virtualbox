@@ -1,0 +1,5 @@
+app-emulation/virtualbox-additions
+app-emulation/virtualbox
+app-emulation/virtualbox-bin
+app-emulation/virtualbox-guest-additions
+app-emulation/virtualbox-modules
