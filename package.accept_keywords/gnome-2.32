@@ -114,6 +114,7 @@
 =x11-libs/vte-0.26*
 =x11-terms/gnome-terminal-2.32*
 =x11-themes/gnome-backgrounds-2.32*
+=x11-themes/gnome-icon-theme-2.31*
 =x11-themes/gnome-icon-theme-2.32*
 =x11-themes/gnome-themes-2.32*
 ~x11-themes/gtk-engines-2.20.1
