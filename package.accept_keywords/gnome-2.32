@@ -19,6 +19,7 @@
 =dev-libs/totem-pl-parser-2.32*
 ~dev-python/gconf-python-2.28.1
 =dev-python/gnome-applets-python-2.32*
+=dev-python/gnome-keyring-python-2.32*
 ~dev-python/gnome-python-2.28.1
 ~dev-python/gnome-python-base-2.28.1
 =dev-python/gnome-python-desktop-base-2.32*
