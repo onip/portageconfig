@@ -60,6 +60,7 @@ dev-libs/glib doc
 dev-libs/gmime mono
 dev-libs/gobject-introspection doc
 dev-libs/libcdio cddb
+dev-libs/libxml2 icu
 dev-libs/nss utils
 dev-lisp/gcl ansi
 dev-perl/PortageXS minimal
