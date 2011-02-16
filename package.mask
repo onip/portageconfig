@@ -1,1 +1,0 @@
-=dev-ruby/rack-1.2.1
