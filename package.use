@@ -114,6 +114,7 @@ media-gfx/comix rar
 media-gfx/dcraw gimp
 media-gfx/gimp doc webkit
 media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
+media-gfx/graphviz doc examples
 media-gfx/gthumb gphoto2 slideshow
 media-gfx/gthumb http raw
 media-gfx/gtkam gimp
