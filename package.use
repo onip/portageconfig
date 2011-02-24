@@ -12,6 +12,7 @@ app-editors/emacs gconf leim toolkit-scroll-bars xft
 app-editors/gvim bash-completion cscope netbeans
 app-editors/vim bash-completion cscope vim-with-x
 app-editors/vim-core bash-completion
+app-emacs/auctex preview-latex
 app-emacs/emacs-common-gentoo emacs22icons
 app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -win64
 app-misc/screen multiuser
