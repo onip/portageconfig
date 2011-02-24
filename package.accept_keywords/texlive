@@ -17,7 +17,7 @@ dev-tex/dot2texi
 ~media-libs/silgraphite-2.3.1
 ~app-text/teckit-2.5.1
 ~app-text/texlive-2010
-~dev-tex/latexmk-418
+dev-tex/latexmk
 ~app-text/dvipsk-5.99_p20100722
 ~app-text/ps2pkm-1.5_p20100722
 ~dev-libs/kpathsea-6.0.0_p20100722
