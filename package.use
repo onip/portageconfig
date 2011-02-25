@@ -71,7 +71,9 @@ dev-php5/phpunit -minimal
 dev-python/imaging tcltk
 dev-python/matplotlib latex doc examples
 dev-python/pygments doc
+dev-python/pygobject doc examples
 dev-python/pygoocanvas doc examples
+dev-python/pygtk doc examples
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
 dev-ruby/* doc
 dev-ruby/eruby vim-syntax
