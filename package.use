@@ -23,6 +23,7 @@ app-office/libreoffice-bin offlinehelp
 app-portage/eix optimization
 app-portage/layman bazaar git subversion
 app-text/acroread -nsplugin
+app-text/asciidoc highlight
 app-text/docbook-sgml-utils jadetex
 app-text/evince nautilus djvu dvi t1lib
 app-text/ghostscript-gpl djvu
@@ -247,11 +248,8 @@ x11-libs/gtk+ doc examples vim-syntax
 x11-libs/libwnck startup-notification
 x11-libs/libXft cleartype -lcdfilter
 x11-libs/pango doc
-=x11-libs/qt-core-4.6* -exceptions
-=x11-libs/qt-dbus-4.6* -exceptions
-=x11-libs/qt-gui-4.6* -exceptions
-=x11-libs/qt-script-4.6* -exceptions
 x11-libs/qt-* doc private-headers qt3support
+x11-libs/qt-qt3support phonon
 x11-libs/qt-sql mysql postgres
 x11-libs/vte glade
 x11-libs/wxGTK doc
