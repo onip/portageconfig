@@ -171,7 +171,7 @@ media-video/dvdrip subtitles mplayer -xine
 media-video/ffmpeg amr imlib network opencore-amr cpudetection faac faad
 media-video/gnome-mplayer -ipod
 media-video/kino lame sox
-media-video/mplayer aalib amrnb amrwb amr bl dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
+media-video/mplayer aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
 media-video/ogmrip matroska srt mp4 ogm
 media-video/totem -bluetooth
 media-video/transcode network -gtk mjpeg fame v4l2
