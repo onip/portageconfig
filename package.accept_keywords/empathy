@@ -19,8 +19,8 @@ net-im/empathy
 ~net-libs/libproxy-0.4.6
 ~net-libs/gnutls-2.10.2
 ~net-libs/libnice-0.0.13
-dev-lang/vala:0.10
-~dev-libs/gobject-introspection-0.10.1
+dev-lang/vala:0.12
+~dev-libs/gobject-introspection-0.10.4
 ~x11-libs/gtk+-2.22.1
 net-im/telepathy-logger
 ~dev-libs/glib-2.26.1
