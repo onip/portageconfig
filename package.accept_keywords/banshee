@@ -1,8 +1,8 @@
 media-sound/banshee
 dev-dotnet/taglib-sharp
 ~dev-dotnet/ipod-sharp-0.8.5
-~dev-dotnet/dbus-glib-sharp-0.4.1
-~dev-dotnet/dbus-sharp-0.6.1a
+~dev-dotnet/ndesk-dbus-glib-0.4.1
+~dev-dotnet/ndesk-dbus-0.6.1a
 ~x11-misc/notification-daemon-0.4.0
 dev-dotnet/google-gdata-sharp
 ~x11-libs/libnotify-0.4.5
