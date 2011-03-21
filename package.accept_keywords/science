@@ -8,3 +8,4 @@ sci-libs/qrupdate
 sci-libs/arpack
 ~media-gfx/graphicsmagick-1.3.12
 sci-mathematics/qtoctave
+x11-libs/fltk:1
