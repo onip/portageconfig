@@ -3,3 +3,4 @@ app-doc/php-docs
 dev-php5/*
 dev-php/*
 ~app-admin/eselect-php-0.6.2
+~dev-libs/libpcre-8.12
