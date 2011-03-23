@@ -35,6 +35,7 @@ app-text/texlive-core doc
 app-text/xdvik emacs
 dev-cpp/atkmm doc
 dev-cpp/cairomm doc
+dev-cpp/ctemplate emacs
 dev-cpp/glibmm doc examples
 dev-cpp/gtkmm doc examples
 dev-cpp/pangomm doc
