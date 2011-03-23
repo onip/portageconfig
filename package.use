@@ -192,7 +192,7 @@ net-irc/xchat fastscroll libnotify
 net-libs/farsight2 msn
 net-libs/neon expat
 net-libs/webkit-gtk coverage
-net-libs/xulrunner wifi startup-notification system-sqlite
+net-libs/xulrunner -crashreporter wifi startup-notification system-sqlite
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
 net-p2p/amule geoip stats

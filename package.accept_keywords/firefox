@@ -2,3 +2,5 @@ www-client/firefox-bin
 www-client/firefox
 net-libs/xulrunner
 ~dev-db/sqlite-3.7.2
+~dev-libs/nspr-4.8.7
+~dev-libs/nss-3.12.9
