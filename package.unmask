@@ -1,7 +1,0 @@
-media-sound/banshee
-dev-lang/v8
-dev-util/chromium-tools
-www-client/chromium
-www-client/chromium-bin
-=net-p2p/transmission-2.21
-=dev-libs/libevent-2.0.10
