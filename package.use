@@ -69,7 +69,7 @@ dev-libs/nss utils
 dev-lisp/gcl ansi
 dev-perl/PortageXS minimal
 dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
-dev-php5/phpunit -minimal
+dev-php/phpunit -minimal
 dev-python/imaging tcltk
 dev-python/matplotlib latex doc examples
 dev-python/pygments doc
