@@ -151,7 +151,7 @@ media-libs/win32codecs real
 media-libs/xine-lib aalibasf dxr3 musepack real wavpack vidix xvmc
 media-plugins/audacious-plugins mms musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
 media-plugins/gimp-resynthesizer gimp
-media-plugins/gst-plugins-meta taglib
+media-plugins/gst-plugins-meta taglib wavpack
 media-sound/abcde id3 lame musepack
 media-sound/audacious chardet
 media-sound/banshee boo daap mtp podcast web youtube
