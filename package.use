@@ -136,7 +136,7 @@ media-libs/clutter-gtk doc examples
 media-libs/fontconfig cleartype -lcdfilter
 media-libs/freetype cleartype -lcdfilter kpathsea
 media-libs/gd fontconfig xpm
-media-libs/gegl openexr raw
+media-libs/gegl openexr raw graphviz lua umfpack
 media-libs/libdvdread css
 media-libs/libgpod iphone
 media-libs/libquicktime lame
@@ -194,7 +194,7 @@ net-irc/xchat fastscroll libnotify
 net-libs/farsight2 msn
 net-libs/neon expat
 net-libs/webkit-gtk coverage
-net-libs/xulrunner -crashreporter wifi startup-notification system-sqlite
+net-libs/xulrunner -crashreporter gconf wifi startup-notification system-sqlite
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
 net-p2p/amule geoip stats
