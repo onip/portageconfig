@@ -252,6 +252,7 @@ x11-libs/libwnck startup-notification
 x11-libs/libXft cleartype -lcdfilter
 x11-libs/pango doc
 x11-libs/qt-* doc private-headers qt3support
+x11-libs/qt-gui gtkstyle
 x11-libs/qt-qt3support phonon
 x11-libs/qt-sql mysql postgres
 x11-libs/vte glade
