@@ -96,7 +96,7 @@
 =net-misc/vinagre-2.32*
 =sys-apps/gnome-disk-utility-2.32*
 ~sys-fs/udev-151
-~sys-power/upower-0.9.8
+~sys-power/upower-0.9.9
 =www-client/epiphany-2.30*
 =www-client/epiphany-2.32*
 =www-client/epiphany-extensions-2.32*
@@ -118,3 +118,4 @@
 =x11-wm/metacity-2.34*
 ~media-libs/quvi-0.2.14
 ~sys-devel/autoconf-2.68
+=sys-fs/udisks-1.0.2-r1
