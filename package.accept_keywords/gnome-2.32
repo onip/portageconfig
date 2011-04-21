@@ -116,6 +116,6 @@
 =x11-themes/gnome-themes-2.32*
 ~x11-themes/gtk-engines-2.20.1
 =x11-wm/metacity-2.34*
-~media-libs/quvi-0.2.14
+~media-libs/quvi-0.2.15
 ~sys-devel/autoconf-2.68
 =sys-fs/udisks-1.0.2-r1
