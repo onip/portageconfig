@@ -1,8 +1,8 @@
 media-sound/banshee
 dev-dotnet/taglib-sharp
 ~dev-dotnet/ipod-sharp-0.8.5
-~dev-dotnet/ndesk-dbus-glib-0.4.1
-~dev-dotnet/ndesk-dbus-0.6.1a
+~dev-dotnet/dbus-sharp-glib-0.5.0
+~dev-dotnet/dbus-sharp-0.7.0
 ~x11-misc/notification-daemon-0.5.0
 dev-dotnet/google-gdata-sharp
 ~x11-libs/libnotify-0.4.5
@@ -13,3 +13,4 @@ dev-dotnet/gio-sharp
 dev-dotnet/gudev-sharp
 dev-dotnet/gkeyfile-sharp
 dev-dotnet/gtk-sharp-beans
+~dev-dotnet/notify-sharp-0.4.0_pre20090305
