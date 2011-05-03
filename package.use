@@ -139,6 +139,7 @@ media-libs/gd fontconfig xpm
 media-libs/gegl openexr raw graphviz lua umfpack
 media-libs/libdvdread css
 media-libs/libgpod iphone
+media-libs/libpng apng
 media-libs/libquicktime lame
 media-libs/libsamplerate sndfile fftw
 media-libs/libwmf gd
