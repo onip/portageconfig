@@ -3,6 +3,7 @@ app-office/libreoffice-bin
 app-office/abiword
 app-office/abiword-plugins
 app-text/wv
+~app-text/libwpd-0.8.14
 app-office/gnumeric
 ~gnome-extra/libgsf-1.14.19
 x11-libs/goffice
