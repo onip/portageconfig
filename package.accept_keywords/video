@@ -1,0 +1,7 @@
+media-video/mplayer
+~media-libs/x264-0.0.20110426
+~media-libs/libvpx-0.9.6
+media-video/mplayer2
+~virtual/ffmpeg-0.6.90
+~media-video/ffmpeg-0.6.90_rc0
+~x11-libs/libva-0.32.0_p2
