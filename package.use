@@ -66,6 +66,7 @@ dev-libs/gobject-introspection doc
 dev-libs/libcdio cddb
 dev-libs/libxml2 icu
 dev-libs/nss utils
+dev-libs/totem-pl-parser archive
 dev-lisp/gcl ansi
 dev-perl/PortageXS minimal
 dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
