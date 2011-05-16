@@ -113,7 +113,7 @@ gnome-extra/libgsf thumbnail
 gnome-extra/nautilus-sendto pidgin
 mail-client/evolution mono -sound
 mail-client/mail-notification gmail imap
-media-gfx/blender blender-game ode openexr yafray player
+media-gfx/blender -apidoc blender-game -collada contrib ode openexr yafray player
 media-gfx/comix rar
 media-gfx/dcraw gimp
 media-gfx/gimp doc webkit
@@ -173,8 +173,8 @@ media-video/dvdrip subtitles mplayer -xine
 media-video/ffmpeg amr imlib network opencore-amr cpudetection faac faad
 media-video/gnome-mplayer -ipod
 media-video/kino lame sox
-media-video/mplayer aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
-media-video/mplayer2 aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live md5sum mmxext mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
+media-video/mplayer aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
+media-video/mplayer2 aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
 media-video/ogmrip matroska srt mp4 ogm
 media-video/totem -bluetooth
 media-video/transcode network -gtk mjpeg fame v4l2
