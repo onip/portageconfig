@@ -54,8 +54,7 @@ dev-java/icedtea-web doc nsplugin
 dev-java/sun-jdk derby examples nsplugin doc
 dev-lang/mono -moonlight
 dev-lang/php doc embed fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl curlwrappers discard-path exif ftp gmp hash iconv imap json mysql mysqli nls posix readline reflection session simplexml soap sockets spl ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl -sqlite sqlite3 postgres xmlrpc pdo
-dev-lang/python doc examples
-dev-lang/python -tk sqlite
+dev-lang/python doc examples sqlite -tk
 dev-lang/ruby doc examples -tk ipv6
 dev-lang/spidermonkey threadsafe
 dev-libs/boost tools expat
@@ -71,7 +70,6 @@ dev-lisp/gcl ansi
 dev-perl/PortageXS minimal
 dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
 dev-php/phpunit -minimal
-dev-python/imaging tcltk
 dev-python/matplotlib latex doc examples
 dev-python/pygments doc
 dev-python/pygobject doc examples
@@ -120,13 +118,11 @@ media-gfx/dcraw gimp
 media-gfx/gimp doc webkit
 media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
 media-gfx/graphviz doc examples
-media-gfx/gthumb gphoto2 slideshow
-media-gfx/gthumb http raw
+media-gfx/gthumb gphoto2 http raw slideshow
 media-gfx/gtkam gimp
 media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw
 media-gfx/inkscape inkjar dia postscript jabber gs
 media-gfx/luxrender sse2
-media-gfx/luxrender wxwindows
 media-gfx/pstoedit plotutils emf
 media-gfx/sane-backends gphoto2
 media-gfx/sane-frontends gimp
@@ -220,8 +216,6 @@ sci-mathematics/octave blas hdf5 fftw sparse doc
 sci-mathematics/scilab -tk gtk
 sci-visualization/gnuplot doc emacs gd pdf plotutils latex lua thin-splines wxwidgets
 sys-apps/gnome-disk-utility fat
-sys-apps/hal consolekit policykit
-sys-apps/hal -crypt
 sys-apps/man -nls
 sys-apps/man-pages -nls
 sys-apps/pmount -crypt
