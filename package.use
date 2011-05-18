@@ -114,7 +114,7 @@ gnome-extra/libgsf thumbnail
 gnome-extra/nautilus-sendto pidgin
 mail-client/evolution mono -sound
 mail-client/mail-notification gmail imap
-media-gfx/blender -apidoc blender-game -collada contrib ode openexr yafray player
+media-gfx/blender -apidoc blender-game -collada contrib fftw ode openexr player
 media-gfx/comix rar
 media-gfx/dcraw gimp
 media-gfx/gimp doc webkit
