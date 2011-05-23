@@ -124,7 +124,7 @@ media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw
 media-gfx/inkscape inkjar dia postscript jabber gs
 media-gfx/luxrender sse2
 media-gfx/pstoedit plotutils emf
-media-gfx/sane-backends gphoto2
+media-gfx/sane-backends gphoto2 -v4l
 media-gfx/sane-frontends gimp
 media-gfx/xsane gimp
 media-gfx/yafray openexr
