@@ -198,6 +198,7 @@ net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
 net-p2p/amule geoip stats
 net-p2p/deluge libnotify
+net-p2p/transmission utp
 net-print/cups gnutls
 net-print/gutenprint gimp
 net-print/hplip -X
