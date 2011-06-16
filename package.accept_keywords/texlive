@@ -23,7 +23,7 @@ dev-tex/latexmk
 ~dev-libs/kpathsea-6.0.0_p20100722
 ~dev-tex/bibtexu-3.71_p20100722
 ~dev-tex/latex-beamer-3.10
-~app-text/dvisvgm-1.0.3
+~app-text/dvisvgm-1.0.8
 ~dev-texlive/texlive-htmlxml-2010
 ~dev-texlive/texlive-metapost-2010
 ~app-text/lcdf-typetools-2.83
