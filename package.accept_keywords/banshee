@@ -7,7 +7,7 @@ dev-dotnet/taglib-sharp
 dev-dotnet/google-gdata-sharp
 ~x11-libs/libnotify-0.4.5
 ~dev-dotnet/nant-0.86_beta1
-~dev-dotnet/webkit-sharp-0.3
+=dev-dotnet/webkit-sharp-0.3
 dev-dotnet/podsleuth
 dev-dotnet/gio-sharp
 dev-dotnet/gudev-sharp
