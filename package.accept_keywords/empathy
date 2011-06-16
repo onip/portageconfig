@@ -21,7 +21,6 @@ net-im/empathy
 ~net-libs/libnice-0.0.13
 dev-lang/vala:0.12
 ~dev-libs/gobject-introspection-0.10.8
-~x11-libs/gtk+-2.22.1
 net-im/telepathy-logger
 ~dev-libs/glib-2.26.1
 ~x11-libs/gdk-pixbuf-2.22.1

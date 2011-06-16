@@ -16,7 +16,8 @@
 ~dev-cpp/pangomm-2.28.2
 =dev-libs/atk-1.32*
 ~dev-lang/orc-0.4.11
-~dev-libs/glib-2.28.5
+~dev-libs/glib-2.28.8
+~dev-cpp/glibmm-2.28.2
 =dev-libs/libgweather-2.30*
 =dev-libs/libgweather-2.32*
 ~dev-libs/libIDL-0.8.14
@@ -101,7 +102,7 @@
 =www-client/epiphany-2.32*
 =www-client/epiphany-extensions-2.32*
 ~x11-libs/cairo-1.10.2
-~x11-libs/gtk+-2.24.3
+~x11-libs/gtk+-2.24.5
 =x11-libs/gtksourceview-2.10.4
 =x11-libs/libwnck-2.30*
 =x11-libs/libwnck-2.32*
