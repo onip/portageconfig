@@ -102,7 +102,7 @@
 =www-client/epiphany-2.32*
 =www-client/epiphany-extensions-2.32*
 ~x11-libs/cairo-1.10.2
-~x11-libs/gtk+-2.24.5
+~x11-libs/gtk+-2.24.4
 =x11-libs/gtksourceview-2.10.4
 =x11-libs/libwnck-2.30*
 =x11-libs/libwnck-2.32*
