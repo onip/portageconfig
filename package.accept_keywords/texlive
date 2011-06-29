@@ -20,7 +20,7 @@ dev-tex/dot2texi
 dev-tex/latexmk
 ~app-text/dvipsk-5.99_p20100722
 ~app-text/ps2pkm-1.5_p20100722
-~dev-libs/kpathsea-6.0.0_p20100722
+~dev-libs/kpathsea-6.0.1_p20110627
 ~dev-tex/bibtexu-3.71_p20100722
 ~dev-tex/latex-beamer-3.10
 ~app-text/dvisvgm-1.0.8
