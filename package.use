@@ -89,6 +89,8 @@ dev-util/gtk-doc doc emacs highlight vim
 dev-util/monodevelop cxx aspnet subversion
 dev-util/monodevelop-database mysql
 dev-util/mono-tools -gtkhtml -xulrunner webkit
+dev-util/nvidia-cuda-toolkit debugger doc profiler
+dev-util/nvidia-cuda-sdk opencl
 dev-util/qt-creator bineditor bookmarks doc examples git mercurial qtscript rss subversion
 dev-util/scons doc
 dev-util/weka doc
