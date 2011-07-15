@@ -85,6 +85,7 @@ dev-texlive/* doc
 dev-util/anjuta devhelp glade inherit-graph sourceview subversion valgrind
 dev-util/cmake vim-syntax
 dev-util/codeblocks contrib xrc
+dev-util/gtk-doc doc emacs highlight vim
 dev-util/monodevelop cxx aspnet subversion
 dev-util/monodevelop-database mysql
 dev-util/mono-tools -gtkhtml -xulrunner webkit
