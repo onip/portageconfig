@@ -218,7 +218,7 @@ sci-libs/libgeda gd
 sci-mathematics/maxima -gcl clisp latex
 sci-mathematics/octave blas hdf5 fftw sparse doc
 sci-mathematics/scilab -tk gtk
-sci-visualization/gnuplot doc emacs gd pdf plotutils latex lua thin-splines wxwidgets
+sci-visualization/gnuplot doc emacs examples gd pdf plotutils latex lua thin-splines wxwidgets
 sys-apps/gnome-disk-utility fat
 sys-apps/man -nls
 sys-apps/man-pages -nls
