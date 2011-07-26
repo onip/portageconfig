@@ -83,7 +83,7 @@ dev-tex/* doc
 dev-tex/latex-beamer examples
 dev-texlive/* doc
 dev-util/anjuta devhelp glade inherit-graph sourceview subversion valgrind
-dev-util/cmake vim-syntax
+dev-util/cmake emacs vim-syntax
 dev-util/codeblocks contrib xrc
 dev-util/gtk-doc doc emacs highlight vim
 dev-util/monodevelop cxx aspnet subversion

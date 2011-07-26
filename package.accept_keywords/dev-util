@@ -1,6 +1,7 @@
 dev-vcs/bzr
 dev-vcs/giggle
 dev-vcs/git
+dev-util/cmake
 ~sys-devel/autoconf-2.64
 ~x11-libs/gtksourceview-2.8.2
 ~dev-python/pygtksourceview-2.8.0
