@@ -13,7 +13,6 @@ media-sound/soundconverter
 ~sys-power/acpid-2.0.4
 app-cdr/iat
 www-client/httrack
-~app-text/asciidoc-8.5.3
 media-libs/libmtp
 media-sound/vagalume
 app-text/chmsee
