@@ -129,7 +129,7 @@ media-gfx/luxrender sse2
 media-gfx/pstoedit plotutils emf
 media-gfx/sane-backends gphoto2 -v4l
 media-gfx/sane-frontends gimp
-media-gfx/xsane gimp
+media-gfx/xsane gimp ocr
 media-gfx/yafray openexr
 media-libs/clutter doc
 media-libs/clutter-gtk doc examples
