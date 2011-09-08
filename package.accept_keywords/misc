@@ -15,7 +15,7 @@ app-cdr/iat
 www-client/httrack
 media-libs/libmtp
 media-sound/vagalume
-app-text/chmsee
+app-text/xchm
 ~media-gfx/graphviz-2.26.3
 ~dev-cpp/cairomm-1.9.8
 =dev-lisp/clisp-2.48-r2
