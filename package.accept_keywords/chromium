@@ -6,3 +6,4 @@ www-client/chromium
 dev-util/chromium-tools
 dev-lang/v8
 ~media-libs/libwebp-0.1.2
+www-client/google-chrome
