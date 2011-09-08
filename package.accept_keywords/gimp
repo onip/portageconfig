@@ -1,7 +1,6 @@
 media-gfx/gimp
 media-libs/gegl
 media-libs/babl
-net-print/gutenprint
 media-gfx/gimp-texturize-plugin
 media-plugins/gimp-greycstoration
 media-plugins/gimp-resynthesizer
