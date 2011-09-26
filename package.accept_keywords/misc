@@ -20,8 +20,6 @@ app-text/xchm
 ~dev-cpp/cairomm-1.9.8
 =dev-lisp/clisp-2.48-r2
 app-arch/p7zip
-media-plugins/audacious-plugins
-media-sound/audacious
 mail-client/mail-notification
 media-radio/radiotray
 ~app-portage/eix-0.22.5
