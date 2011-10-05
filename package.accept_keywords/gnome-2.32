@@ -104,6 +104,7 @@
 =www-client/epiphany-extensions-2.32*
 ~x11-libs/cairo-1.10.2
 ~x11-libs/gtk+-2.24.4
+~x11-libs/gtk+-3.0.12
 =x11-libs/gtksourceview-2.10.4
 =x11-libs/libwnck-2.30*
 =x11-libs/libwnck-2.32*
@@ -116,6 +117,7 @@
 =x11-themes/gnome-icon-theme-2.91*
 =x11-themes/gnome-icon-theme-2.32*
 =x11-themes/gnome-themes-2.32*
+~x11-themes/gnome-themes-standard-3.0.2
 ~x11-themes/gtk-engines-2.20.1
 =x11-wm/metacity-2.34*
 ~media-libs/quvi-0.2.15
