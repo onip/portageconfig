@@ -198,7 +198,7 @@ net-irc/weechat lua relay
 net-irc/xchat fastscroll libnotify
 net-libs/farsight2 msn
 net-libs/neon expat
-net-libs/webkit-gtk coverage
+net-libs/webkit-gtk coverage doc
 net-libs/xulrunner -crashreporter gconf wifi startup-notification system-sqlite
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
