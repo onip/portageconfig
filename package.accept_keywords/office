@@ -3,8 +3,12 @@ app-office/libreoffice-bin
 app-office/libreoffice-l10n
 app-office/abiword
 app-office/abiword-plugins
+~app-text/mythes-1.2.1
 app-text/wv
 ~app-text/libwpd-0.8.14
 app-office/gnumeric
+~dev-libs/hyphen-2.8.3
 ~gnome-extra/libgsf-1.14.19
+~media-gfx/graphite2-1.0.3
+~sci-mathematics/lpsolve-5.5.2.0
 x11-libs/goffice
