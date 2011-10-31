@@ -49,7 +49,7 @@ dev-dotnet/gtk-sharp glade
 dev-games/cegui devil
 dev-java/ant-apache-bsf -python
 dev-java/bsf -python
-dev-java/icedtea6-bin doc examples nsplugin
+dev-java/icedtea-bin doc examples nsplugin
 dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
 dev-java/icedtea-web doc nsplugin
 dev-java/sun-jdk derby examples nsplugin doc
