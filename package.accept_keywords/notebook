@@ -3,4 +3,5 @@ sys-power/iasl
 sys-power/suspend
 sys-apps/hwinfo
 gnome-extra/gnome-color-chooser
-=sys-kernel/tuxonice-sources-3.0.7
+~sys-power/pm-utils-1.4.1
+~sys-power/upower-0.9.14
