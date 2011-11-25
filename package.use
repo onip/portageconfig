@@ -41,6 +41,7 @@ dev-cpp/glibmm doc examples
 dev-cpp/gtkmm doc examples
 dev-cpp/pangomm doc
 dev-db/mysql extraengine embedded
+dev-db/mysql-workbench doc
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
 dev-db/sqlite:0 -doc
@@ -257,7 +258,7 @@ x11-libs/libXft cleartype -lcdfilter
 x11-libs/pango doc
 x11-libs/qt-* doc private-headers qt3support
 x11-libs/qt-assistant compat
-x11-libs/qt-gui gtkstyle
+x11-libs/qt-gui accessibility gtkstyle
 x11-libs/qt-qt3support phonon
 x11-libs/qt-sql mysql postgres
 x11-libs/vte glade
