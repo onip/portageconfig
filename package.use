@@ -41,6 +41,7 @@ dev-cpp/glibmm doc examples
 dev-cpp/gtkmm doc examples
 dev-cpp/pangomm doc
 dev-db/mysql extraengine embedded
+dev-db/mysql-workbench doc
 dev-db/postgresql-base doc
 dev-db/postgresql-server doc
 dev-db/sqlite:0 -doc
