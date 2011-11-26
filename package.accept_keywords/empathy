@@ -15,7 +15,7 @@ net-voip/telepathy-gabble
 net-libs/loudmouth
 ~dev-libs/dbus-glib-0.82
 x11-themes/sound-theme-freedesktop
-net-im/empathy
+=net-im/empathy-2*
 ~dev-libs/libunique-1.1.6
 ~net-libs/libproxy-0.4.6
 ~net-libs/gnutls-2.10.2
@@ -27,6 +27,5 @@ net-im/telepathy-logger
 ~x11-libs/gdk-pixbuf-2.22.1
 ~x11-libs/libnotify-0.7.2
 ~gnome-base/librsvg-2.32.1
-dev-libs/folks
 ~dev-libs/libgee-0.6.0
 ~gnome-extra/nautilus-sendto-2.32.0
