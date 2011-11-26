@@ -196,6 +196,7 @@ net-fs/samba addns client smbclient server aio smbsharemodes winbind
 net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
 net-im/empathy applet webkit
 net-im/pidgin sasl
+net-im/telepathy-connection-managers irc msn jabber
 net-irc/weechat lua relay
 net-irc/xchat fastscroll libnotify
 net-libs/farsight2 msn
@@ -210,7 +211,6 @@ net-p2p/transmission utp
 net-print/cups gnutls
 net-print/gutenprint gimp
 net-print/hplip -X
-net-voip/telepathy-connection-managers irc msn jabber
 net-wireless/aircrack-ng wifi
 sci-electronics/geda gd examples
 sci-electronics/gnucap examples
