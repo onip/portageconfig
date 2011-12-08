@@ -26,7 +26,7 @@ app-portage/layman bazaar git subversion
 app-text/acroread -nsplugin minimal
 app-text/asciidoc highlight
 app-text/docbook-sgml-utils jadetex
-app-text/evince nautilus djvu dvi t1lib
+app-text/evince nautilus djvu dvi t1lib xps
 app-text/ghostscript-gpl djvu
 app-text/gocr -gtk
 app-text/lcdf-typetools kpathsea
@@ -65,6 +65,7 @@ dev-libs/glib doc
 dev-libs/gmime mono
 dev-libs/gobject-introspection doc
 dev-libs/libcdio cddb
+dev-libs/libpeas seed
 dev-libs/libxml2 icu
 dev-libs/nss utils
 dev-libs/tinyxml stl
@@ -111,9 +112,11 @@ games-simulation/openttd scenarios timidity
 games-strategy/freeciv gtk -sdl
 games-strategy/smac videos
 gnome-base/gnome-control-center -sound
+gnome-base/gnome-settings-daemon short-touchpad-timeout
 gnome-base/gnome-volume-manager -automount
 gnome-base/gvfs archive cdda fuse gphoto2 gdu
-gnome-extra/gnome-games artworkextra guile clutter
+gnome-base/nautilus sendto
+gnome-extra/gnome-games artworkextra clutter glchess guile seed
 gnome-extra/gnome-power-manager libnotify
 gnome-extra/libgsf thumbnail
 gnome-extra/nautilus-sendto pidgin
@@ -125,7 +128,7 @@ media-gfx/dcraw gimp
 media-gfx/gimp doc webkit
 media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
 media-gfx/graphviz doc examples
-media-gfx/gthumb gphoto2 http raw slideshow
+media-gfx/gthumb -cdr gphoto2 http raw slideshow
 media-gfx/gtkam gimp
 media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw
 media-gfx/inkscape inkjar dia postscript jabber gs
@@ -193,7 +196,7 @@ net-nds/openldap gnutls
 net-irc/xchat hires-icons
 net-fs/samba addns client smbclient server aio smbsharemodes winbind
 net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
-net-im/empathy applet webkit
+net-im/empathy applet sendto webkit
 net-im/pidgin sasl
 net-im/telepathy-connection-managers irc msn jabber
 net-irc/weechat lua relay
@@ -211,6 +214,7 @@ net-print/cups gnutls
 net-print/gutenprint gimp
 net-print/hplip -X
 net-wireless/aircrack-ng wifi
+net-wireless/gnome-bluetooth sendto
 sci-electronics/geda gd examples
 sci-electronics/gnucap examples
 sci-electronics/gtkwave examples
@@ -267,3 +271,9 @@ x11-plugins/compiz-plugins-extra gconf
 x11-plugins/compiz-plugins-main gconf
 x11-themes/gtk-engines lua
 x11-wm/compiz fuse gconf
+#required by gnome-base/gnome-control-center-3.2.2[networkmanager], required by net-libs/gnome-online-accounts-3.2.1[gnome], required by gnome-extra/gnome-documents-0.2.1, required by gnome-base/gnome-extra-apps-3.2.1[tracker], required by gnome-base/gnome-3.2.1[extras], required by =gnome-base/gnome-3.2.1 (argument)
+>=gnome-extra/nm-applet-0.9.2.0 bluetooth
+#required by net-misc/vinagre-3.2.1[avahi], required by gnome-base/gnome-extra-apps-3.2.1, required by gnome-base/gnome-3.2.1[extras], required by =gnome-base/gnome-3.2.1 (argument)
+>=net-dns/avahi-0.6.30-r1 gtk3
+#required by gnome-base/gnome-3.2.1, required by =gnome-base/gnome-3.2.1 (argument)
+>=gnome-base/gnome-core-apps-3.2.1 bluetooth
