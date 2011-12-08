@@ -112,7 +112,7 @@ games-strategy/freeciv gtk -sdl
 games-strategy/smac videos
 gnome-base/gnome-control-center -sound
 gnome-base/gnome-volume-manager -automount
-gnome-base/gvfs archive -bluetooth cdda fuse gphoto2 gdu
+gnome-base/gvfs archive cdda fuse gphoto2 gdu
 gnome-extra/gnome-games artworkextra guile clutter
 gnome-extra/gnome-power-manager libnotify
 gnome-extra/libgsf thumbnail
@@ -165,7 +165,7 @@ media-sound/exaile cdaudio libnotify libsexy musepack equalizer
 media-sound/fluidsynth ladspa
 media-sound/lame -gtk
 media-sound/mhwaveedit ladspa libsamplerate
-media-sound/pulseaudio avahi libsamplerate -bluetooth
+media-sound/pulseaudio avahi libsamplerate 
 media-sound/quodlibet musepack wma trayicon tta
 media-sound/rhythmbox musicbrainz tagwriting
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
@@ -181,7 +181,6 @@ media-video/mplayer aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live 
 media-video/mplayer-resume -lirc
 media-video/mplayer2 aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
 media-video/ogmrip matroska srt mp4 ogm
-media-video/totem -bluetooth
 media-video/transcode network -gtk mjpeg fame v4l2
 media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
 media-video/winki css matroska mjpeg
