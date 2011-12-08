@@ -5,3 +5,4 @@ sys-apps/hwinfo
 gnome-extra/gnome-color-chooser
 ~sys-power/pm-utils-1.4.1
 ~sys-power/upower-0.9.14
+=net-wireless/gnome-bluetooth-2*
