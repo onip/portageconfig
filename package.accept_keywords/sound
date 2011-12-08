@@ -1,0 +1,5 @@
+media-sound/audacious
+media-plugins/audacious-plugins
+~app-i18n/libguess-1.1
+media-sound/shntool
+app-cdr/cuetools
