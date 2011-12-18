@@ -1,1 +1,2 @@
+gnome-base/nautilus -introspection
 www-client/chromium -system-v8
