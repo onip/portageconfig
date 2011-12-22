@@ -1,1 +1,1 @@
-FEATURES="fixpackages fixlafiles sandbox parallel-fetch -buildpkg -metadata-transfer"
+FEATURES="fixlafiles sandbox parallel-fetch -buildpkg -metadata-transfer"
