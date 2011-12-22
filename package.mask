@@ -1,3 +1,4 @@
 =dev-lang/php-5.3.9_rc1
 =dev-lang/php-5.3.9_rc2
+=dev-lang/php-5.3.9_rc3
 =sys-kernel/tuxonice-sources-2.6.38-r1
