@@ -171,6 +171,7 @@ media-sound/mhwaveedit ladspa libsamplerate
 media-sound/pulseaudio avahi libsamplerate 
 media-sound/quodlibet musepack wma trayicon tta
 media-sound/rhythmbox musicbrainz tagwriting
+media-sound/shntool flac mac
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
 media-sound/sweep ladspa
 media-sound/timidity++ -gtk -X
