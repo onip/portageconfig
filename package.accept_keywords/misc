@@ -5,7 +5,6 @@ app-editors/bluefish
 dev-util/weka
 media-sound/mhwaveedit
 www-plugins/adobe-flash
-dev-java/sun-jdk:1.6
 x11-terms/guake
 ~x11-themes/gtk-engines-nodoka-0.7.2
 ~app-portage/portage-utils-0.4
