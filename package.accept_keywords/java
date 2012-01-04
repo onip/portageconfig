@@ -1,10 +1,10 @@
 dev-java/icedtea:6
 dev-java/sun-jdk:1.6
 dev-java/oracle-jdk-bin
-virtual/jdk:1.6
 =dev-libs/nspr-4.8.4
 dev-java/icedtea-bin
 dev-java/icedtea-web:6
 net-misc/npapi-sdk
-virtual/jdk
+virtual/jdk:1.7
+virtual/jre:1.7
 dev-java/java-sdk-docs
