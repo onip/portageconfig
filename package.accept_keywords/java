@@ -6,5 +6,6 @@ dev-java/icedtea-bin
 dev-java/icedtea-web:6
 net-misc/npapi-sdk
 virtual/jdk:1.7
+virtual/jdk:1.6
 virtual/jre:1.7
 dev-java/java-sdk-docs
