@@ -97,7 +97,7 @@ dev-util/monodevelop-database mysql
 dev-util/mono-tools -gtkhtml -xulrunner webkit
 dev-util/nvidia-cuda-toolkit debugger doc profiler
 dev-util/nvidia-cuda-sdk opencl
-dev-util/qt-creator bazaar bineditor bookmarks doc examples git mercurial qtscript rss subversion
+dev-util/qt-creator bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
 dev-util/scons doc
 dev-util/weka doc
 dev-vcs/git cvs bash-completion doc emacs subversion vim-syntax webdav -tk
