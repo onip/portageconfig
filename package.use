@@ -115,7 +115,7 @@ games-strategy/smac videos
 gnome-base/gnome-control-center -sound
 gnome-base/gnome-settings-daemon short-touchpad-timeout
 gnome-base/gnome-volume-manager -automount
-gnome-base/gvfs archive cdda fuse gphoto2 gdu
+gnome-base/gvfs afp archive cdda fuse gphoto2 gdu
 gnome-base/nautilus sendto
 gnome-extra/gnome-games artworkextra clutter glchess guile seed
 gnome-extra/gnome-power-manager libnotify
@@ -205,7 +205,7 @@ net-irc/weechat lua relay
 net-irc/xchat fastscroll libnotify
 net-libs/farsight2 msn
 net-libs/neon expat
-net-libs/webkit-gtk coverage doc
+net-libs/webkit-gtk coverage doc webgl
 net-libs/xulrunner -crashreporter gconf wifi startup-notification system-sqlite
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
