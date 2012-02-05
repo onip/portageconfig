@@ -3,3 +3,4 @@ media-video/nvidia-settings
 ~app-admin/eselect-opengl-1.1.1
 ~app-admin/eselect-1.2.8
 ~x11-libs/libvdpau-0.4.1
+app-admin/eselect-opencl
