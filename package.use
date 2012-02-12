@@ -232,6 +232,7 @@ sci-visualization/gnuplot doc emacs examples gd pdf plotutils latex lua thin-spl
 sys-apps/gnome-disk-utility fat
 sys-apps/man -nls
 sys-apps/man-pages -nls
+sys-apps/pciutils -zlib
 sys-apps/pmount -crypt
 sys-auth/consolekit policykit
 sys-auth/pambase consolekit
