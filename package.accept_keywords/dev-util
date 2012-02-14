@@ -7,3 +7,4 @@ dev-util/cmake
 sys-devel/gdb
 dev-python/pydb
 net-ftp/lftp
+x11-terms/terminator
