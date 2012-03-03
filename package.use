@@ -246,7 +246,7 @@ sys-libs/pam pam_console
 sys-power/cpufreqd pmu
 virtual/mysql embedded
 www-apache/mod_ruby doc
-www-apache/passenger doc
+www-apache/passenger doc -ruby_targets_ruby18
 www-client/chromium system-sqlite system-v8
 www-client/firefox mozbranding xforms mozdevelop wifi startup-notification system-sqlite
 www-client/links javascript
