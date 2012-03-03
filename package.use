@@ -226,7 +226,7 @@ sci-electronics/ng-spice-rework xspice
 sci-libs/hdf5 hlapi
 sci-libs/libgeda gd
 sci-mathematics/maxima -gcl clisp latex
-sci-mathematics/octave blas hdf5 fftw sparse doc
+sci-mathematics/octave blas hdf5 fftw gnuplot sparse doc
 sci-mathematics/scilab -tk gtk
 sci-visualization/gnuplot doc emacs examples gd pdf plotutils latex lua thin-splines wxwidgets
 sys-apps/gnome-disk-utility fat
