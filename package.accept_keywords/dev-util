@@ -2,8 +2,6 @@ dev-vcs/bzr
 <=dev-vcs/giggle-0.6
 dev-vcs/git
 dev-util/cmake
-~sys-devel/autoconf-2.64
-~dev-python/pygtksourceview-2.8.0
 sys-devel/gdb
 dev-python/pydb
 net-ftp/lftp
