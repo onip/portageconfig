@@ -1,8 +1,11 @@
 dev-vcs/bzr
-<=dev-vcs/giggle-0.6
+dev-vcs/giggle
 dev-vcs/git
 dev-util/cmake
 sys-devel/gdb
 dev-python/pydb
 net-ftp/lftp
 x11-terms/terminator
+~x11-libs/gtksourceview-3.2.3
+~gnome-extra/yelp-xsl-3.2.1
+~app-text/yelp-tools-3.2.1
