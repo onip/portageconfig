@@ -9,3 +9,4 @@ dev-util/boost-build:1.42
 dev-cpp/eigen:2
 sci-physics/bullet
 media-gfx/yafaray
+~media-libs/openimageio-0.10.5
