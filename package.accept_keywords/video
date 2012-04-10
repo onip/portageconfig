@@ -4,7 +4,7 @@
 ~media-libs/libvpx-0.9.6
 media-video/arista
 media-video/dvdrip
-~media-video/ffmpeg-0.10
+~media-video/ffmpeg-0.10.2
 media-video/mkvtoolnix
 media-video/mplayer
 media-video/mplayer2
