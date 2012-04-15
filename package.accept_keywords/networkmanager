@@ -11,3 +11,4 @@ net-misc/mobile-broadband-provider-info
 =sys-apps/shadow-4.1.4.2-r6
 ~net-misc/dhcpcd-5.2.8
 ~net-wireless/wpa_supplicant-0.7.3
+~dev-libs/libnl-3.2.7
