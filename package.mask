@@ -1,1 +1,2 @@
 =sys-kernel/tuxonice-sources-2.6.38-r1
+~dev-lang/php-5.3.11_rc2
