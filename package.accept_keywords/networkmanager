@@ -1,4 +1,5 @@
 net-misc/networkmanager
+net-misc/networkmanager-vpnc
 gnome-extra/nm-applet
 ~dev-libs/libnl-1.1
 net-misc/mobile-broadband-provider-info
