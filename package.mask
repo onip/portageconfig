@@ -1,2 +1,4 @@
 =sys-kernel/tuxonice-sources-2.6.38-r1
 ~dev-lang/php-5.3.11_rc2
+=dev-php/xdebug-2.2.0_rc1
+=dev-php/xdebug-client-2.2.0_rc1
