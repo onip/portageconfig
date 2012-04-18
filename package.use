@@ -152,7 +152,7 @@ media-libs/libquicktime lame
 media-libs/libsamplerate sndfile fftw
 media-libs/libwmf gd
 media-libs/pdflib java
-media-libs/sdl-mixer timidity
+media-libs/sdl-mixer midi timidity
 media-libs/sge image
 media-libs/smpeg -gtk
 media-libs/tiff jbig
