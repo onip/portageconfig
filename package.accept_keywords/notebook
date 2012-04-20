@@ -6,3 +6,4 @@ gnome-extra/gnome-color-chooser
 ~sys-power/pm-utils-1.4.1
 ~sys-power/upower-0.9.15
 =net-wireless/gnome-bluetooth-2*
+net-wireless/iwl5000-ucode
