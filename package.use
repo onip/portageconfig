@@ -77,6 +77,7 @@ dev-perl/PortageXS minimal
 dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
 dev-php/PEAR-PHP_Shell auto-completion
 dev-php/phpunit -minimal
+dev-python/ipython emacs matplotlib qt4 sqlite
 dev-python/matplotlib latex doc examples
 dev-python/pygments doc
 dev-python/pygobject doc examples
@@ -226,6 +227,7 @@ sci-electronics/kicad examples doc
 sci-electronics/ng-spice-rework xspice
 sci-libs/hdf5 hlapi
 sci-libs/libgeda gd
+sci-libs/scipy umfpack
 sci-mathematics/maxima -gcl clisp latex
 sci-mathematics/octave blas hdf5 fftw gnuplot sparse doc
 sci-mathematics/scilab -tk gtk
