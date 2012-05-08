@@ -127,7 +127,7 @@ mail-client/mail-notification gmail imap
 media-gfx/blender -apidoc blender-game -collada contrib fftw ode openexr player
 media-gfx/comix rar
 media-gfx/dcraw gimp
-media-gfx/gimp doc webkit
+media-gfx/gimp doc gs webkit xpm
 media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
 media-gfx/graphviz doc examples
 media-gfx/gthumb -cdr gphoto2 http raw slideshow
@@ -145,7 +145,7 @@ media-libs/clutter-gtk doc examples
 media-libs/fontconfig cleartype -lcdfilter
 media-libs/freetype cleartype -lcdfilter kpathsea
 media-libs/gd fontconfig xpm
-media-libs/gegl openexr raw graphviz lua umfpack
+media-libs/gegl openexr raw graphviz lua lensfun umfpack
 media-libs/libdvdread css
 media-libs/libgpod iphone
 media-libs/libpng apng
