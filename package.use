@@ -9,7 +9,6 @@ app-crypt/seahorse applet gedit
 app-crypt/seahorse-plugins applet gedit
 app-doc/php-docs linguas_en
 app-editors/emacs gconf leim toolkit-scroll-bars xft
-<app-editors/gedit-plugins-3 -charmap
 app-editors/gedit-plugins charmap synctex terminal
 app-editors/gvim bash-completion cscope netbeans
 app-editors/vim bash-completion cscope vim-with-x
@@ -229,7 +228,7 @@ sci-libs/hdf5 hlapi
 sci-libs/libgeda gd
 sci-libs/scipy umfpack
 sci-mathematics/maxima -gcl clisp latex
-sci-mathematics/octave blas hdf5 fftw gnuplot sparse doc
+sci-mathematics/octave blas hdf5 fftw gnuplot sparse -doc
 sci-mathematics/scilab -tk gtk
 sci-visualization/gnuplot doc emacs examples gd pdf plotutils latex lua thin-splines wxwidgets
 sys-apps/gnome-disk-utility fat

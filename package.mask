@@ -1,5 +1,0 @@
-=sci-mathematics/octave-3.6.1
-=dev-php/xdebug-2.2.0_rc1
-=dev-php/xdebug-client-2.2.0_rc1
-=dev-dotnet/nant-0.91
-=dev-util/qt-creator-2.5.0_rc
