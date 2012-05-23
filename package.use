@@ -85,6 +85,7 @@ dev-python/pygtk doc examples
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
 dev-ruby/* doc
 dev-ruby/eruby vim-syntax
+=dev-ruby/maruku-0.6.0-r2 -doc
 dev-scheme/guile deprecated regex
 dev-tex/* doc
 dev-tex/latex-beamer examples
