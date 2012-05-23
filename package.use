@@ -15,7 +15,7 @@ app-editors/vim bash-completion cscope vim-with-x
 app-editors/vim-core bash-completion
 app-emacs/auctex preview-latex
 app-emacs/emacs-common-gentoo emacs22icons
-app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -opencl -win64
+app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -opencl -win64 udisks
 app-misc/screen multiuser
 app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
