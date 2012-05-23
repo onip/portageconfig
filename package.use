@@ -98,7 +98,7 @@ dev-util/monodevelop-database mysql
 dev-util/mono-tools -gtkhtml -xulrunner webkit
 dev-util/nvidia-cuda-toolkit debugger doc profiler
 dev-util/nvidia-cuda-sdk opencl
-dev-util/qt-creator bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
+dev-util/qt-creator autotools bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
 dev-util/scons doc
 dev-util/weka doc
 dev-vcs/git cgi cvs bash-completion doc emacs subversion vim-syntax webdav -tk
@@ -266,6 +266,7 @@ x11-libs/libXft cleartype -lcdfilter
 x11-libs/pango doc
 x11-libs/qt-* accessibility doc private-headers qt3support
 x11-libs/qt-assistant compat
+x11-libs/qt-demo declarative multimedia xmlpatterns
 x11-libs/qt-gui gtkstyle
 x11-libs/qt-qt3support phonon
 x11-libs/qt-sql mysql postgres
