@@ -40,6 +40,7 @@ dev-cpp/ctemplate emacs
 dev-cpp/glibmm doc examples
 dev-cpp/gtkmm doc examples
 dev-cpp/pangomm doc
+dev-db/mongodb mms-agent v8
 dev-db/mysql extraengine embedded
 dev-db/mysql-workbench doc
 dev-db/postgresql-base doc
@@ -76,12 +77,13 @@ dev-perl/PortageXS minimal
 dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
 dev-php/PEAR-PHP_Shell auto-completion
 dev-php/phpunit -minimal
-dev-python/ipython emacs matplotlib qt4 sqlite
-dev-python/matplotlib latex doc examples
+dev-python/ipython emacs matplotlib mongodb qt4 sqlite
+dev-python/matplotlib latex doc examples qt4
 dev-python/pygments doc
 dev-python/pygobject doc examples
 dev-python/pygoocanvas doc examples
 dev-python/pygtk doc examples
+dev-python/PyQt4 assistant declarative doc exaples multimedia phonon sql xmlpatterns
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
 dev-ruby/* doc
 dev-ruby/eruby vim-syntax
