@@ -15,7 +15,7 @@ app-editors/vim bash-completion cscope vim-with-x
 app-editors/vim-core bash-completion
 app-emacs/auctex preview-latex
 app-emacs/emacs-common-gentoo emacs22icons
-app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -opencl -win64
+app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -opencl -win64 udisks
 app-misc/screen multiuser
 app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
@@ -99,7 +99,7 @@ dev-util/monodevelop-database mysql
 dev-util/mono-tools -gtkhtml -xulrunner webkit
 dev-util/nvidia-cuda-toolkit debugger doc profiler
 dev-util/nvidia-cuda-sdk opencl
-dev-util/qt-creator bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
+dev-util/qt-creator autotools bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
 dev-util/scons doc
 dev-util/weka doc
 dev-vcs/git cgi cvs bash-completion doc emacs subversion vim-syntax webdav -tk
@@ -267,6 +267,7 @@ x11-libs/libXft cleartype -lcdfilter
 x11-libs/pango doc
 x11-libs/qt-* accessibility doc private-headers qt3support
 x11-libs/qt-assistant compat
+x11-libs/qt-demo declarative multimedia xmlpatterns
 x11-libs/qt-gui gtkstyle
 x11-libs/qt-qt3support phonon
 x11-libs/qt-sql mysql postgres
