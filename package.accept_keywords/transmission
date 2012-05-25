@@ -1,4 +1,4 @@
 ~dev-libs/libevent-2.0.10
-~net-libs/miniupnpc-1.6
+~net-libs/miniupnpc-1.6.20120509
 net-p2p/transmission
 ~net-libs/libnatpmp-20110808
