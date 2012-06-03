@@ -5,7 +5,7 @@
 media-video/arista
 media-video/dvdrip
 ~media-video/ffmpeg-0.10.2
-media-video/mkvtoolnix
+~media-video/mkvtoolnix-5.0.1
 media-video/mplayer
 media-video/mplayer2
 media-video/ogmrip
