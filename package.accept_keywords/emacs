@@ -1,3 +1,4 @@
-app-editors/emacs:23
+app-editors/emacs:24
 app-emacs/*
 app-admin/emacs-updater
+~virtual/emacs-24
