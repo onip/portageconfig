@@ -184,7 +184,7 @@ media-sound/timidity++ -gtk -X
 media-video/avidemux aften amrnb libsamplerate lame
 media-video/cinelerra css
 media-video/dvdrip subtitles mplayer -xine
-media-video/ffmpeg aacplus amr imlib network opencore-amr cpudetection faac faad
+media-video/ffmpeg aacplus amr imlib libass network opencore-amr cpudetection faac faad
 media-video/gnome-mplayer -ipod
 media-video/kino lame sox
 media-video/mplayer aalib amrnb amrwb amr bl -cdio dga dvdnav faac rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
