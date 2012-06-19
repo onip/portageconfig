@@ -6,7 +6,7 @@ dev-util/weka
 media-sound/mhwaveedit
 www-plugins/adobe-flash
 x11-terms/guake
-~x11-themes/gtk-engines-nodoka-0.7.2
+x11-themes/gtk-engines-nodoka
 ~app-portage/portage-utils-0.4
 media-sound/soundconverter
 ~sys-power/acpid-2.0.4
