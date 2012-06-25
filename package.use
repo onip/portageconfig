@@ -156,8 +156,9 @@ media-libs/libpng apng
 media-libs/libquicktime lame
 media-libs/libsamplerate sndfile fftw
 media-libs/libwmf gd
+media-libs/mesa g3dvl
 media-libs/pdflib java
-media-libs/sdl-mixer midi timidity
+media-libs/sdl-mixer midi mod timidity
 media-libs/sge image
 media-libs/smpeg -gtk
 media-libs/tiff jbig
