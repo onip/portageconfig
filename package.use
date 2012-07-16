@@ -7,6 +7,7 @@ app-cdr/gnomebaker libnotify
 app-cdr/k3b css musepack musicbrainz vcd sndfile
 app-crypt/seahorse applet gedit
 app-crypt/seahorse-plugins applet gedit
+app-doc/doxygen dot
 app-doc/php-docs linguas_en
 app-editors/emacs gconf leim toolkit-scroll-bars xft
 app-editors/gedit-plugins charmap synctex terminal
@@ -128,7 +129,7 @@ gnome-extra/libgsf thumbnail
 gnome-extra/nautilus-sendto pidgin
 mail-client/evolution mono -sound
 mail-client/mail-notification gmail imap
-media-gfx/blender -apidoc blender-game -collada contrib fftw ode openexr player
+media-gfx/blender apidoc blender-game collada contrib cycles doc fftw ode openexr player
 media-gfx/comix rar
 media-gfx/dcraw gimp
 media-gfx/gimp doc gs webkit xpm
@@ -229,7 +230,7 @@ sci-electronics/gtkwave examples
 sci-electronics/gwave gnuplot plotutils
 sci-electronics/kicad examples doc
 sci-electronics/ng-spice-rework xspice
-sci-libs/hdf5 hlapi
+sci-libs/hdf5 hlapi -cxx -fortran
 sci-libs/libgeda gd
 sci-libs/scipy umfpack
 sci-mathematics/maxima -gcl clisp latex
