@@ -147,6 +147,7 @@ media-gfx/xsane gimp ocr
 media-gfx/yafray openexr
 media-libs/clutter doc
 media-libs/clutter-gtk doc examples
+media-libs/cogl doc examples
 media-libs/fontconfig cleartype -lcdfilter
 media-libs/freetype cleartype -lcdfilter kpathsea
 media-libs/gd fontconfig xpm
