@@ -127,3 +127,10 @@
 ~x11-libs/pango-1.29.4
 ~gnome-base/libgnome-keyring-3.2.2
 ~gnome-base/gnome-keyring-3.2.2
+
+# gnome-games
+~games-board/aisleriot-3.2.3.2
+~gnome-base/gnome-js-common-0.1.2
+~gnome-extra/gnome-games-extra-data-3.2.0
+~gnome-extra/gnome-games-3.2.1
+~dev-libs/seed-3.2.0
