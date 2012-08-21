@@ -5,4 +5,5 @@ media-libs/opencollada
 ~dev-cpp/eigen-3.0.5::gentoo
 sci-physics/bullet
 media-gfx/yafaray
-~media-libs/openimageio-0.10.5
+~media-libs/openimageio-1.0.8
+~dev-libs/pugixml-1.2
