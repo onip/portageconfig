@@ -21,6 +21,7 @@ x11-themes/sound-theme-freedesktop
 ~net-libs/gnutls-2.10.2
 ~net-libs/libnice-0.0.13
 dev-lang/vala:0.14
+~dev-libs/vala-common-0.17.5
 net-im/telepathy-logger
 ~dev-libs/glib-2.26.1
 ~x11-libs/gdk-pixbuf-2.22.1
