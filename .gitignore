@@ -5,3 +5,5 @@ postsync.d
 savedconfig
 sets
 .keep*
+make.conf
+make.profile
