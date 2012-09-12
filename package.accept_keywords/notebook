@@ -1,9 +1,10 @@
+=net-wireless/gnome-bluetooth-2*
+~net-wireless/bluez-4.101
+gnome-extra/gnome-color-chooser
+sys-apps/hwinfo
 sys-auth/pam_keyring
+sys-firmware/iwl5000-ucode
 sys-power/iasl
 sys-power/suspend
-sys-apps/hwinfo
-gnome-extra/gnome-color-chooser
 ~sys-power/pm-utils-1.4.1
 ~sys-power/upower-0.9.15
-=net-wireless/gnome-bluetooth-2*
-sys-firmware/iwl5000-ucode
