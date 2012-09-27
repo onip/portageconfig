@@ -193,6 +193,7 @@ media-video/mplayer aalib amrnb amrwb amr bl -cdio dga dvdnav faac rtc tga v4l2 
 media-video/mplayer-resume -lirc
 media-video/mplayer2 aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
 media-video/ogmrip matroska srt mp4 ogm
+media-video/totem grilo
 media-video/transcode network -gtk mjpeg fame v4l2
 media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
 media-video/winki css matroska mjpeg
@@ -207,7 +208,7 @@ net-fs/samba addns client smbclient server aio smbsharemodes winbind
 net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
 net-im/empathy applet sendto webkit
 net-im/pidgin sasl
-net-im/telepathy-connection-managers irc msn jabber
+net-im/telepathy-connection-managers irc jabber
 net-irc/weechat lua relay
 net-irc/xchat fastscroll libnotify
 net-libs/farsight2 msn
@@ -289,3 +290,9 @@ x11-wm/compiz fuse gconf
 >=net-dns/avahi-0.6.30-r1 gtk3
 #required by gnome-base/gnome-3.2.1, required by =gnome-base/gnome-3.2.1 (argument)
 >=gnome-base/gnome-core-apps-3.2.1 bluetooth
+
+>=dev-libs/libgcrypt-1.5.0-r2 static-libs
+=sys-apps/util-linux-2.21.2 static-libs
+>=dev-libs/popt-1.16-r1 static-libs
+=dev-libs/libgpg-error-1.10 static-libs
+>=sys-fs/udev-189 static-libs
