@@ -51,6 +51,7 @@ dev-db/sqlite fts3 icu secure-delete doc extensions soundex unlock-notify
 dev-dotnet/gtk-sharp glade
 dev-games/cegui devil
 dev-java/ant-apache-bsf -python
+dev-java/batik -python
 dev-java/bsf -python
 dev-java/icedtea-bin doc examples nsplugin
 dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
@@ -219,7 +220,7 @@ net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
 net-p2p/amule geoip stats
 net-p2p/deluge libnotify
-net-p2p/transmission -gtk3 utp
+net-p2p/transmission utp
 net-print/cups gnutls
 net-print/gutenprint gimp
 net-print/hplip -X
