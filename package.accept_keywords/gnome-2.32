@@ -121,7 +121,6 @@
 ~media-libs/libquvi-0.4.0
 ~media-libs/libquvi-scripts-0.4.0
 ~sys-devel/autoconf-2.68
-=sys-fs/udisks-1.0.2-r1
 ~dev-libs/atk-2.2.0
 ~x11-libs/pango-1.29.4
 ~gnome-base/libgnome-keyring-3.2.2
