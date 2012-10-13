@@ -36,3 +36,4 @@ www-plugins/google-talkplugin
 ~media-sound/pulseaudio-1.1
 ~dev-libs/json-c-0.9
 app-misc/freemind
+~x11-libs/libva-1.1.0
