@@ -33,6 +33,7 @@ x11-themes/gtk-engines-nodoka
 ~gnome-extra/nautilus-share-0.7.3
 ~media-gfx/graphviz-2.26.3
 ~media-sound/pulseaudio-1.1
+~sys-boot/syslinux-4.06
 ~sys-power/acpid-2.0.4
 ~x11-libs/libva-1.1.0
 ~x11-themes/gtk-engines-murrine-0.98.0
