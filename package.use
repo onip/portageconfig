@@ -200,7 +200,7 @@ media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp
 media-video/winki css matroska mjpeg
 net-analyzer/tcpdump -samba
 net-analyzer/wireshark adns smi gnutls gcrypt
-net-dialup/ppp -gtk
+net-dialup/ppp ipv6 -gtk
 net-dialup/rp-pppoe -X
 net-dns/avahi autoipd mdnsresponder-compat
 net-nds/openldap gnutls
