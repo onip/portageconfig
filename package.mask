@@ -1,3 +1,0 @@
-=dev-util/qt-creator-2.6.0_beta
-=dev-util/qt-creator-2.6.0_rc
-=net-libs/nodejs-0.9*
