@@ -196,14 +196,13 @@ media-video/mplayer2 aalib amrnb amrwb amr bl -cdio dga dvdnav rtc tga v4l2 live
 media-video/ogmrip matroska srt mp4 ogm
 media-video/totem grilo
 media-video/transcode network -gtk mjpeg fame v4l2
-media-video/vlc cdda live matroska musepack optimisememory sdl-image gnutls rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
+media-video/vlc cdda live matroska musepack optimisememory sdl-image rtsp cdio id3tag musicbrainz twolame taglib v4l2 atmo fluidsynth shout vlm httpd stream modplug qt4 libass vcdx schroedinger
 media-video/winki css matroska mjpeg
 net-analyzer/tcpdump -samba
-net-analyzer/wireshark adns smi gnutls gcrypt
+net-analyzer/wireshark adns smi gcrypt
 net-dialup/ppp ipv6 -gtk
 net-dialup/rp-pppoe -X
 net-dns/avahi autoipd mdnsresponder-compat
-net-nds/openldap gnutls
 net-irc/xchat hires-icons
 net-fs/samba addns client smbclient server aio smbsharemodes winbind
 net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsession vroot
@@ -221,7 +220,6 @@ net-misc/wicd -ncurses
 net-p2p/amule geoip stats
 net-p2p/deluge libnotify
 net-p2p/transmission utp
-net-print/cups gnutls
 net-print/gutenprint gimp
 net-print/hplip -X
 net-wireless/aircrack-ng wifi
