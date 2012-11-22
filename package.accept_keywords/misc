@@ -23,7 +23,7 @@ www-client/httrack
 www-client/opera
 www-plugins/adobe-flash
 www-plugins/google-talkplugin
-x11-libs/vdpau-video
+x11-libs/libva-vdpau-driver
 x11-terms/guake
 x11-terms/tilda
 x11-themes/faenza-icon-theme
