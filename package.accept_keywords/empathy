@@ -27,7 +27,6 @@ x11-themes/sound-theme-freedesktop
 ~gnome-base/librsvg-2.32.1
 ~gnome-extra/nautilus-sendto-2.32.0
 ~net-im/telepathy-connection-managers-1
-~net-libs/gnutls-2.10.2
 ~net-libs/libnice-0.0.13
 ~net-libs/libproxy-0.4.6
 ~x11-libs/gdk-pixbuf-2.22.1
