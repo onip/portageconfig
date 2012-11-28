@@ -1,2 +1,2 @@
-dev-util/nvidia-cuda-sdk
-dev-util/nvidia-cuda-toolkit
+dev-util/nvidia-cuda-sdk::gentoo
+dev-util/nvidia-cuda-toolkit::gentoo
