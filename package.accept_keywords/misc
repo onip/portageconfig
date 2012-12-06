@@ -1,10 +1,13 @@
 =dev-lisp/clisp-2.48-r2
+=media-plugins/gst-plugins-x-0.10.35-r1
+=media-plugins/gst-plugins-xvideo-0.10.35-r1
 app-arch/p7zip
 app-cdr/iat
 app-editors/bluefish
 app-misc/freemind
 app-misc/screen
 app-portage/portage-utils
+app-text/pdfgrep
 app-text/xchm
 dev-util/weka
 mail-client/mail-notification
@@ -13,6 +16,7 @@ media-gfx/comix
 media-libs/libmtp
 media-radio/radiotray
 media-sound/mhwaveedit
+media-sound/nuvolaplayer
 media-sound/soundconverter
 media-sound/tuxguitar
 media-sound/vagalume
@@ -28,6 +32,7 @@ x11-terms/guake
 x11-terms/tilda
 x11-themes/faenza-icon-theme
 x11-themes/gtk-engines-nodoka
+~app-mobilephone/obex-data-server-0.4.6
 ~app-portage/eix-0.22.5
 ~dev-cpp/cairomm-1.9.8
 ~dev-libs/json-c-0.9
@@ -38,6 +43,3 @@ x11-themes/gtk-engines-nodoka
 ~x11-libs/libva-1.1.0
 ~x11-themes/gtk-engines-murrine-0.98.0
 ~x11-themes/murrine-themes-0.98.0
-app-text/pdfgrep
-media-sound/nuvolaplayer
-~app-mobilephone/obex-data-server-0.4.6
