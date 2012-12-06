@@ -1,5 +1,7 @@
 =dev-libs/nspr-4.8.4
 app-admin/eselect-maven
+dev-java/ant-eclipse-ecj:3.7
+dev-java/eclipse-ecj:3.7
 dev-java/icedtea-bin
 dev-java/icedtea-web:6
 dev-java/icedtea:6
@@ -7,7 +9,12 @@ dev-java/java-sdk-docs
 dev-java/maven-bin
 dev-java/oracle-jdk-bin
 dev-java/sun-jdk:1.6
+dev-java/tomcat-native
+dev-java/tomcat-servlet-api:3.0
 net-misc/npapi-sdk
 virtual/jdk:1.6
 virtual/jdk:1.7
 virtual/jre:1.7
+www-servers/tomcat:7
+~app-admin/eselect-ecj-0.6
+~dev-java/commons-dbcp-1.4
