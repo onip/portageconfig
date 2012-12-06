@@ -2,4 +2,3 @@ app-editors/gvim
 app-editors/vim
 app-editors/vim-core
 app-vim/*
-~dev-python/psutil-0.3.0
