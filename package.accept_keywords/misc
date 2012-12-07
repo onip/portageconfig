@@ -1,6 +1,4 @@
 =dev-lisp/clisp-2.48-r2
-=media-plugins/gst-plugins-x-0.10.35-r1
-=media-plugins/gst-plugins-xvideo-0.10.35-r1
 app-arch/p7zip
 app-cdr/iat
 app-editors/bluefish
