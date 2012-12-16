@@ -8,6 +8,6 @@ sci-physics/bullet
 ~dev-cpp/gflags-2.0
 ~dev-cpp/glog-0.3.2
 ~dev-libs/pugixml-1.2
-~media-libs/openimageio-1.0.8
+~media-libs/openimageio-1.1.1
 ~sci-libs/ldl-2.1.0
 ~sci-libs/suitesparseconfig-4.0.2
