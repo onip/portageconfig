@@ -32,7 +32,6 @@ x11-themes/faenza-icon-theme
 x11-themes/gtk-engines-nodoka
 ~app-mobilephone/obex-data-server-0.4.6
 ~app-portage/eix-0.22.5
-~dev-cpp/cairomm-1.9.8
 ~dev-libs/json-c-0.9
 ~dev-util/fix-la-relink-command-0.1.1
 ~gnome-extra/nautilus-share-0.7.3
