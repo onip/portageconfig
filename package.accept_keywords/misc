@@ -34,6 +34,7 @@ x11-themes/gtk-engines-nodoka
 ~app-portage/eix-0.22.5
 ~dev-cpp/cairomm-1.9.8
 ~dev-libs/json-c-0.9
+~dev-util/fix-la-relink-command-0.1.1
 ~gnome-extra/nautilus-share-0.7.3
 ~media-gfx/graphviz-2.26.3
 ~sys-boot/syslinux-4.06

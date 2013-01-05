@@ -17,6 +17,7 @@ app-editors/vim-core bash-completion
 app-emacs/auctex preview-latex
 app-emacs/emacs-common-gentoo emacs22icons
 app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -opencl -win64 udisks
+app-i18n/ibus dconf
 app-misc/screen multiuser
 app-misc/tracker xps
 app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
@@ -85,12 +86,14 @@ dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
 dev-php/PEAR-PHP_Shell auto-completion
 dev-php/phpunit -minimal
 dev-python/PyQt4 assistant declarative doc exaples multimedia phonon sql xmlpatterns
+dev-python/dbus-python python_single_target_python2_7
 dev-python/ipython emacs matplotlib mongodb qt4 sqlite
 dev-python/matplotlib latex doc examples qt4
 dev-python/pygments doc
 dev-python/pygobject doc examples
 dev-python/pygoocanvas doc examples
 dev-python/pygtk doc examples
+dev-python/pyxdg python_single_target_python2_7
 dev-ruby/* doc
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
 dev-ruby/eruby vim-syntax
@@ -132,7 +135,7 @@ gnome-base/nautilus sendto
 gnome-extra/gnome-games artworkextra clutter glchess guile seed
 gnome-extra/gnome-power-manager libnotify
 gnome-extra/libgsf thumbnail
-gnome-extra/nautilus-sendto pidgin
+gnome-extra/nautilus-sendto -pidgin
 gnome-extra/nm-applet bluetooth
 mail-client/evolution mono -sound
 mail-client/mail-notification gmail imap
