@@ -189,7 +189,8 @@ media-sound/lame -gtk
 media-sound/mhwaveedit ladspa libsamplerate
 media-sound/pulseaudio avahi libsamplerate 
 media-sound/quodlibet musepack wma trayicon tta
-media-sound/rhythmbox mtp musicbrainz tagwriting
+media-sound/rhythmbox -cdr mtp musicbrainz tagwriting
+<media-sound/rhythmbox-2.98 -webkit
 media-sound/shntool flac mac
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
 media-sound/sweep ladspa

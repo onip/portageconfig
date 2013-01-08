@@ -17,6 +17,6 @@ sys-fs/ddrescue
 ~x11-libs/libva-0.32.0_p2
 ~dev-libs/libebml-1.2.2
 ~media-libs/libmatroska-1.3.0
-~media-libs/x264-0.0.20120327
-~media-video/x264-encoder-0.0.20120327
+~media-libs/x264-0.0.20120707
+~media-video/x264-encoder-0.0.20120707
 ~media-libs/libaacplus-2.0.2
