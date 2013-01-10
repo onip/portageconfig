@@ -21,6 +21,7 @@ media-sound/vagalume
 net-ftp/yafc
 net-irc/weechat
 net-misc/youtube-dl
+net-nntp/nzbget
 www-client/httrack
 www-client/opera
 www-plugins/adobe-flash
