@@ -115,7 +115,7 @@ dev-util/qt-creator autotools bazaar bineditor bookmarks cmake doc examples git 
 dev-util/scons doc
 dev-util/weka doc
 dev-vcs/git cgi cvs bash-completion doc emacs highlight subversion vim-syntax webdav -tk
-dev-vcs/mercurial bash-completion
+dev-vcs/mercurial bash-completion emacs
 dev-vcs/subversion -apache2 -dso -ruby
 games-arcade/smc music
 games-emulation/gxmame joystick
