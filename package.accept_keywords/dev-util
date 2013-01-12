@@ -3,6 +3,7 @@ dev-util/cmake
 dev-vcs/bzr
 dev-vcs/giggle
 dev-vcs/git
+dev-vcs/mercurial
 net-ftp/lftp
 sys-devel/gdb
 x11-terms/terminator
