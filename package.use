@@ -110,7 +110,7 @@ dev-util/mono-tools -gtkhtml -xulrunner webkit
 dev-util/monodevelop cxx aspnet subversion
 dev-util/monodevelop-database mysql
 dev-util/nvidia-cuda-sdk opencl
-dev-util/nvidia-cuda-toolkit debugger doc profiler
+dev-util/nvidia-cuda-toolkit debugger doc eclipse profiler
 dev-util/qt-creator autotools bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
 dev-util/scons doc
 dev-util/weka doc
