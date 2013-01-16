@@ -224,6 +224,7 @@ net-irc/weechat lua relay
 net-irc/xchat fastscroll libnotify
 net-irc/xchat hires-icons
 net-libs/farsight2 msn
+net-libs/libpcap ipv6
 net-libs/neon expat
 net-libs/webkit-gtk coverage doc webgl
 net-libs/xulrunner -crashreporter gconf wifi startup-notification system-sqlite
