@@ -266,6 +266,7 @@ sys-devel/gdb expat
 sys-fs/ntfsprogs fuse
 sys-fs/udev extras
 sys-fs/udev static-libs
+sys-libs/ncurses tinfo
 sys-libs/pam pam_console
 sys-power/cpufreqd pmu
 virtual/mysql embedded
