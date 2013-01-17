@@ -1,3 +1,4 @@
+<media-sound/rhythmbox-2.98 -webkit
 app-admin/conky audacious
 app-admin/eselect vim-syntax
 app-arch/p7zip rar
@@ -190,7 +191,6 @@ media-sound/mhwaveedit ladspa libsamplerate
 media-sound/pulseaudio avahi libsamplerate 
 media-sound/quodlibet musepack wma trayicon tta
 media-sound/rhythmbox -cdr mtp musicbrainz tagwriting
-<media-sound/rhythmbox-2.98 -webkit
 media-sound/shntool flac mac
 media-sound/sox amrnb amrwb id3tag ladspa libsamplerate
 media-sound/sweep ladspa
@@ -198,13 +198,13 @@ media-sound/timidity++ -gtk -X
 media-video/avidemux aften amrnb libsamplerate lame
 media-video/cinelerra css
 media-video/dvdrip subtitles mplayer -xine
-media-video/ffmpeg aacplus amr imlib libass network opencore-amr cpudetection faac faad
+media-video/ffmpeg aacplus amr cdio imlib libass network opencore-amr cpudetection faac faad
 media-video/gnome-mplayer -ipod
 media-video/kino lame sox
-media-video/libav aacplus amr imlib libass network opencore-amr cpudetection faac faad
-media-video/mplayer aalib amrnb amrwb amr bl cdio dga dvdnav faac rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
+media-video/libav aacplus amr cdio imlib libass network opencore-amr cpudetection faac faad
+media-video/mplayer aalib amrnb amrwb amr bl cdio dga dvdnav faac rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr quvi real
 media-video/mplayer-resume -lirc
-media-video/mplayer2 aalib amrnb amrwb amr bl cdio dga dvdnav faac rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt symlink vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr
+media-video/mplayer2 aalib amrnb amrwb amr bl cdio dga dvdnav faac rtc tga v4l2 live md5sum mp2 musepack nvidia pnm radio rar real srt symlink vidix xvmc x264 xanim nemesi -gtk ladspa -speex -dirac cpudetection opencore-amr quvi real
 media-video/ogmrip matroska srt mp4 ogm
 media-video/totem grilo
 media-video/transcode network -gtk mjpeg fame v4l2

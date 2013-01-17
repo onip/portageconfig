@@ -11,3 +11,8 @@ sys-fs/ddrescue
 ~media-video/ffmpeg-0.10.6
 ~media-video/libav-0.8.5
 ~media-video/x264-encoder-0.0.20120707
+~media-sound/cdparanoia-3.10.2
+~app-admin/eselect-cdparanoia-0.1
+~dev-libs/libcdio-paranoia-0.90
+~dev-libs/libcdio-0.90
+~app-admin/eselect-lib-bin-symlink-0.1.1
