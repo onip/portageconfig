@@ -37,6 +37,9 @@ x11-themes/gtk-engines-nodoka
 ~dev-util/fix-la-relink-command-0.1.1
 ~gnome-extra/nautilus-share-0.7.3
 ~media-gfx/graphviz-2.26.3
+~media-libs/alsa-lib-1.0.26
+~media-plugins/alsa-plugins-1.0.26
+~media-sound/alsa-utils-1.0.26
 ~sys-boot/syslinux-4.06
 ~sys-power/acpid-2.0.4
 ~x11-libs/libva-1.1.0
