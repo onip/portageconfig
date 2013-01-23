@@ -124,7 +124,7 @@ games-emulation/xmame dga joystick net
 games-fps/nexuiz maps
 games-fps/worldofpadman maps
 games-misc/fretsonfire guitarhero
-games-simulation/openttd scenarios timidity
+games-simulation/openttd scenarios -timidity
 games-strategy/freeciv gtk -sdl
 games-strategy/smac videos
 gnome-base/gnome-control-center -sound
@@ -171,13 +171,13 @@ media-libs/libsamplerate sndfile fftw
 media-libs/libwmf gd
 media-libs/mesa g3dvl
 media-libs/pdflib java
-media-libs/sdl-mixer midi mod timidity
+media-libs/sdl-mixer midi mod -timidity
 media-libs/sge image
 media-libs/smpeg -gtk
 media-libs/tiff jbig
 media-libs/win32codecs real
 media-libs/xine-lib aalibasf dxr3 musepack real wavpack vidix xvmc
-media-plugins/audacious-plugins mms musepack timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
+media-plugins/audacious-plugins midi mms musepack -timidity wma libnotify chardet tta wavpack -mtp scrobbler cdaudio icecast
 media-plugins/gimp-resynthesizer gimp
 media-plugins/gst-plugins-meta taglib wavpack
 media-sound/abcde id3 lame musepack
