@@ -9,3 +9,9 @@ sci-libs/scipy
 ~app-arch/snappy-1.0.4
 ~dev-python/simplegeneric-0.8.1
 ~dev-util/source-highlight-3.1.7
+dev-python/matplotlib
+dev-python/xlwt
+dev-python/virtualenv
+dev-python/virtualenvwrapper
+dev-python/virtualenv-clone
+dev-python/stevedore
