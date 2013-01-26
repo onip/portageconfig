@@ -1,4 +1,4 @@
-=dev-libs/boost-1.52.0-r4
+=dev-libs/boost-1.52.0-r5
 =dev-util/boost-build-1.52.0-r1
 dev-db/mongodb
 dev-python/autopep8
