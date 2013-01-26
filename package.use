@@ -159,8 +159,8 @@ media-gfx/yafray openexr
 media-libs/clutter doc
 media-libs/clutter-gtk doc examples
 media-libs/cogl doc examples
-media-libs/fontconfig cleartype -lcdfilter
-media-libs/freetype cleartype -lcdfilter kpathsea
+media-libs/fontconfig cleartype
+media-libs/freetype cleartype kpathsea infinality
 media-libs/gd fontconfig xpm
 media-libs/gegl openexr raw graphviz lua lensfun umfpack
 media-libs/libdvdread css
@@ -280,11 +280,11 @@ www-plugins/gecko-mediaplayer -gnome
 www-plugins/lightspark nsplugin
 www-servers/tomcat doc examples
 x11-base/xorg-server aiglx
-x11-libs/cairo doc -glitz pdf -lcdfilter cleartype
+x11-libs/cairo doc -glitz pdf cleartype
 x11-libs/gdk-pixbuf doc
 x11-libs/goocanvas doc examples
 x11-libs/gtk+ doc examples vim-syntax
-x11-libs/libXft cleartype -lcdfilter
+x11-libs/libXft cleartype
 x11-libs/libwnck startup-notification
 x11-libs/pango doc
 x11-libs/qt-* accessibility doc private-headers qt3support
