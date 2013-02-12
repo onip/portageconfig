@@ -17,13 +17,16 @@ dev-python/xlwt
 sci-libs/scipy
 ~app-arch/snappy-1.0.4
 ~dev-python/PyQt4-4.9.6
+~dev-python/decorator-3.4.0
 ~dev-python/imaging-1.1.7
 ~dev-python/numpy-1.6.2
+~dev-python/pexpect-2.4
 ~dev-python/pygobject-2.28.6
 ~dev-python/pygtk-2.24.0
 ~dev-python/pyopengl-3.0.2
 ~dev-python/python-dateutil-2.1
 ~dev-python/pytz-2012j
+~dev-python/pyzmq-2.2.0.1
 ~dev-python/simplegeneric-0.8.1
 ~dev-python/sip-4.14.3
 ~dev-python/six-1.2.0
