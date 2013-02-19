@@ -1,5 +1,6 @@
 =dev-libs/boost-1.52.0-r5
 =dev-util/boost-build-1.52.0-r1
+app-text/referencer
 dev-db/mongodb
 dev-python/autopep8
 dev-python/flymake
@@ -16,6 +17,7 @@ dev-python/virtualenvwrapper
 dev-python/xlwt
 sci-libs/scipy
 ~app-arch/snappy-1.0.4
+~dev-cpp/gtkmm-utils-0.4.1
 ~dev-python/PyQt4-4.9.6
 ~dev-python/decorator-3.4.0
 ~dev-python/imaging-1.1.7
