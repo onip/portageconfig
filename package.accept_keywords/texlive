@@ -6,6 +6,7 @@ dev-tex/*
 ~app-text/texlive-core-2012
 ~app-text/ttf2pk2-1.5_p20120701
 ~app-text/xdvik-22.85
+~app-text/xdvipdfmx-0.7.8_p20120701
 ~dev-libs/kpathsea-6.1.0_p20120701
 ~dev-texlive/texlive-basic-2012
 ~dev-texlive/texlive-bibtexextra-2012
@@ -34,4 +35,3 @@ dev-tex/*
 ~dev-texlive/texlive-science-2012
 ~dev-texlive/texlive-texinfo-2012
 ~media-gfx/pydot-1.0.28
-~app-text/xdvipdfmx-0.7.8_p20120701
