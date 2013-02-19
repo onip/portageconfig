@@ -34,3 +34,4 @@ dev-tex/*
 ~dev-texlive/texlive-science-2012
 ~dev-texlive/texlive-texinfo-2012
 ~media-gfx/pydot-1.0.28
+~app-text/xdvipdfmx-0.7.8_p20120701
