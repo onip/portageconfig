@@ -2,3 +2,4 @@ net-print/hplip
 ~app-text/ghostscript-gpl-8.71
 #~media-libs/libpng-1.2.43
 ~media-fonts/urw-fonts-2.4.9
+~dev-python/reportlab-2.6
