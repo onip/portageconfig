@@ -235,7 +235,7 @@ net-p2p/amule geoip stats
 net-p2p/deluge libnotify
 net-p2p/transmission utp
 net-print/gutenprint gimp
-net-print/hplip X fax scanner snmp qt4
+net-print/hplip scanner snmp -X
 net-wireless/aircrack-ng wifi
 net-wireless/gnome-bluetooth sendto
 sci-electronics/geda gd examples
