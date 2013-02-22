@@ -21,7 +21,7 @@ sci-libs/scipy
 ~dev-python/PyQt4-4.9.6
 ~dev-python/decorator-3.4.0
 ~dev-python/imaging-1.1.7
-~dev-python/numpy-1.6.2
+~dev-python/numpy-1.7.0
 ~dev-python/pexpect-2.4
 ~dev-python/pygobject-2.28.6
 ~dev-python/pygtk-2.24.0
