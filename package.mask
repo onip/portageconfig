@@ -1,1 +1,2 @@
 =sys-kernel/gentoo-sources-3.7.9
+=sys-kernel/gentoo-sources-3.7.10
