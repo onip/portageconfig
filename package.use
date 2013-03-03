@@ -96,6 +96,13 @@ dev-python/pygobject doc examples
 dev-python/pygoocanvas doc examples
 dev-python/pygtk doc examples
 dev-python/pyxdg python_single_target_python2_7
+dev-qt/qt* accessibility doc private-headers qt3support
+dev-qt/qt-creator autotools bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
+dev-qt/qt3support phonon
+dev-qt/qtdemo declarative multimedia xmlpatterns
+dev-qt/qtgui gtkstyle
+dev-qt/qthelp compat
+dev-qt/qtsql mysql postgres
 dev-ruby/* doc
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
 dev-ruby/eruby vim-syntax
@@ -113,7 +120,6 @@ dev-util/monodevelop cxx aspnet subversion
 dev-util/monodevelop-database mysql
 dev-util/nvidia-cuda-sdk opencl
 dev-util/nvidia-cuda-toolkit debugger doc eclipse profiler
-dev-util/qt-creator autotools bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
 dev-util/scons doc
 dev-util/weka doc
 dev-vcs/git cgi cvs bash-completion doc emacs highlight subversion vim-syntax webdav -tk
@@ -290,12 +296,6 @@ x11-libs/gtk+ doc examples vim-syntax
 x11-libs/libXft cleartype
 x11-libs/libwnck startup-notification
 x11-libs/pango doc
-x11-libs/qt-* accessibility doc private-headers qt3support
-x11-libs/qt-assistant compat
-x11-libs/qt-demo declarative multimedia xmlpatterns
-x11-libs/qt-gui gtkstyle
-x11-libs/qt-qt3support phonon
-x11-libs/qt-sql mysql postgres
 x11-libs/vte glade
 x11-libs/wxGTK doc
 x11-misc/xscreensaver -gnome
