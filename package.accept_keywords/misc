@@ -1,4 +1,6 @@
 =dev-lisp/clisp-2.48-r2
+=dev-python/python-docs-2.7.3
+=dev-python/python-docs-3.2.3
 app-arch/p7zip
 app-cdr/iat
 app-editors/bluefish
@@ -20,6 +22,7 @@ media-sound/tuxguitar
 media-sound/vagalume
 net-ftp/yafc
 net-irc/weechat
+net-misc/grive
 net-misc/youtube-dl
 net-nntp/nzbget
 www-client/httrack
@@ -46,4 +49,3 @@ x11-themes/gtk-engines-nodoka
 ~x11-libs/libva-1.1.0
 ~x11-themes/gtk-engines-murrine-0.98.0
 ~x11-themes/murrine-themes-0.98.0
-net-misc/grive
