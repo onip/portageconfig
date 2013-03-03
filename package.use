@@ -134,8 +134,8 @@ games-misc/fretsonfire guitarhero
 games-simulation/openttd scenarios -timidity
 games-strategy/freeciv gtk -sdl
 games-strategy/smac videos
-games-util/steam-base steamruntime
 games-util/steam-client-meta flash windows-games
+games-util/steam-launcher steamruntime
 gnome-base/gnome-control-center -sound
 gnome-base/gnome-core-apps bluetooth
 gnome-base/gnome-settings-daemon short-touchpad-timeout
