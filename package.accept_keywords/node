@@ -1,2 +1,3 @@
 dev-lang/v8
 net-libs/nodejs
+=virtual/python-json-0
