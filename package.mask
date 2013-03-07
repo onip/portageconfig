@@ -1,2 +1,1 @@
-=sys-kernel/gentoo-sources-3.7.9
-=sys-kernel/gentoo-sources-3.7.10
+=app-editors/emacs-24.3_rc*
