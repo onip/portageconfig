@@ -238,6 +238,7 @@ net-libs/libpcap ipv6
 net-libs/neon expat
 net-libs/webkit-gtk coverage doc webgl
 net-libs/xulrunner -crashreporter gconf wifi startup-notification system-sqlite
+net-misc/curl metalink
 net-misc/networkmanager avahi resolvconf dhcpcd
 net-misc/wicd -ncurses
 net-p2p/amule geoip stats
