@@ -34,4 +34,5 @@ dev-tex/*
 ~dev-texlive/texlive-publishers-2012
 ~dev-texlive/texlive-science-2012
 ~dev-texlive/texlive-texinfo-2012
+~dev-texlive/texlive-xetex-2012
 ~media-gfx/pydot-1.0.28
