@@ -21,6 +21,7 @@ dev-python/virtualenv-clone
 dev-python/virtualenvwrapper
 dev-python/xlwt
 sci-libs/scipy
+sci-visualization/gnuplot
 ~app-arch/snappy-1.0.4
 ~dev-cpp/gtkmm-utils-0.4.1
 ~dev-python/PyQt4-4.9.6
