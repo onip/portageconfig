@@ -45,3 +45,5 @@ sci-visualization/gnuplot
 ~sys-libs/timezone-data-2012j
 dev-util/ninja-ide
 ~dev-python/pyinotify-0.9.4
+dev-db/redis
+~dev-libs/jemalloc-3.3.1
