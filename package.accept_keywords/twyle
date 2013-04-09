@@ -1,7 +1,9 @@
 =dev-libs/boost-1.52.0-r6
 =dev-util/boost-build-1.52.0-r1
+app-text/jabref
 app-text/referencer
 dev-db/mongodb
+dev-db/redis
 dev-libs/igraph ~amd64
 dev-python/astng
 dev-python/autopep8
@@ -21,10 +23,12 @@ dev-python/virtualenv
 dev-python/virtualenv-clone
 dev-python/virtualenvwrapper
 dev-python/xlwt
+dev-util/ninja-ide
 sci-libs/scipy
 sci-visualization/gnuplot
 ~app-arch/snappy-1.0.4
 ~dev-cpp/gtkmm-utils-0.4.1
+~dev-libs/jemalloc-3.3.1
 ~dev-python/PyQt4-4.9.6
 ~dev-python/decorator-3.4.0
 ~dev-python/imaging-1.1.7
@@ -33,6 +37,7 @@ sci-visualization/gnuplot
 ~dev-python/pexpect-2.4
 ~dev-python/pygobject-2.28.6
 ~dev-python/pygtk-2.24.0
+~dev-python/pyinotify-0.9.4
 ~dev-python/pyopengl-3.0.2
 ~dev-python/python-dateutil-2.1
 ~dev-python/pytz-2012j
@@ -43,7 +48,3 @@ sci-visualization/gnuplot
 ~dev-python/wxpython-2.8.12.1
 ~dev-util/source-highlight-3.1.7
 ~sys-libs/timezone-data-2012j
-dev-util/ninja-ide
-~dev-python/pyinotify-0.9.4
-dev-db/redis
-~dev-libs/jemalloc-3.3.1
