@@ -24,6 +24,7 @@ app-misc/tracker xps
 app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
 app-office/dia gnome-print
+app-office/libreoffice mysql postgres telepathy
 app-office/libreoffice-l10n offlinehelp templates
 app-portage/eix optimization
 app-portage/layman bazaar git subversion
@@ -48,7 +49,7 @@ dev-cpp/pangomm doc
 dev-db/mongodb mms-agent v8
 dev-db/mysql extraengine embedded
 dev-db/mysql-workbench doc
-dev-db/postgresql-base doc
+dev-db/postgresql-base doc kerberos
 dev-db/postgresql-server doc
 dev-db/sqlite fts3 icu secure-delete doc extensions soundex unlock-notify
 dev-db/sqlite:0 -doc

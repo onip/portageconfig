@@ -12,3 +12,6 @@ app-office/gnumeric
 ~media-gfx/graphite2-1.0.3
 ~sci-mathematics/lpsolve-5.5.2.0
 x11-libs/goffice
+app-office/libreoffice
+~dev-libs/liborcus-0.3.0
+~app-text/libmspub-0.0.5
