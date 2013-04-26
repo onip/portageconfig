@@ -1,2 +1,4 @@
-~app-misc/media-player-info-15
 media-sound/rhythmbox
+~app-misc/media-player-info-15
+~dev-python/beaker-1.6.4
+~dev-python/mako-0.7.3
