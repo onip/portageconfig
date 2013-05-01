@@ -1,2 +1,3 @@
-=app-editors/emacs-24.3_rc*
-=dev-qt/qt-creator-2.7.0_rc
+=app-editors/gvim-7.3.905
+=app-editors/vim-7.3.905
+=app-editors/vim-core-7.3.905
