@@ -1,2 +1,3 @@
 dev-qt/qt-creator
 ~dev-libs/botan-1.10.3
+~media-libs/lcms-1.19
