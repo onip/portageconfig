@@ -305,3 +305,4 @@ x11-plugins/compiz-plugins-extra gconf
 x11-plugins/compiz-plugins-main gconf
 x11-themes/gtk-engines lua
 x11-wm/compiz fuse gconf
+app-mobilephone/obexftp -ruby
