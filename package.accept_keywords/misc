@@ -50,3 +50,4 @@ x11-themes/gtk-engines-nodoka
 ~x11-themes/gtk-engines-murrine-0.98.0
 ~x11-themes/murrine-themes-0.98.0
 ~sys-devel/clang-3.1
+sys-fs/obexfs
