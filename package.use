@@ -61,7 +61,7 @@ dev-java/bsf -python
 dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
 dev-java/icedtea-bin doc examples nsplugin
 dev-java/icedtea-web doc nsplugin
-dev-java/oracle-jdk-bin derby doc examples nsplugin
+dev-java/oracle-jdk-bin derby -doc examples nsplugin
 dev-java/sun-jdk derby examples nsplugin doc
 dev-lang/lua emacs
 dev-lang/mono -moonlight
