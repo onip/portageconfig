@@ -5,6 +5,7 @@ app-text/referencer
 dev-db/mongodb
 dev-db/redis
 dev-libs/igraph ~amd64
+dev-libs/igraph ~amd64
 dev-python/astng
 dev-python/autopep8
 dev-python/flymake
@@ -48,4 +49,5 @@ sci-visualization/gnuplot
 ~dev-python/six-1.2.0
 ~dev-python/wxpython-2.8.12.1
 ~dev-util/source-highlight-3.1.7
+~sci-libs/cxsparse-3.1.1
 ~sys-libs/timezone-data-2012j
