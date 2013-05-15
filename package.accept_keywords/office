@@ -7,7 +7,7 @@ app-office/libreoffice-l10n
 app-office/openoffice-bin
 app-text/wv
 x11-libs/goffice
-~app-text/libmspub-0.0.5
+~app-text/libmspub-0.0.6
 ~app-text/libwpd-0.8.14
 ~app-text/mythes-1.2.1
 ~dev-libs/hyphen-2.8.3
