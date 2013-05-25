@@ -72,7 +72,7 @@ dev-lang/spidermonkey threadsafe
 dev-libs/boost tools expat
 dev-libs/crypto++ sse3
 dev-libs/glib doc
-dev-libs/gmime mono
+dev-libs/gmime -mono
 dev-libs/gobject-introspection doc
 dev-libs/libcdio cddb
 dev-libs/libgcrypt static-libs
@@ -148,7 +148,7 @@ gnome-extra/gnome-power-manager libnotify
 gnome-extra/libgsf thumbnail
 gnome-extra/nautilus-sendto -pidgin
 gnome-extra/nm-applet bluetooth
-mail-client/evolution mono -sound
+mail-client/evolution -mono -sound
 mail-client/mail-notification gmail imap
 media-gfx/blender apidoc blender-game collada contrib cycles doc fftw ode openexr player
 media-gfx/comix rar
