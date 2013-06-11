@@ -5,7 +5,6 @@ app-text/referencer
 dev-db/mongodb
 dev-db/redis
 dev-libs/igraph ~amd64
-dev-libs/igraph ~amd64
 dev-python/astng
 dev-python/autopep8
 dev-python/charade
@@ -40,6 +39,7 @@ sci-visualization/gnuplot
 ~dev-python/notify-python-0.1.1
 ~dev-python/numpy-1.7.0
 ~dev-python/pexpect-2.4
+~dev-python/pillow-2.0.0
 ~dev-python/pygobject-2.28.6
 ~dev-python/pygtk-2.24.0
 ~dev-python/pyinotify-0.9.4
