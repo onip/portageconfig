@@ -231,9 +231,8 @@ net-ftp/proftpd -ncurses noauthunix opensslcrypt shaper ban case -deflate ifsess
 net-im/empathy applet sendto webkit
 net-im/pidgin sasl
 net-im/telepathy-connection-managers irc jabber
+net-irc/hexchat fastscroll libcanberra
 net-irc/weechat lua relay
-net-irc/xchat fastscroll libnotify
-net-irc/xchat hires-icons
 net-libs/farsight2 msn
 net-libs/libpcap ipv6
 net-libs/neon expat
