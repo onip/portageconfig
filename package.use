@@ -4,6 +4,7 @@ app-admin/eselect vim-syntax
 app-arch/p7zip rar
 app-cdr/brasero cdrkit gdl playlist
 app-cdr/cdrdao -gnome
+app-cdr/cuetools extras
 app-cdr/gnomebaker libnotify
 app-cdr/k3b css musepack musicbrainz vcd sndfile
 app-crypt/seahorse applet gedit
@@ -21,6 +22,7 @@ app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -opencl -win
 app-i18n/ibus dconf
 app-misc/screen multiuser
 app-misc/tracker xps
+app-mobilephone/obexftp -ruby
 app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
 app-office/dia gnome-print
@@ -304,4 +306,3 @@ x11-plugins/compiz-plugins-extra gconf
 x11-plugins/compiz-plugins-main gconf
 x11-themes/gtk-engines lua
 x11-wm/compiz fuse gconf
-app-mobilephone/obexftp -ruby
