@@ -8,7 +8,7 @@ app-office/openoffice-bin
 app-text/wv
 x11-libs/goffice
 ~app-text/libmspub-0.0.6
-~app-text/libmwaw-0.1.8
+~app-text/libmwaw-0.1.10
 ~app-text/libodfgen-0.0.2
 ~app-text/libwpd-0.8.14
 ~app-text/mythes-1.2.1
