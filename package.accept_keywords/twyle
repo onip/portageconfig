@@ -37,7 +37,7 @@ sci-visualization/gnuplot
 ~dev-python/decorator-3.4.0
 ~dev-python/imaging-1.1.7
 ~dev-python/notify-python-0.1.1
-~dev-python/numpy-1.7.0
+~dev-python/numpy-1.7.1
 ~dev-python/pexpect-2.4
 ~dev-python/pillow-2.0.0
 ~dev-python/pygobject-2.28.6
