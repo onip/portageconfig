@@ -54,3 +54,4 @@ sci-visualization/gnuplot
 ~dev-util/source-highlight-3.1.7
 ~sci-libs/cxsparse-3.1.1
 ~sys-libs/timezone-data-2012j
+dev-python/twisted*
