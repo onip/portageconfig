@@ -3,4 +3,4 @@ media-gfx/inkscape
 media-libs/sk1libs
 ~app-text/libwpd-0.9.3
 ~app-text/libwpg-0.2.1
-~dev-python/setuptools-0.6.40
+~dev-python/setuptools-0.8
