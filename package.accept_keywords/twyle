@@ -20,6 +20,7 @@ dev-python/pymongo
 dev-python/pysparse
 dev-python/requests
 dev-python/stevedore
+dev-python/twisted*
 dev-python/unittest2
 dev-python/virtualenv
 dev-python/virtualenv-clone
@@ -27,6 +28,7 @@ dev-python/virtualenvwrapper
 dev-python/xlwt
 dev-util/ninja-ide
 net-misc/httpie
+sci-libs/scikits*
 sci-libs/scipy
 sci-visualization/gnuplot
 ~app-arch/snappy-1.0.4
@@ -54,4 +56,3 @@ sci-visualization/gnuplot
 ~dev-util/source-highlight-3.1.7
 ~sci-libs/cxsparse-3.1.1
 ~sys-libs/timezone-data-2012j
-dev-python/twisted*

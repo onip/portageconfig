@@ -258,6 +258,7 @@ sci-electronics/kicad examples doc
 sci-electronics/ng-spice-rework xspice
 sci-libs/hdf5 hlapi -cxx -fortran
 sci-libs/libgeda gd
+sci-libs/scikits* doc
 sci-libs/scipy umfpack
 sci-mathematics/maxima -gcl clisp latex
 sci-mathematics/octave blas fftw gnuplot sparse -doc
