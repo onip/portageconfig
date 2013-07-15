@@ -1,3 +1,4 @@
+app-office/tedia2sql
 dev-python/pydb
 dev-util/cmake
 dev-vcs/bzr
@@ -9,7 +10,7 @@ sys-devel/gdb
 x11-terms/terminator
 ~app-office/dia2code-0.8.5
 ~app-text/yelp-tools-3.2.1
+~dev-python/pycurl-7.19.0
+~dev-python/pygtksourceview-2.10.1
 ~gnome-extra/yelp-xsl-3.2.1
 ~x11-libs/gtksourceview-3.2.3
-app-office/tedia2sql
-~dev-python/pycurl-7.19.0
