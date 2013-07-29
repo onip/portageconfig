@@ -14,7 +14,7 @@ sys-fs/ddrescue
 ~dev-libs/libcdio-paranoia-0.90_p1
 ~media-libs/x264-0.0.20130506
 ~media-sound/cdparanoia-3.10.2
-~media-video/libav-9.7
+~media-video/libav-9.8
 ~media-video/transcode-1.1.7
 ~media-video/x264-encoder-0.0.20130506
 ~virtual/ffmpeg-9
