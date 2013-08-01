@@ -276,6 +276,7 @@ sys-block/gparted ntfs fat
 sys-block/parted device-mapper
 sys-devel/gcc -gtk
 sys-devel/gdb expat
+sys-devel/llvm clang
 sys-fs/ntfsprogs fuse
 sys-fs/udev extras
 sys-fs/udev static-libs
