@@ -1,3 +1,2 @@
-~dev-db/mongodb-2.4.5_rc0
-=dev-qt/qt-creator-2.8.0_rc
 =x11-drivers/nvidia-drivers-325.08
+=x11-drivers/nvidia-drivers-325.15
