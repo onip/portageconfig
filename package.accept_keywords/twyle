@@ -59,3 +59,4 @@ sci-visualization/gnuplot
 ~sci-libs/deap-0.9.1
 dev-python/oct2py
 www-servers/tornado
+dev-python/joblib
