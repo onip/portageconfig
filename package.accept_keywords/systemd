@@ -1,0 +1,8 @@
+~net-fs/samba-3.6.16
+~sys-apps/hwids-20130717
+~sys-apps/kmod-14
+~sys-apps/systemd-206
+~sys-apps/systemd-ui-2
+~sys-fs/udev-206
+~sys-libs/tevent-0.9.19
+~virtual/udev-206
