@@ -91,7 +91,7 @@ dev-php/PEAR-PHP_Shell auto-completion
 dev-php/phpunit -minimal
 dev-python/PyQt4 assistant declarative doc exaples multimedia phonon sql xmlpatterns
 dev-python/dbus-python python_single_target_python2_7
-dev-python/ipython emacs matplotlib mongodb qt4 sqlite
+dev-python/ipython emacs matplotlib mongodb notebook octave qt4 sqlite
 dev-python/matplotlib doc examples excel latex qt4
 dev-python/numpy lapack
 dev-python/pygments doc
