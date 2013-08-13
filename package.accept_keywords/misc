@@ -35,7 +35,6 @@ x11-terms/tilda
 x11-themes/faenza-icon-theme
 x11-themes/gtk-engines-nodoka
 ~app-mobilephone/obex-data-server-0.4.6
-~app-portage/eix-0.22.5
 ~dev-libs/json-c-0.9
 ~dev-python/gst-python-0.10.22
 ~dev-util/fix-la-relink-command-0.1.1
@@ -51,4 +50,3 @@ x11-themes/gtk-engines-nodoka
 ~x11-libs/libva-1.1.0
 ~x11-themes/gtk-engines-murrine-0.98.0
 ~x11-themes/murrine-themes-0.98.0
-~sys-apps/portage-2.1.13.7
