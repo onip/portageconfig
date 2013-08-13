@@ -6,3 +6,4 @@
 ~sys-fs/udev-206
 ~sys-libs/tevent-0.9.19
 ~virtual/udev-206
+~net-misc/rsync-3.0.9
