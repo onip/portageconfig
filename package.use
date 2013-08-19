@@ -1,6 +1,7 @@
 <media-sound/rhythmbox-2.98 -webkit
 app-admin/conky audacious
 app-admin/eselect vim-syntax
+app-admin/eselect-php fpm
 app-arch/p7zip rar
 app-cdr/brasero cdrkit gdl playlist
 app-cdr/cdrdao -gnome
@@ -14,7 +15,7 @@ app-doc/php-docs linguas_en
 app-editors/emacs gconf leim toolkit-scroll-bars xft
 app-editors/gedit-plugins charmap synctex terminal
 app-editors/gvim bash-completion cscope netbeans
-app-editors/vim bash-completion cscope vim-with-x
+app-editors/vim bash-completion cscope lua vim-with-x
 app-editors/vim-core bash-completion
 app-emacs/auctex preview-latex
 app-emacs/emacs-common-gentoo emacs22icons
@@ -67,7 +68,7 @@ dev-java/oracle-jdk-bin derby -doc examples nsplugin
 dev-java/sun-jdk derby examples nsplugin doc
 dev-lang/lua emacs
 dev-lang/mono -moonlight
-dev-lang/php doc embed fastbuild gd apache2 threads bcmath bzip2 calendar crypt ctype curl -curlwrappers discard-path exif ftp gmp hash iconv imap intl json mysql mysqli nls posix readline reflection session simplexml soap sockets spl sqlite ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl postgres xmlrpc pdo
+dev-lang/php doc embed fastbuild fpm gd apache2 threads bcmath bzip2 calendar crypt ctype curl -curlwrappers discard-path exif ftp gmp hash iconv imap intl json mysql mysqli mysqlnd nls posix readline reflection session simplexml soap sockets spl sqlite ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl postgres xmlrpc pdo
 dev-lang/python doc examples sqlite wininst -tk
 dev-lang/ruby doc examples -tk ipv6
 dev-lang/spidermonkey threadsafe
@@ -150,6 +151,7 @@ gnome-extra/gnome-power-manager libnotify
 gnome-extra/libgsf thumbnail
 gnome-extra/nautilus-sendto -pidgin
 gnome-extra/nm-applet bluetooth
+gnome-extra/zeitgeist downloads-monitor telepathy extensions plugins
 mail-client/evolution -mono -sound
 mail-client/mail-notification gmail imap
 media-gfx/blender apidoc blender-game collada contrib cycles doc fftw ode openexr player
@@ -308,4 +310,3 @@ x11-plugins/compiz-plugins-extra gconf
 x11-plugins/compiz-plugins-main gconf
 x11-themes/gtk-engines lua
 x11-wm/compiz fuse gconf
-gnome-extra/zeitgeist downloads-monitor telepathy extensions plugins
