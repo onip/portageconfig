@@ -28,6 +28,7 @@ dev-python/virtualenv
 dev-python/virtualenv-clone
 dev-python/virtualenvwrapper
 dev-python/xlwt
+dev-util/android-sdk-update-manager
 dev-util/ninja-ide
 net-misc/httpie
 sci-libs/scikits*
