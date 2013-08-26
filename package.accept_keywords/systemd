@@ -2,7 +2,7 @@
 ~net-misc/netifrc-0.1
 ~net-misc/rsync-3.0.9
 ~sys-apps/hwids-20130717
-~sys-apps/kmod-14
+~sys-apps/kmod-15
 ~sys-apps/openrc-0.12
 ~sys-apps/systemd-206
 ~sys-apps/systemd-ui-2
