@@ -1,6 +1,7 @@
 ~net-fs/samba-3.6.16
 ~net-misc/netifrc-0.1
 ~net-misc/rsync-3.0.9
+~sys-apps/gentoo-systemd-integration-1
 ~sys-apps/hwids-20130717
 ~sys-apps/kmod-15
 ~sys-apps/openrc-0.12
