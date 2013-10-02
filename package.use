@@ -1,4 +1,5 @@
 <media-sound/rhythmbox-2.98 -webkit
+media-sound/rhythmbox python_single_target_python3_2
 app-admin/conky audacious
 app-admin/eselect vim-syntax
 app-admin/eselect-php fpm

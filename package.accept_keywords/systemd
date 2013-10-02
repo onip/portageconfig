@@ -1,11 +1,12 @@
+=dev-db/mysql-init-scripts-2.0_pre1-r6
 ~net-fs/samba-3.6.16
 ~net-misc/netifrc-0.1
 ~net-misc/rsync-3.0.9
 ~sys-apps/gentoo-systemd-integration-1
-~sys-apps/hwids-20130717
+~sys-apps/hwids-20130915.1
 ~sys-apps/kmod-15
 ~sys-apps/openrc-0.12
-~sys-apps/systemd-206
+~sys-apps/systemd-208
 ~sys-apps/systemd-ui-2
 ~sys-fs/udev-206
 ~sys-libs/tevent-0.9.19
