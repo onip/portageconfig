@@ -3,5 +3,6 @@
 dev-db/mysql-workbench
 ~dev-cpp/ctemplate-1.0
 ~dev-db/mysql-5.1.53
+~dev-db/vsqlite++-0.3.12
 ~dev-libs/antlr-c-3.5
 ~dev-python/paramiko-1.10.1
