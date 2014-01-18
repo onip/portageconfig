@@ -18,3 +18,7 @@ virtual/jre:1.7
 www-servers/tomcat:7
 ~app-admin/eselect-ecj-0.6
 ~dev-java/commons-dbcp-1.4
+~app-admin/eselect-java-0.1.0
+~dev-java/icedtea-web-1.4.1
+~dev-java/java-config-2.2.0
+~sys-apps/baselayout-java-0.1.0

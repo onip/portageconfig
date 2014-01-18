@@ -5,7 +5,7 @@
 ~sys-apps/gentoo-systemd-integration-1
 ~sys-apps/hwids-20130915.1
 ~sys-apps/kmod-15
-~sys-apps/openrc-0.12
+~sys-apps/openrc-0.12.4
 ~sys-apps/systemd-208
 ~sys-apps/systemd-ui-2
 ~sys-fs/udev-206
