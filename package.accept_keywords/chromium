@@ -1,9 +1,5 @@
-=app-arch/bzip2-1.0.6-r1
-www-client/chromium-bin
-www-client/chromium
-~net-print/cups-1.4.8
-~dev-libs/nss-3.12.8
-dev-util/chromium-tools
 dev-lang/v8
-~media-libs/libwebp-0.1.2
-www-client/google-chrome:beta
+dev-util/chromium-tools
+www-client/chromium
+www-client/chromium-bin
+www-client/google-chrome-beta
