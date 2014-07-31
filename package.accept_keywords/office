@@ -7,7 +7,7 @@ app-office/libreoffice-l10n
 app-office/openoffice-bin
 app-text/wv
 x11-libs/goffice
-~app-text/libabw-0.0.1
+~app-text/libabw-0.0.2
 ~app-text/libebook-0.0.2
 ~app-text/libetonyek-0.0.3
 ~app-text/libmspub-0.0.6
@@ -20,7 +20,7 @@ x11-libs/goffice
 ~dev-cpp/libcmis-0.4.1
 ~dev-libs/hyphen-2.8.3
 ~dev-libs/libixion-0.5.0
-~dev-util/mdds-0.10.1
+~dev-util/mdds-0.10.3
 ~gnome-extra/libgsf-1.14.19
 ~media-gfx/graphite2-1.0.3
 ~media-libs/libfreehand-0.0.0

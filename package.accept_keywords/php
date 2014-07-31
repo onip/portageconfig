@@ -1,5 +1,5 @@
 app-doc/php-docs
-dev-lang/php:5.4
+dev-lang/php:5.5
 dev-php/*
 dev-php5/*
 ~app-admin/eselect-php-0.7.1

@@ -1,10 +1,24 @@
 app-admin/eselect-rails
 dev-lang/ruby:1.9
 dev-lang/ruby:2.0
+dev-lang/ruby:2.1
 dev-ruby/*
 virtual/ruby-ffi
+virtual/ruby-ssl
 virtual/ruby-threads
 virtual/rubygems
 www-apache/mod_ruby
 www-apache/passenger
-virtual/ruby-ssl
+~dev-ruby/ruby-cairo-gobject-2.2.0 ~amd64
+~dev-ruby/ruby-clutter-2.2.0 ~amd64
+~dev-ruby/ruby-clutter-gstreamer-2.2.0 ~amd64
+~dev-ruby/ruby-clutter-gtk-2.2.0 ~amd64
+~dev-ruby/ruby-gdk3-2.2.0 ~amd64
+~dev-ruby/ruby-gnome2-2.2.0 ~amd64
+~dev-ruby/ruby-gobject-introspection-2.2.0 ~amd64
+~dev-ruby/ruby-gtk3-2.2.0 ~amd64
+~dev-ruby/ruby-gtksourceview3-2.2.0 ~amd64
+~dev-ruby/ruby-vte3-2.2.0 ~amd64
+~dev-ruby/ruby-webkit-gtk-2.2.0 ~amd64
+~dev-ruby/ruby-webkit-gtk2-2.2.0 ~amd64
+~app-admin/eselect-ruby-20131227

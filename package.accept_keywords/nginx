@@ -1,2 +1,4 @@
 www-servers/nginx
 app-vim/nginx-syntax
+~dev-util/pkgconfig-0.28
+~virtual/pkgconfig-0

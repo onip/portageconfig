@@ -1,3 +1,4 @@
 media-sound/spotify
 ~media-sound/spotify-0.9.1.55 **
 gnome-extra/gnome-integration-spotify
+~virtual/libintl-0

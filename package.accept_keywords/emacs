@@ -3,3 +3,5 @@ app-emacs/*
 app-admin/emacs-updater
 ~virtual/emacs-24
 dev-python/rope*
+~app-admin/eselect-emacs-1.16
+~app-admin/eselect-ctags-1.16

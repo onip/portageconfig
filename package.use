@@ -22,7 +22,7 @@ app-emacs/emacs-common-gentoo emacs22icons
 app-emulation/wine -ldap glut scanner xcomposite fontconfig gphoto2 -opencl -win64 udisks
 app-i18n/ibus dconf
 app-misc/screen multiuser
-app-misc/tracker xps
+app-misc/tracker xps -ffmpeg
 app-mobilephone/obexftp -ruby
 app-office/abiword collab grammar latex math openxml ots plugins thesaurus wordperfect
 app-office/abiword-plugins jabber math ots thesaurus wordperfect
@@ -39,44 +39,34 @@ app-text/ghostscript-gpl djvu
 app-text/gocr -gtk
 app-text/lcdf-typetools kpathsea
 app-text/pdftk nodrm
-app-text/texlive doc dvipdfm extra humanities jadetex latex3 luatex graphics omega pstricks publishers science tex4ht
-app-text/texlive-core doc xetex
+app-text/texlive dvipdfm extra humanities jadetex latex3 luatex graphics omega pstricks publishers science tex4ht
+app-text/texlive-core xetex
 app-text/xdvik emacs
-dev-cpp/atkmm doc
-dev-cpp/cairomm doc
 dev-cpp/ctemplate emacs
-dev-cpp/glibmm doc examples
 dev-cpp/glog gflags
-dev-cpp/gtkmm doc examples
-dev-cpp/pangomm doc
 dev-db/mongodb mms-agent v8
 dev-db/mysql extraengine embedded
-dev-db/mysql-workbench doc
-dev-db/postgresql-base doc kerberos
-dev-db/postgresql-server doc
-dev-db/sqlite fts3 icu secure-delete doc extensions soundex unlock-notify
-dev-db/sqlite:0 -doc
+dev-db/postgresql-base kerberos
+dev-db/sqlite fts3 icu secure-delete extensions soundex unlock-notify
 dev-dotnet/gtk-sharp glade
 dev-games/cegui devil
 dev-java/ant-apache-bsf -python
 dev-java/batik -python
 dev-java/bsf -python
-dev-java/icedtea doc examples nio2 xrender nsplugin npplugin
-dev-java/icedtea-bin doc examples nsplugin
-dev-java/icedtea-web doc nsplugin
+dev-java/icedtea examples nio2 xrender nsplugin npplugin
+dev-java/icedtea-bin examples nsplugin
+dev-java/icedtea-web nsplugin
 dev-java/oracle-jdk-bin derby -doc examples nsplugin
-dev-java/sun-jdk derby examples nsplugin doc
+dev-java/sun-jdk derby examples nsplugin
 dev-lang/lua emacs
 dev-lang/mono -moonlight
-dev-lang/php doc embed fastbuild fpm gd apache2 threads bcmath bzip2 calendar crypt ctype curl -curlwrappers discard-path exif ftp gmp hash iconv imap intl json mysql mysqli mysqlnd nls posix readline reflection session simplexml soap sockets spl sqlite ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl postgres xmlrpc pdo
-dev-lang/python doc examples sqlite wininst -tk
-dev-lang/ruby doc examples -tk ipv6
+dev-lang/php embed fastbuild fpm gd apache2 threads bcmath bzip2 calendar crypt ctype curl -curlwrappers discard-path exif ftp gmp hash iconv imap intl json mysql mysqli mysqlnd nls posix readline reflection session simplexml soap sockets spl sqlite ssl tokenizer tidy truetype unicode wddx xml xmlreader xmlwriter xpm zip zlib ming expat overload xsl postgres xmlrpc pdo
+dev-lang/python examples sqlite wininst -tk
+dev-lang/ruby examples -tk ipv6
 dev-lang/spidermonkey threadsafe
 dev-libs/boost tools expat
 dev-libs/crypto++ sse3
-dev-libs/glib doc
 dev-libs/gmime -mono
-dev-libs/gobject-introspection doc
 dev-libs/libcdio cddb
 dev-libs/libgcrypt static-libs
 dev-libs/libgpg-error static-libs
@@ -90,43 +80,33 @@ dev-perl/PortageXS minimal
 dev-php/PEAR-MDB2 embed mysql mysqli postgres -sqlite
 dev-php/PEAR-PHP_Shell auto-completion
 dev-php/phpunit -minimal
-dev-python/PyQt4 assistant declarative doc exaples multimedia phonon sql xmlpatterns
+dev-python/PyQt4 assistant declarative designer exaples multimedia phonon sql xmlpatterns
 dev-python/dbus-python python_single_target_python2_7
 dev-python/ipython emacs matplotlib mongodb notebook octave qt4 sqlite
-dev-python/matplotlib doc examples excel latex qt4
+dev-python/matplotlib excel latex qt4
 dev-python/numpy lapack
-dev-python/pygments doc
-dev-python/pygobject doc examples
-dev-python/pygoocanvas doc examples
-dev-python/pygtk doc examples
 dev-python/pyxdg python_single_target_python2_7
-dev-qt/qt* accessibility doc private-headers qt3support
-dev-qt/qt-creator autotools bazaar bineditor bookmarks cmake doc examples git mercurial qtscript rss subversion valgrind
+dev-qt/qt* accessibility private-headers qt3support
+dev-qt/qt-creator autotools bazaar bineditor bookmarks cmake examples git mercurial qtscript rss subversion valgrind
 dev-qt/qt3support phonon
 dev-qt/qtdemo declarative multimedia xmlpatterns
 dev-qt/qtgui gtkstyle
 dev-qt/qthelp compat
 dev-qt/qtsql mysql postgres
-dev-ruby/* doc
 dev-ruby/activerecord mysql postgres -sqlite sqlite3
 dev-ruby/eruby vim-syntax
-dev-ruby/wirble -doc
 dev-scheme/guile deprecated regex
-dev-tex/* doc
 dev-tex/latex-beamer examples
-dev-texlive/* doc
 dev-util/anjuta devhelp glade inherit-graph sourceview subversion valgrind
 dev-util/cmake emacs vim-syntax
 dev-util/codeblocks contrib xrc
-dev-util/gtk-doc doc emacs highlight vim
+dev-util/gtk-doc emacs highlight vim
 dev-util/mono-tools -gtkhtml -xulrunner webkit
 dev-util/monodevelop cxx aspnet subversion
 dev-util/monodevelop-database mysql
 dev-util/nvidia-cuda-sdk opencl
-dev-util/nvidia-cuda-toolkit debugger doc eclipse profiler
-dev-util/scons doc
-dev-util/weka doc
-dev-vcs/git cgi cvs bash-completion doc emacs highlight subversion vim-syntax webdav -tk
+dev-util/nvidia-cuda-toolkit debugger eclipse profiler
+dev-vcs/git cgi cvs bash-completion emacs highlight subversion vim-syntax webdav -tk
 dev-vcs/mercurial bash-completion emacs
 dev-vcs/subversion -apache2 -dso -ruby
 games-arcade/smc music
@@ -153,14 +133,14 @@ gnome-extra/nautilus-sendto -pidgin
 gnome-extra/nm-applet bluetooth
 gnome-extra/zeitgeist downloads-monitor telepathy extensions plugins
 gnome-extra/zeitgeist-datasources chromium emacs telepathy vim
-mail-client/evolution -mono -sound
+mail-client/evolution -mono -sound highlight map
 mail-client/mail-notification gmail imap
-media-gfx/blender apidoc blender-game collada contrib cycles doc fftw ode openexr player
+media-gfx/blender blender-game collada contrib cycles fftw ode openexr player
 media-gfx/comix rar
 media-gfx/dcraw gimp
-media-gfx/gimp doc gs webkit xpm
+media-gfx/gimp gs webkit xpm
 media-gfx/graphicsmagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw -imagemagick
-media-gfx/graphviz doc examples
+media-gfx/graphviz examples
 media-gfx/gthumb -cdr gphoto2 http raw slideshow
 media-gfx/gtkam gimp
 media-gfx/imagemagick wmf jbig gs graphviz hdri openexr djvu autotrace fftw
@@ -171,11 +151,10 @@ media-gfx/sane-backends gphoto2 -v4l
 media-gfx/sane-frontends gimp
 media-gfx/xsane gimp ocr
 media-gfx/yafray openexr
-media-libs/clutter doc
-media-libs/clutter-gtk doc examples
-media-libs/cogl doc examples
+media-libs/clutter-gtk examples
+media-libs/cogl examples
 media-libs/fontconfig cleartype
-media-libs/freetype cleartype kpathsea infinality
+media-libs/freetype auto-hinter cleartype kpathsea infinality harfbuzz
 media-libs/gd fontconfig xpm
 media-libs/gegl openexr raw graphviz lua lensfun umfpack
 media-libs/libdvdread css
@@ -213,7 +192,7 @@ media-sound/timidity++ -gtk -X
 media-video/avidemux aften amrnb libsamplerate lame
 media-video/cinelerra css
 media-video/dvdrip subtitles mplayer -xine
-media-video/ffmpeg aacplus amr cdio imlib libass network opencore-amr cpudetection faac faad
+media-video/ffmpeg aacplus amr cdio imlib libass network opencore-amr cpudetection faac faad opus libsoxr openssl quvi x265 ssh
 media-video/gnome-mplayer -ipod
 media-video/kino lame sox
 media-video/libav aacplus amr cdio imlib libass network opencore-amr opus tools cpudetection faac faad
@@ -242,7 +221,7 @@ net-irc/weechat lua relay
 net-libs/farsight2 msn
 net-libs/libpcap ipv6
 net-libs/neon expat
-net-libs/webkit-gtk coverage doc webgl
+net-libs/webkit-gtk coverage webgl
 net-libs/xulrunner -crashreporter gconf wifi startup-notification system-sqlite
 net-misc/curl metalink
 net-misc/networkmanager avahi resolvconf dhcpcd
@@ -258,14 +237,13 @@ sci-electronics/geda gd examples
 sci-electronics/gnucap examples
 sci-electronics/gtkwave examples
 sci-electronics/gwave gnuplot plotutils
-sci-electronics/kicad examples doc
 sci-electronics/ng-spice-rework xspice
+sci-libs/cholmod lapack
 sci-libs/hdf5 hlapi -cxx -fortran
 sci-libs/libgeda gd
-sci-libs/scikits* doc
 sci-libs/scipy umfpack
 sci-mathematics/maxima -gcl clisp latex
-sci-mathematics/octave blas fftw gnuplot sparse -doc
+sci-mathematics/octave blas fftw gnuplot sparse -doc gui
 sci-mathematics/scilab -tk gtk
 sci-visualization/gnuplot -doc emacs examples gd pdf plotutils latex lua thin-splines wxwidgets
 sys-apps/gnome-disk-utility fat
@@ -287,27 +265,23 @@ sys-fs/udev static-libs
 sys-libs/pam pam_console
 sys-power/cpufreqd pmu
 virtual/mysql embedded
-www-apache/mod_ruby doc
-www-apache/passenger doc -ruby_targets_ruby18
+virtual/udev gudev
+www-apache/passenger -ruby_targets_ruby18
 www-client/chromium system-sqlite system-v8
 www-client/firefox mozbranding xforms mozdevelop wifi startup-notification system-sqlite
 www-client/links javascript
 www-client/opera -qt-static
 www-plugins/gecko-mediaplayer -gnome
 www-plugins/lightspark nsplugin
-www-servers/tomcat doc examples
 x11-base/xorg-server aiglx xvfb
-x11-libs/cairo doc -glitz pdf cleartype
-x11-libs/gdk-pixbuf doc
-x11-libs/goocanvas doc examples
-x11-libs/gtk+ doc examples vim-syntax
+x11-libs/cairo -glitz pdf cleartype
+x11-libs/gtk+ cloudprint examples vim-syntax
 x11-libs/libXft cleartype
 x11-libs/libwnck startup-notification
-x11-libs/pango doc
 x11-libs/vte glade
-x11-libs/wxGTK doc
 x11-misc/xscreensaver -gnome
 x11-plugins/compiz-plugins-extra gconf
 x11-plugins/compiz-plugins-main gconf
 x11-themes/gtk-engines lua
 x11-wm/compiz fuse gconf
+dev-libs/elfutils static-libs

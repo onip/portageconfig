@@ -32,17 +32,14 @@ x11-terms/tilda
 x11-themes/faenza-icon-theme
 x11-themes/gtk-engines-nodoka
 ~app-mobilephone/obex-data-server-0.4.6
-~dev-lang/python-exec-0.9999 **
-~dev-lang/python-exec-2.0
 ~dev-libs/json-c-0.9
 ~dev-python/gst-python-0.10.22
-~dev-python/python-exec-10000.2
 ~dev-util/fix-la-relink-command-0.1.1
 ~gnome-extra/nautilus-share-0.7.3
 ~media-gfx/graphviz-2.26.3
 ~media-libs/alsa-lib-1.0.26
 ~media-libs/freeimage-3.15.4
-~media-libs/freetype-2.4.12
+~media-libs/freetype-2.5.3
 ~media-plugins/alsa-plugins-1.0.26
 ~media-sound/alsa-utils-1.0.26
 ~sys-boot/syslinux-4.06
@@ -52,3 +49,5 @@ x11-themes/gtk-engines-nodoka
 ~x11-libs/libva-1.1.0
 ~x11-themes/gtk-engines-murrine-0.98.0
 ~x11-themes/murrine-themes-0.98.0
+~media-libs/mesa-9.2.5
+~x11-libs/libvdpau-0.8

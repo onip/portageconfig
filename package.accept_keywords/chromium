@@ -3,3 +3,6 @@ dev-util/chromium-tools
 www-client/chromium
 www-client/chromium-bin
 www-client/google-chrome-beta
+~dev-libs/libgcrypt-1.5.3
+~dev-libs/libgcrypt-1.6.1
+~dev-libs/libgpg-error-1.12
